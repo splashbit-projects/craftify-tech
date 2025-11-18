@@ -1,0 +1,16 @@
+@use '@/shared/lib/styles/mixin.scss' as *;
+
+.footer {
+  padding: 60px 0;
+  background: #040213;
+  &__copy {
+    p {
+      color: rgba(128, 128, 128, 0.5);
+      text-align: center;
+      font-size: 12px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "homeHero": {
+    "label": "[Expert-Driven]",
+    "title": "Cybersecurity",
+    "subtitle": "Integration for Business",
+    "text": "Craftify Tech connects your company with the precise skills, technologies, and frameworks needed to solve complex cybersecurity challenges — from architecture to operations.",
+    "explore-solutions": "Explore Solutions",
+    "request-consultation": "Request Consultation"
+  },
+  "footer": {
+    "copyright": "All rights cybersecured."
+  },
+  "header": {
+    "team": "Team",
+    "the-integrator-model": "The Integrator Model",
+    "expertise-and-services": "Expertise and Services",
+    "industries": "Industries",
+    "about-us": "About Us",
+    "insights-and-news": "Insights & News",
+    "contact": "Contact",
+    "request-consultation": "Request Consultation"
+  }
+}

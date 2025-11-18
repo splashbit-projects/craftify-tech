@@ -1,0 +1,23 @@
+@use '@/shared/lib/styles/mixin.scss' as *;
+
+.button {
+  color: #fff;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 8px;
+  &.primary {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    background: #ff2f66;
+  }
+  &.secondary {
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    background: #040213;
+  }
+}
