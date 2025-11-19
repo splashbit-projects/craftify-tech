@@ -15,9 +15,17 @@
   &.primary {
     border: 1px solid rgba(255, 255, 255, 0.1);
     background: #ff2f66;
+    &:hover {
+      background: #ff5683;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
   }
   &.secondary {
     border: 1px solid rgba(255, 255, 255, 0.12);
     background: #040213;
+    &:hover {
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      background: #0a052f;
+    }
   }
 }
