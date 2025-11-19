@@ -2,7 +2,7 @@ import { getTranslations } from 'next-intl/server';
 
 import { CtaBlock } from '@/shared/ui/components';
 
-import { Experts, OurApproach, TeamDetails, TeamHero } from './components/';
+import { ExpertiseScales, Experts, HowWeChoose, OurApproach, TeamDetails, TeamHero } from './components/';
 
 export default async function Home() {
   const t = await getTranslations('teampage');
@@ -20,7 +20,10 @@ export default async function Home() {
       <TeamDetails />
       <OurApproach />
       <Experts />
+      <HowWeChoose />
+      <ExpertiseScales />
       <CtaBlock {...ctaBlockData} />
+      <div style={{ height: '200px' }}></div>
     </>
   );
 }

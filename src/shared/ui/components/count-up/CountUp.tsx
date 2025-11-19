@@ -53,9 +53,9 @@ export const CountUp = ({
 
   return (
     <span ref={elementRef}>
-      {prefix}
+      <span>{prefix}</span>
       {count}
-      {suffix}
+      <span>{suffix}</span>
     </span>
   );
 };

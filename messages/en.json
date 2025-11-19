@@ -97,6 +97,16 @@
     "subtitle": "A cybersecurity command unit built around your needs.",
     "button": "Learn More"
   },
+  "expertiseScales": {
+    "title": "Expertise That Scales",
+    "subtitle": "Results That Prove It",
+    "itemText1": "active specialists in our network",
+    "prefix2": "Over",
+    "itemText2": "specialized cybersecurity domains covered",
+    "prefix3": "under",
+    "suffix3": "hours",
+    "itemText3": "Average expert response time"
+  },
   "teamExperts": {
     "itemTitle1": "Cloud Security <br/>Architect",
     "itemText1": "Designs secure cloud infrastructures, implements Zero Trust principles, and ensures compliance with enterprise resilience standards.",
@@ -109,9 +119,21 @@
     "itemTitle5": "DevSecOps <br/>Security Engineer",
     "itemText5": "Integrates security into CI/CD pipelines, maintaining code integrity and continuous protection.",
     "title": "Experts Who Power Our Projects",
-    "button": "Contact",
-    "resultsTitle": "Result",
-    "resultsText": "Сomplete security capability without building an internal department. "
+    "button": "Contact"
+  },
+  "howWeChoose": {
+    "title1": "Experience",
+    "text1": "Minimum 7 years in cybersecurity operations, architecture, or threat response.",
+    "title2": "Certifications",
+    "text2": "OSCP, CISSP, AWS Security Pro, ISO Auditor, or equivalent.",
+    "title3": "Vetting",
+    "text3": "3-stage review — technical test, peer validation, project performance check.",
+    "title4": "Quality Control",
+    "text4": "Continuous monitoring by senior architects.",
+    "title5": "Scalability",
+    "text5": "Network grows only with fully vetted, domain-matched experts.",
+    "title": "How We<br/>Choose Our Experts",
+    "subtitle": "Only Proven Specialists Make the Cut"
   },
   "teamApproach": {
     "itemTitle1": "One contract",

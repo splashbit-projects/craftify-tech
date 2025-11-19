@@ -1,0 +1,90 @@
+@use '@/shared/lib/styles/mixin.scss' as *;
+
+.expertise_scales {
+  &__heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    align-self: stretch;
+    border-right: 1px solid rgba(4, 2, 19, 0.08);
+    border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    padding: 64px;
+    @include tablet {
+      padding: 32px 12px;
+    }
+    .title {
+      color: $primary;
+      font-size: 42px;
+      font-weight: 500;
+      line-height: 110%;
+      text-align: center;
+      @include tablet {
+        font-size: 32px;
+      }
+    }
+    .subtitle {
+      color: $accent;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: normal;
+      text-align: center;
+    }
+  }
+  &__content {
+    display: flex;
+    align-items: stretch;
+    @include tablet {
+      flex-direction: column;
+    }
+    .item {
+      display: flex;
+      padding: 48px;
+      flex-direction: column;
+      justify-content: center;
+      align-items: flex-start;
+      gap: 10px;
+      flex: 1 0 0;
+      align-self: stretch;
+      border-right: 1px solid rgba(4, 2, 19, 0.08);
+      border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+      border-left: 1px solid rgba(4, 2, 19, 0.08);
+      background: #fff;
+      @include tablet {
+        padding: 24px;
+      }
+      &:nth-child(2),
+      &:nth-child(3) {
+        > span {
+          display: flex;
+          align-items: flex-end;
+          gap: 4px;
+          > span {
+            color: $primary;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 110%; /* 15.4px */
+            display: block;
+            margin-bottom: 2px;
+          }
+        }
+      }
+      > span {
+        color: #040213;
+        font-size: 42px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1; /* 46.2px */
+      }
+      p {
+        color: $light;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+      }
+    }
+  }
+}

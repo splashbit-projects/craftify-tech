@@ -1,0 +1,99 @@
+@use '@/shared/lib/styles/mixin.scss' as *;
+
+.how_we_choose {
+  &__content {
+    display: flex;
+    align-items: stretch;
+    border-right: 1px solid rgba(4, 2, 19, 0.08);
+    border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    @include tablet {
+      flex-direction: column;
+    }
+  }
+  &__col_1 {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 32px;
+    padding: 64px;
+    @include tablet {
+      width: 100%;
+      border-right: none;
+      border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+      padding: 32px 12px;
+    }
+    .heading {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 12px;
+      align-self: stretch;
+      .title {
+        color: $primary;
+        font-size: 42px;
+        font-weight: 500;
+        line-height: 110%;
+        text-align: left;
+        @include tablet {
+          font-size: 32px;
+        }
+        span {
+          color: $accent;
+        }
+      }
+      .subtitle {
+        color: $accent;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: normal;
+        text-align: left;
+      }
+    }
+    .item {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      align-self: stretch;
+      background: #fff;
+      @include tablet {
+      }
+      h3 {
+        color: $primary;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 110%; /* 26.4px */
+      }
+      p {
+        color: $light;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: normal;
+        text-align: left;
+      }
+    }
+  }
+  &__col_2 {
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    background-image: url('/images/team/experts/photosBack.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    @include tablet {
+      padding: 150px 24px;
+      width: 100%;
+      border-left: none;
+      img{
+        width: 100%;
+        height: auto;
+      }
+    }
+  }
+}
