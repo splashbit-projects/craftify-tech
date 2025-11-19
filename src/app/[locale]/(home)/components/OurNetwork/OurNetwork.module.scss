@@ -1,0 +1,121 @@
+@use '@/shared/lib/styles/mixin.scss' as *;
+
+.our_approach {
+  &__content {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    align-items: center;
+    gap: 64px;
+    border-right: 1px solid rgba(4, 2, 19, 0.08);
+    border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    padding: 64px;
+    @include tablet {
+      flex-direction: column;
+      padding: 64px 12px;
+    }
+    .title {
+      color: $primary;
+      font-size: 42px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 110%;
+      text-align: center;
+      @include tablet {
+        font-size: 32px;
+      }
+      span {
+        display: block;
+        color: $accent;
+      }
+    }
+  }
+
+  .marquee {
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    position: relative;
+    &:before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: -2px;
+      width: 183px;
+      height: 100%;
+      background: linear-gradient(270deg, rgba(255, 255, 255, 0) 0%, #fff 100%);
+      z-index: 1;
+      @include tablet {
+        width: 160px;
+      }
+    }
+    &:after {
+      content: '';
+      position: absolute;
+      top: 0;
+      right: -2px;
+      width: 183px;
+      height: 100%;
+      background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #fff 100%);
+      @include tablet {
+        width: 160px;
+      }
+    }
+  }
+
+  .row1,
+  .row2,
+  .row3 {
+    display: flex;
+    gap: 16px;
+    width: max-content;
+  }
+
+  .row1 {
+    animation: marquee-right 100s linear infinite;
+  }
+
+  .row2 {
+    animation: marquee-left 100s linear infinite;
+  }
+
+  .row3 {
+    animation: marquee-right 100s linear infinite;
+  }
+
+  .item {
+    color: $primary;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    display: flex;
+    padding: 5px 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: rgba(4, 2, 19, 0.03);
+  }
+}
+
+@keyframes marquee-left {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes marquee-right {
+  0% {
+    transform: translateX(-50%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}

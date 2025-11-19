@@ -1,0 +1,156 @@
+@use '@/shared/lib/styles/mixin.scss' as *;
+
+.tech {
+  &__content {
+    display: flex;
+    align-items: center;
+    border-right: 1px solid rgba(4, 2, 19, 0.08);
+    border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    @include tablet {
+      flex-direction: column;
+    }
+  }
+  &__col_1 {
+    width: 50%;
+
+    padding: 64px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 16px;
+    @include tablet {
+      padding: 64px 12px;
+      width: 100%;
+      border-right: none;
+      border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    }
+    .title {
+      color: $primary;
+      font-size: 42px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 110%;
+      text-align: left;
+      @include tablet {
+        font-size: 32px;
+      }
+    }
+    .text {
+      color: $light;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      text-align: left;
+      margin-bottom: 16px;
+    }
+  }
+  &__col_2 {
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    width: 50%;
+    padding: 64px;
+    @include tablet {
+      width: 100%;
+      padding: 64px 12px;
+      position: relative;
+      border-left: none;
+    }
+    svg {
+      width: 100%;
+    }
+  }
+  &__items {
+    border-right: 1px solid rgba(4, 2, 19, 0.08);
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    background: #f7f7f8;
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+    padding: 24px;
+    @include tablet {
+      padding: 24px;
+      flex-direction: column;
+    }
+  }
+  &__item {
+    width: calc(50% - 12px);
+    display: flex;
+    padding: 48px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    border: 1px solid rgba(4, 2, 19, 0.08);
+    background: #fff;
+    position: relative;
+    @include tablet {
+      width: 100%;
+      padding: 24px;
+    }
+    .top_left {
+      position: absolute;
+      top: 0;
+      left: 0;
+      object-fit: contain;
+      object-position: top left;
+      width: 20px;
+      height: 20px;
+    }
+    .top_right {
+      position: absolute;
+      top: 0;
+      right: 0;
+      object-fit: contain;
+      object-position: top right;
+      width: 20px;
+      height: 20px;
+    }
+    .bottom_left {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      object-fit: contain;
+      object-position: bottom left;
+      width: 20px;
+      height: 20px;
+    }
+    .bottom_right {
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      object-fit: contain;
+      object-position: bottom right;
+      width: 20px;
+      height: 20px;
+    }
+    h3 {
+      margin-top: 14px;
+      color: $primary;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 110%; /* 26.4px */
+    }
+    p {
+      color: $light;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+    }
+  }
+}
+
+.graph {
+  width: 100%;
+  height: auto;
+
+  &__path {
+    transition: stroke-dashoffset 2s ease-out;
+  }
+
+  &__path_active {
+    stroke-dashoffset: 0;
+  }
+}

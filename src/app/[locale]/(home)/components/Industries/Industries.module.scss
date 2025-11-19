@@ -1,0 +1,85 @@
+@use '@/shared/lib/styles/mixin.scss' as *;
+
+.industries {
+  &__content {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    align-items: center;
+    gap: 64px;
+    border-right: 1px solid rgba(4, 2, 19, 0.08);
+    border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    padding: 64px;
+    @include tablet {
+      flex-direction: column;
+      padding: 64px 12px;
+    }
+    .title {
+      color: $primary;
+      font-size: 42px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 110%;
+      text-align: center;
+      @include tablet {
+        font-size: 32px;
+      }
+      span {
+        display: block;
+        color: $accent;
+      }
+    }
+  }
+  &__list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: stretch;
+    flex-wrap: wrap;
+    @include tablet {
+      flex-direction: column;
+    }
+    .item {
+      width: 33.33%;
+
+      display: flex;
+      padding: 48px;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 10px;
+      align-self: stretch;
+      position: relative;
+      border-right: 1px solid rgba(4, 2, 19, 0.08);
+      background: #fff;
+      border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+      @include tablet {
+        width: 100%;
+        padding: 24px;
+      }
+      &:hover {
+        background: #fafafa;
+      }
+      &:last-child {
+        border-right: none;
+      }
+      p {
+        color: $primary;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 110%; /* 26.4px */
+      }
+      img {
+        height: 100%;
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: auto;
+        height: 100%;
+        object-fit: contain;
+        object-position: right;
+      }
+    }
+  }
+}

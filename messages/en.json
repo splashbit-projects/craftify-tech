@@ -1,4 +1,14 @@
 {
+  "about": {
+    "title": "About Craftify Tech",
+    "subtitle": "Craftify Tech delivers specialized cybersecurity expertise – accessible, measurable, and tailored. We unite top specialists to defend, optimize, and evolve your digital security environment.",
+    "itemText1": "Global network of 40+ experts",
+    "itemTitle2": "Mission",
+    "itemText2": "Deliver targeted, actionable security solutions that adapt to evolving threats and align with your operational and governance needs.",
+    "button": "Learn More",
+    "itemTitle3": "Proven Security",
+    "itemText3": "Proven track record in enterprise-grade security integration"
+  },
   "homeHero": {
     "label": "[Expert-Driven]",
     "title": "Cybersecurity",
@@ -7,7 +17,104 @@
     "explore-solutions": "Explore Solutions",
     "request-consultation": "Request Consultation"
   },
+  "industries": {
+    "item1": "Finance & <br/>Fintech",
+    "item2": "Healthcare & Life <br/>Sciences",
+    "item3": "Manufacturing & <br/>Industrial",
+    "item4": "Retail & <br/>E-commerce",
+    "item5": "SaaS & <br/>Technology",
+    "title": "Industries We Secure",
+    "button": "Learn How We Help"
+  },
+  "ourApproach": {
+    "itemTitle1": "Assess",
+    "itemText1": "We evaluate your infrastructure, workflows, and governance posture to pinpoint risk and complexity.",
+    "itemTitle2": "Assemble",
+    "itemText2": "We bring in domain specialists – architects, engineers, analysts – matched precisely to your challenge.",
+    "itemTitle3": "Integrate",
+    "itemText3": "We align people, processes, and technology into a unified, resilient security architecture.",
+    "itemTitle4": "Validate",
+    "itemText4": "We measure outcomes against recognized frameworks to ensure lasting compliance and performance.",
+    "title": "Our Approach",
+    "text": "We don’t sell predefined packages — we assemble the exact expertise your case demands."
+  },
+  "ourExpertise": {
+    "itemTitle1": "Network & Cloud Security",
+    "itemText1": "Ensure secure, uninterrupted operations across hybrid and cloud infrastructures.",
+    "itemTitle2": "Identity & Access Management",
+    "itemText2": "Gain full control over user access, authentication, and permissions across your systems.",
+    "itemTitle3": "Threat Detection & Incident Response",
+    "itemText3": "Detect incidents early, respond fast, and minimize operational disruption.",
+    "itemTitle4": "Security Architecture & Operations",
+    "itemText4": "Build a unified security structure that adapts as your business evolves.",
+    "itemTitle5": "Risk & Compliance Management",
+    "itemText5": "Meet and maintain alignment with regulatory frameworks – without slowing operations.",
+    "itemTitle6": "Endpoint Protection & Infrastructure Defense",
+    "itemText6": "Keep every device, network layer, and workload shielded from modern threats.",
+    "title": "Our Expertise",
+    "text": "Comprehensive coverage across all key cybersecurity domains."
+  },
+  "ourNetwork": {
+    "item1": "SOC Analytics",
+    "item2": "Threat Hunting",
+    "item3": "Incident Response",
+    "item4": "Forensics",
+    "item5": "Penetration Testing",
+    "item6": "Red Team Operations",
+    "item7": "Cloud Security",
+    "item8": "DevSecOps",
+    "item9": "Security Engineering",
+    "item10": "GRC & Compliance",
+    "item11": "Privacy & Risk",
+    "item12": "Security Architecture",
+    "item13": "Network Security",
+    "item14": "Awareness & Training",
+    "item15": "Security Program Management",
+    "title": "Expertise Within ",
+    "subtitle": "Our Network"
+  },
+  "secure": {
+    "title": "Secure Your Enterprise Infrastructure, Talk to a Cyber Expert Today",
+    "request-consultation": "Request Free Consultation"
+  },
+  "tech": {
+    "title": "Craftify Tech",
+    "text": "Practical expertise that strengthens resilience, compliance, and operational continuity.",
+    "explore-solutions": "Explore Solutions"
+  },
+  "theChallenge": {
+    "title": "The Challenge",
+    "subtitle": "Cybersecurity isn’t just about defense — it’s about coordination. That’s where most systems fail.",
+    "text": "Fragmented systems, overwhelmed teams, and constantly shifting regulations leave critical gaps exposed. Even strong internal departments can’t cover every domain or adapt fast enough.",
+    "subtitle2": "Where businesses struggle most",
+    "item-1": "Limited internal cybersecurity capacity",
+    "item-2": "Disconnected tools and data silos",
+    "item-3": "Escalating compliance pressure",
+    "item-4": "Absence of niche expertise when it matters most"
+  },
+  "ctaBlock": {
+    "title": "Not a vendor",
+    "subtitle": "A cybersecurity command unit built around your needs.",
+    "button": "Learn More"
+  },
   "footer": {
+    "subtitle": "Where Cybersecurity Expertise Becomes Architecture.",
+    "registered-address": "Registered Address:",
+    "email": "Have a question? Ask our experts at ",
+    "solutions": "Solutions",
+    "the-integrator-model": "The Integrator Model",
+    "expertise-and-services": "Expertise and Services",
+    "industries": "Industries",
+    "company": "Company",
+    "team": "Team",
+    "about-us": "About Us",
+    "insights-and-news": "Insights & News",
+    "contact": "Contact",
+    "legal": "Legal",
+    "terms-and-conditions": "Terms and Conditions",
+    "privacy-policy": "Privacy Policy",
+    "cookie-policy": "Cookie Policy",
+    "refund-policy": "Refund Policy",
     "copyright": "All rights cybersecured."
   },
   "header": {

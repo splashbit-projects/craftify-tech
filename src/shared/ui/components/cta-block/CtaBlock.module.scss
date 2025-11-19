@@ -1,0 +1,96 @@
+@use '@/shared/lib/styles/mixin.scss' as *;
+
+.cta_block {
+  &__content {
+    border-right: 1px solid rgba(4, 2, 19, 0.08);
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    background-color: #ff2f66;
+    padding: 64px 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+    background-image: url('/images/WorldMap.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    @include tablet {
+      padding: 24px;
+      align-items: center;
+    }
+    .top_left {
+      position: absolute;
+      top: 8px;
+      left: 8px;
+      object-fit: contain;
+      object-position: top left;
+      width: 20px;
+      height: 20px;
+    }
+    .top_right {
+      position: absolute;
+      top: 8px;
+      right: 8px;
+      object-fit: contain;
+      object-position: top right;
+      width: 20px;
+      height: 20px;
+    }
+    .bottom_left {
+      position: absolute;
+      bottom: 8px;
+      left: 8px;
+      object-fit: contain;
+      object-position: bottom left;
+      width: 20px;
+      height: 20px;
+    }
+    .bottom_right {
+      position: absolute;
+      bottom: 8px;
+      right: 8px;
+      object-fit: contain;
+      object-position: bottom right;
+      width: 20px;
+      height: 20px;
+    }
+    h2 {
+      color: #fff;
+      font-size: 42px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 110%;
+      @include tablet {
+        font-size: 32px;
+        text-align: center;
+      }
+    }
+    p {
+      color: #fff;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      margin-bottom: 22px;
+      @include tablet {
+        text-align: center;
+      }
+    }
+    a {
+      color: $primary;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+      border-radius: 8px;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      background: #fff;
+      display: flex;
+      padding: 10px;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+    }
+  }
+}
