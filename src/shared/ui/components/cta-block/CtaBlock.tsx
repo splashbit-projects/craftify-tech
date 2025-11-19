@@ -3,19 +3,29 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 import { motion } from 'framer-motion';
-import { useTranslations } from 'next-intl';
 
 import { fadeInUp } from '@/shared/lib/helpers/animations';
 
 import styles from './CtaBlock.module.scss';
 
-export const CtaBlock = () => {
-  const t = useTranslations('ctaBlock');
-
+export const CtaBlock = ({
+  title,
+  subtitle,
+  button,
+  backgroundImage,
+}: {
+  title: string;
+  subtitle: string;
+  button: string;
+  backgroundImage: string;
+}) => {
   return (
     <section className={styles.cta_block}>
       <div className={'_container'}>
-        <div className={styles.cta_block__content}>
+        <div
+          className={styles.cta_block__content}
+          style={{ backgroundImage: `url(${backgroundImage})` }}
+        >
           <Image
             src="/images/topLeftWhite.svg"
             alt="top left white corner"
@@ -51,7 +61,7 @@ export const CtaBlock = () => {
             variants={fadeInUp}
             className={styles.title}
           >
-            {t('title', { fallback: 'Not a vendor' })}
+            {title}
           </motion.h2>
           <motion.p
             initial="hidden"
@@ -60,10 +70,10 @@ export const CtaBlock = () => {
             variants={fadeInUp}
             className={styles.subtitle}
           >
-            {t('subtitle', { fallback: 'A cybersecurity command unit built around your needs.' })}
+            {subtitle}
           </motion.p>
           <Link href="#" className={styles.button}>
-            {t('button', { fallback: 'Learn More' })}
+            {button}
           </Link>
         </div>
       </div>

@@ -1,3 +1,5 @@
+import { getTranslations } from 'next-intl/server';
+
 import { CtaBlock } from '@/shared/ui/components';
 
 import {
@@ -12,14 +14,23 @@ import {
   TheChallenge,
 } from './components';
 
-export default function Home() {
+export default async function Home() {
+  const t = await getTranslations('homepage');
+
+  const ctaBlockData = {
+    title: t('title', { fallback: 'Not a vendor' }),
+    subtitle: t('subtitle', { fallback: 'A cybersecurity command unit built around your needs.' }),
+    button: t('button', { fallback: 'Learn More' }),
+    backgroundImage: '/images/WorldMap.svg',
+  };
+
   return (
     <>
       <HomeHero />
       <TheChallenge />
       <OurApproach />
 
-      <CtaBlock />
+      <CtaBlock {...ctaBlockData} />
       <OurExpertise />
       <Tech />
       <OurNetwork />
