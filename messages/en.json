@@ -97,6 +97,59 @@
     "subtitle": "A cybersecurity command unit built around your needs.",
     "button": "Learn More"
   },
+  "teamExperts": {
+    "itemTitle1": "Cloud Security <br/>Architect",
+    "itemText1": "Designs secure cloud infrastructures, implements Zero Trust principles, and ensures compliance with enterprise resilience standards.",
+    "itemTitle2": "Incident <br/>Response Lead",
+    "itemText2": "Coordinates containment, eradication, and recovery during critical incidents with minimal operational disruption.",
+    "itemTitle3": "GRC & <br/>Compliance Lead",
+    "itemText3": "Implements ISO, PCI, and GDPR frameworks, ensuring measurable governance and audit readiness.",
+    "itemTitle4": "Red <br/>Team Lead",
+    "itemText4": "Conducts adversary simulations and penetration testing to expose and mitigate critical vulnerabilities.",
+    "itemTitle5": "DevSecOps <br/>Security Engineer",
+    "itemText5": "Integrates security into CI/CD pipelines, maintaining code integrity and continuous protection.",
+    "title": "Experts Who Power Our Projects",
+    "button": "Contact",
+    "resultsTitle": "Result",
+    "resultsText": "Сomplete security capability without building an internal department. "
+  },
+  "teamApproach": {
+    "itemTitle1": "One contract",
+    "itemText1": "Full operational control and unified reporting",
+    "itemTitle2": "Matched expertise",
+    "itemText2": "Every task handled by the right certified specialist",
+    "itemTitle3": "Scalable structure",
+    "itemText3": "Add or replace experts within days",
+    "itemTitle4": "Accountable delivery",
+    "itemText4": "Oversight by senior architects or vCISOs",
+    "title": "Our Approach",
+    "subtitle": "Most organizations cannot maintain full in-house cybersecurity coverage.",
+    "text": "Craftify Tech builds and manages dedicated expert teams for every security <br/>domain – led, coordinated, and quality-controlled by our core management unit.",
+    "resultsTitle": "Result",
+    "resultsText": "Сomplete security capability without building an internal department. "
+  },
+  "teamDetails": {
+    "title1": "Fragmented protection",
+    "text1": "Gaps between tools, teams, and processes.",
+    "title2": "Delayed response",
+    "text2": "Incidents escalate before detection.",
+    "title3": "Compliance risk",
+    "text3": "Frameworks evolve faster than coverage",
+    "title4": "Burnout and turnover",
+    "text4": "One overloaded expert can’t sustain enterprise resilience.",
+    "title": "of Companies Hire One IT Person to “Handle Security.”",
+    "subtitle": "Here’s Why It Fails.",
+    "text": "Modern cybersecurity spans 12+ specialized domains.<br/>No single person can manage network defense, DevSecOps, <br/>incident response, compliance, and AI/data security — all at once."
+  },
+  "teamHero": {
+    "title": "Expertise for",
+    "subtitle": "Every Cybersecurity Function"
+  },
+  "teampage": {
+    "title": "Not a vendor",
+    "subtitle": "A cybersecurity command unit built around your needs.",
+    "button": "Learn More"
+  },
   "footer": {
     "subtitle": "Where Cybersecurity Expertise Becomes Architecture.",
     "registered-address": "Registered Address:",

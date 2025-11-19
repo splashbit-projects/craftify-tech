@@ -1,0 +1,97 @@
+@use '@/shared/lib/styles/mixin.scss' as *;
+
+.team_details {
+  &__content {
+    display: flex;
+    align-items: stretch;
+    border-right: 1px solid rgba(4, 2, 19, 0.08);
+    border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    @include tablet {
+      flex-direction: column;
+    }
+  }
+  &__col_1 {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    @include tablet {
+      width: 100%;
+      border-right: none;
+      border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    }
+    .item {
+      display: flex;
+      padding: 48px;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 10px;
+      align-self: stretch;
+      border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+      background: #fff;
+      @include tablet {
+        padding: 24px;
+      }
+      h3 {
+        color: $primary;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 110%; /* 26.4px */
+      }
+      p {
+        color: $light;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: normal;
+        text-align: left;
+      }
+    }
+  }
+  &__col_2 {
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    width: 50%;
+    padding: 64px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 12px;
+    @include tablet {
+      width: 100%;
+      position: relative;
+      border-left: none;
+      padding: 32px 12px;
+    }
+    .title {
+      color: $primary;
+      font-size: 42px;
+      font-weight: 500;
+      line-height: 110%;
+      text-align: left;
+      @include tablet {
+        font-size: 32px;
+      }
+      span {
+        color: $accent;
+      }
+    }
+    .subtitle {
+      color: $accent;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: normal;
+      text-align: left;
+      margin-bottom: 20px;
+    }
+    .text {
+      color: $light;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: normal;
+      text-align: left;
+    }
+  }
+}

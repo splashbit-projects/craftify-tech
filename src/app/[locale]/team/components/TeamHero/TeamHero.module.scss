@@ -1,0 +1,86 @@
+@use '@/shared/lib/styles/mixin.scss' as *;
+
+.team_hero {
+  &__content {
+    display: flex;
+    align-items: stretch;
+    border-right: 1px solid rgba(4, 2, 19, 0.08);
+    border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    @include tablet {
+      flex-direction: column;
+    }
+  }
+  &__col_1 {
+    width: 50%;
+
+    padding: 256px 64px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 16px;
+    @include tablet {
+      padding: 64px 12px;
+      width: 100%;
+      border-right: none;
+      border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    }
+    .title {
+      color: $primary;
+      font-size: 42px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 110%;
+      text-align: left;
+      @include tablet {
+        font-size: 32px;
+      }
+      span {
+        color: $accent;
+        display: block;
+      }
+    }
+  }
+  &__col_2 {
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    width: 50%;
+    padding: 0;
+    overflow: hidden;
+    //padding: 24px 24px 0 24px;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    @include tablet {
+      width: 100%;
+      position: relative;
+      border-left: none;
+    }
+    &::before {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 150px;
+      background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #fff 80%);
+      //backdrop-filter: blur(5px);
+      z-index: 1;
+    }
+    >div{
+      width: 100%;
+      height: 100%;
+    }
+    img {
+      width: 100%;
+      height: 100%;
+      display: block;
+      object-fit: contain;
+      object-position: bottom center;
+      position: relative;
+      z-index: 0;
+      margin-top: auto;
+      margin-left: -5px;
+    }
+  }
+}

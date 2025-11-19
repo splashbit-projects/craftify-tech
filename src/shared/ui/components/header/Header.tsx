@@ -37,7 +37,7 @@ export const Header = () => {
           </button>
 
           <nav className={styles.header__menu}>
-            <Link href="#">{t('team', { fallback: 'Team' })}</Link>
+            <Link href="/team">{t('team', { fallback: 'Team' })}</Link>
             <Link href="#">{t('the-integrator-model', { fallback: 'The Integrator Model' })}</Link>
             <Link href="#">
               {t('expertise-and-services', { fallback: 'Expertise and Services' })}
@@ -56,7 +56,7 @@ export const Header = () => {
       </div>
       <div className={`${styles.header__mobile_menu} ${isMobileMenuOpen ? styles.open : ''}`}>
         <nav>
-          <Link href="#">{t('team', { fallback: 'Team' })}</Link>
+          <Link href="/team">{t('team', { fallback: 'Team' })}</Link>
           <Link href="#">{t('the-integrator-model', { fallback: 'The Integrator Model' })}</Link>
           <Link href="#">
             {t('expertise-and-services', { fallback: 'Expertise and Services' })}
