@@ -1,0 +1,68 @@
+@use '@/shared/lib/styles/mixin.scss' as *;
+
+.integrator_hero {
+  &__heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    border-right: 1px solid rgba(4, 2, 19, 0.08);
+    border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    padding: 64px;
+    @include tablet {
+      padding: 64px 12px;
+    }
+    h1 {
+      color: $primary;
+      font-size: 42px;
+      font-weight: 500;
+      line-height: 110%;
+      text-align: center;
+      max-width: 900px;
+      @include tablet {
+        font-size: 32px;
+        max-width: 100%;
+      }
+      span {
+        color: $accent;
+        display: block;
+      }
+    }
+  }
+  &__content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0;
+    padding: 20px 48px;
+    border-right: 1px solid rgba(4, 2, 19, 0.08);
+    border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    background-image: url('/images/integrator/heroBG.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    @include tablet {
+      padding: 32px 12px;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background-image: url('/images/integrator/heroBG-mob.png');
+    }
+    .dt {
+      display: block;
+      @include tablet {
+        display: none;
+      }
+    }
+    .mobile {
+      display: none;
+      width: 100%;
+      height: auto;
+      @include tablet {
+        display: block;
+      }
+    }
+  }
+}

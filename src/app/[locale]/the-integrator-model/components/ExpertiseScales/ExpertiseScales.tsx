@@ -5,11 +5,12 @@ import { useTranslations } from 'next-intl';
 
 import { fadeInUp } from '@/shared/lib/helpers/animations';
 import { CountUp } from '@/shared/ui/components/count-up/CountUp';
+import { Button } from '@/shared/ui/kit/button/Button';
 
 import styles from './ExpertiseScales.module.scss';
 
 export const ExpertiseScales = () => {
-  const t = useTranslations('expertiseScales');
+  const t = useTranslations('expertiseScalesIntegrator');
 
   return (
     <section className={styles.expertise_scales}>
@@ -65,6 +66,11 @@ export const ExpertiseScales = () => {
                 fallback: 'Average expert response time',
               })}
             </p>
+          </div>
+          <div className={styles.button}>
+            <Button variant="primary" url="#" type="link">
+              {t('button', { fallback: 'Meet the Team' })}
+            </Button>
           </div>
         </div>
       </div>

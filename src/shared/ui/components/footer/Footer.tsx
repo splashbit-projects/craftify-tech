@@ -47,7 +47,7 @@ export const Footer = () => {
               <h3 className={styles.title}>{t('solutions', { fallback: 'Solutions' })}</h3>
               <ul>
                 <li>
-                  <Link href="#">
+                  <Link href="/the-integrator-model">
                     {t('the-integrator-model', { fallback: 'The Integrator Model' })}
                   </Link>
                 </li>

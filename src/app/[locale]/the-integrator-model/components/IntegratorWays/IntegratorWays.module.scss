@@ -1,0 +1,134 @@
+@use '@/shared/lib/styles/mixin.scss' as *;
+
+.integrator_ways {
+  &__heading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    border-right: 1px solid rgba(4, 2, 19, 0.08);
+    border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    padding: 64px;
+    @include tablet {
+      padding: 24px;
+    }
+    .title {
+      color: $primary;
+      font-size: 42px;
+      font-weight: 500;
+      line-height: 110%;
+      text-align: center;
+      @include tablet {
+        font-size: 32px;
+      }
+    }
+    .subtitle {
+      color: $light;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: normal;
+      text-align: center;
+    }
+  }
+  &__content {
+    background-image: url('/images/integrator/ways-bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 64px;
+    display: flex;
+    align-items: center;
+    column-gap: 32px;
+    row-gap: 64px;
+    align-self: stretch;
+    flex-wrap: wrap;
+    border-right: 1px solid rgba(4, 2, 19, 0.08);
+    border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    @include tablet {
+      padding: 24px;
+      row-gap: 24px;
+    }
+  }
+  &__col {
+    display: flex;
+    width: calc(50% - 16px);
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    border: 1px solid rgba(4, 2, 19, 0.08);
+    background: #fff;
+    padding: 64px;
+    @include tablet {
+      width: 100%;
+      padding: 24px;
+    }
+    h3 {
+      color: $primary;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 110%; /* 26.4px */
+      span {
+        color: $accent;
+      }
+    }
+    ul {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 12px;
+      align-self: stretch;
+      li {
+        color: $light;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        position: relative;
+        padding-left: 16px;
+        &:last-child {
+          margin-bottom: 0;
+          padding-bottom: 0;
+          border-bottom: none;
+          &:after {
+            display: none;
+          }
+        }
+        &::before {
+          content: '';
+          position: absolute;
+          left: 0;
+          top: 50%;
+          transform: translateY(-50%);
+          width: 9px;
+          height: 8px;
+          background: url('/images/integrator/listItem.svg') no-repeat center center;
+          background-size: contain;
+          background-position: center center;
+        }
+        &:after {
+          content: '';
+          position: absolute;
+          left: 0;
+          bottom: -6px;
+          width: 150px;
+          height: 1px;
+          background: rgba(4, 2, 19, 0.12);
+        }
+        b {
+          display: block;
+          color: $primary;
+        }
+      }
+    }
+  }
+  &__button {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}

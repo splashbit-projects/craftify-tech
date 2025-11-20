@@ -1,0 +1,124 @@
+@use '@/shared/lib/styles/mixin.scss' as *;
+
+.integrator_operate {
+  &__content {
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+    padding: 64px;
+    border-right: 1px solid rgba(4, 2, 19, 0.08);
+    //border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    background: #fff9fa;
+    @include tablet {
+      padding: 64px 12px;
+    }
+  }
+  &__results {
+    border-right: 1px solid rgba(4, 2, 19, 0.08);
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    background: #fff;
+    display: flex;
+    padding: 48px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    @include tablet {
+      padding: 24px;
+    }
+    h3 {
+      color: $primary;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 110%;
+    }
+    p {
+      color: $light;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+    }
+  }
+  &__heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+  }
+  &__title {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 60%;
+    @include tablet {
+      width: 100%;
+      align-items: center;
+      text-align: center;
+    }
+    h2 {
+      color: $primary;
+      font-size: 42px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 110%;
+      @include tablet {
+        font-size: 32px;
+      }
+    }
+    .subtitle {
+      color: $accent;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      margin-bottom: 12px;
+    }
+    .text {
+      color: $light;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+    }
+  }
+  &__items {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0;
+    @include tablet {
+      flex-direction: column;
+    }
+  }
+  &__item {
+    width: 50%;
+    display: flex;
+    padding: 48px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    border: 1px solid rgba(4, 2, 19, 0.08);
+    background: #fff;
+    position: relative;
+    @include tablet {
+      width: 100%;
+      padding: 24px;
+    }
+    h3 {
+      color: $primary;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 110%; /* 26.4px */
+    }
+    p {
+      color: $light;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+    }
+  }
+}

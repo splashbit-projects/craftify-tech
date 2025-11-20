@@ -172,6 +172,113 @@
     "subtitle": "A cybersecurity command unit built around your needs.",
     "button": "Learn More"
   },
+  "expertiseScalesIntegrator": {
+    "title": "Expertise That Scales",
+    "subtitle": "Results That Prove It",
+    "itemText1": "active specialists in our network",
+    "prefix2": "Over",
+    "itemText2": "specialized cybersecurity domains covered",
+    "prefix3": "under",
+    "suffix3": "hours",
+    "itemText3": "Average expert response time",
+    "button": "Meet the Team"
+  },
+  "integratorAssurance": {
+    "itemTitle1": "Proven expertise",
+    "itemText1": "Every specialist we engage has a minimum of seven years of hands-on experience across their domain.",
+    "itemTitle2": "Certified baseline",
+    "itemText2": "Experts meet strict certification requirements (OSCP, CISSP, AWS Security Pro, ISO Auditor, or equivalent).",
+    "itemTitle3": "Rigorous vetting",
+    "itemText3": "Each expert passes a three-stage review: technical validation, peer assessment, and project performance check.",
+    "itemTitle4": "Continuous oversight",
+    "itemText4": "Senior architects continuously monitor delivery quality to ensure standards remain high across all engagements.",
+    "title": "Assurance & Standards",
+    "text": "We ensure every engagement meets the highest standards from day one:"
+  },
+  "integratorExpect": {
+    "title1": "Dedicated contact",
+    "text1": "One person coordinates planning, progress, and reporting.",
+    "title2": "Rapid onboarding",
+    "text2": "Scoping call, prioritized tasks, and required access outlined.",
+    "title3": "Fast expert access",
+    "text3": "Critical advisory delivered within 24–48 hours.",
+    "title": "What to Expect",
+    "step1": "Dedicated contact",
+    "step2": "Rapid onboarding",
+    "step3": "Fast expert access"
+  },
+  "integratorExperts": {
+    "expertName": "John Doe",
+    "expertTitle": "Cyber Threat Analyst",
+    "title": "Our Experts Are Ready to Consult You Right Away",
+    "subtitle": "Schedule a session or emergency advisory call within 24 hours for pressing security needs: SOC assessment, incident response, or architecture review.",
+    "button": "Request Expert Assistance"
+  },
+  "integratorHero": {
+    "title1": "Integrator Model",
+    "title2": "Multiple Experts, Single Accountability, Proven Results",
+    "button": "Proven Results"
+  },
+  "integratorInPractice": {
+    "itemTitle1": "Mission Definition",
+    "itemText1": "We define your security goals and KPIs based on your operational context.",
+    "itemTitle2": "Team Assembling",
+    "itemText2": "Certified specialists are assigned per domain to cover every critical area.",
+    "itemTitle3": "One Channel Delivery",
+    "itemText3": "A single delivery manager coordinates all activities and reporting.",
+    "itemTitle4": "Review and Optimization",
+    "itemText4": "Results are measured against KPIs and used to improve your next steps.",
+    "title": "How the Integrator Model Works in Practice",
+    "text": "Other solutions leave gaps. We cover every domain with one tailored team.",
+    "resultsTitle": "The outcome?",
+    "resultsText": "Enterprise cybersecurity, measurable results, zero in-house overhead"
+  },
+  "integratorOperate": {
+    "itemTitle1": "Coordination unit",
+    "itemText1": "Senior architects and delivery leads oversee project scope, timelines, and quality.",
+    "itemTitle2": "Expert network",
+    "itemText2": "Verified specialists across all cybersecurity domains engaged per project scope.",
+    "itemTitle3": "Operational delivery",
+    "itemText3": "Each engagement runs under defined SLAs, with integrations and runbooks ensuring continuity.",
+    "itemTitle4": "Governance & reporting",
+    "itemText4": "Every activity documented with evidence, progress checkpoints, and audit-ready summaries.",
+    "title": "What We Operate"
+  },
+  "integratorSecond": {
+    "title": "Struggling to turn cybersecurity spending into real resilience?",
+    "subtitle": "The Integrator Model achieves enterprise-grade protection through structured, accountable delivery. ",
+    "subtitle2": "That’s how we do it – through the Integrator Model",
+    "item-1-title": "Single accountability",
+    "item-1-text": "One contract, one delivery lead, unified reporting.",
+    "item-2-title": "Specialists on demand",
+    "item-2-text": "Certified experts assigned per scope and sector.",
+    "item-3-title": "Measured outcomes",
+    "item-3-text": "Each engagement tied to KPIs and governance checks."
+  },
+  "integratorWays": {
+    "title": "Two Delivery Ways",
+    "subtitle": "Craftify Tech operates under two delivery models to match your needs.",
+    "col1Title": "Project Engagements",
+    "col1Subtitle": "(One-Time)",
+    "col1Item1": "Outcome-focused: audits, pentests, designs, simulations, assessments",
+    "col1Item2": "Scoped deliverables with KPIs and acceptance window",
+    "col1Item3": "Ideal for defined results: hardened systems, validated controls, or audit evidence",
+    "col2Title": "Managed Services",
+    "col2Subtitle": "(Ongoing)",
+    "col12tem1": "Continuous operations, monitoring, or advisory under monthly agreement",
+    "col2Item2": "Continuous operations, monitoring, or advisory under monthly agreement",
+    "col3Item3": "Continuous operations, monitoring, or advisory under monthly agreement",
+    "button": "Check Services"
+  },
+  "integratorWhy": {
+    "title1": "Faster execution",
+    "text1": "Expert teams deployed within days, not months.",
+    "title2": "Reduced risk",
+    "text2": "Single point of accountability eliminates gaps and miscommunication.",
+    "title3": "Transparent outcomes",
+    "text3": "Every engagement tied to measurable KPIs and governance checkpoints.",
+    "title": "Why?"
+  },
   "footer": {
     "subtitle": "Where Cybersecurity Expertise Becomes Architecture.",
     "registered-address": "Registered Address:",

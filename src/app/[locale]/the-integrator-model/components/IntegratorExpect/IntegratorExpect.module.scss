@@ -1,0 +1,136 @@
+@use '@/shared/lib/styles/mixin.scss' as *;
+
+.integrator_expect {
+  &__content {
+    display: flex;
+    align-items: stretch;
+    border-right: 1px solid rgba(4, 2, 19, 0.08);
+    border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    @include tablet {
+      flex-direction: column;
+    }
+  }
+  &__col_1 {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 32px;
+    padding: 64px;
+    @include tablet {
+      width: 100%;
+      border-right: none;
+      border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+      padding: 32px 12px;
+    }
+    .heading {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 12px;
+      align-self: stretch;
+      .title {
+        color: $primary;
+        font-size: 42px;
+        font-weight: 500;
+        line-height: 110%;
+        text-align: left;
+        @include tablet {
+          font-size: 32px;
+        }
+        span {
+          color: $accent;
+        }
+      }
+      .subtitle {
+        color: $accent;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: normal;
+        text-align: left;
+      }
+    }
+    .item {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      align-self: stretch;
+      background: #fff;
+      @include tablet {
+      }
+      h3 {
+        color: $primary;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 110%; /* 26.4px */
+      }
+      p {
+        color: $light;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: normal;
+        text-align: left;
+      }
+    }
+  }
+  &__col_2 {
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    padding: 64px;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    @include tablet {
+      padding: 64px 24px;
+      width: 100%;
+      border-left: none;
+    }
+
+    .steps {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 4px;
+      @include tablet {
+        transform: translateX(10px);
+      }
+      .stepLine1 {
+        display: block;
+      }
+      .stepLine2 {
+        display: block;
+      }
+      .step {
+        display: flex;
+        padding: 12px;
+        align-items: center;
+        gap: 10px;
+        border-radius: 16px;
+        border: 1px solid rgba(4, 2, 19, 0.1);
+        background: #f7f7f8;
+        color: #040213;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        position: relative;
+        &:first-child {
+          transform: translateX(-40px);
+        }
+        &:nth-child(3) {
+          transform: translateX(20px);
+        }
+        &:last-child{
+          transform: translateX(-40px);
+        }
+        img {
+          border-radius: 50%;
+          box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+        }
+      }
+    }
+  }
+}
