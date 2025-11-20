@@ -11,7 +11,7 @@ export default async function Home() {
     title: t('title', { fallback: 'Not a vendor' }),
     subtitle: t('subtitle', { fallback: 'A cybersecurity command unit built around your needs.' }),
     button: t('button', { fallback: 'Learn More' }),
-    backgroundImage: '/images/shields.svg',
+    backgroundImage: '/images/team/shields.svg',
   };
 
   return (
