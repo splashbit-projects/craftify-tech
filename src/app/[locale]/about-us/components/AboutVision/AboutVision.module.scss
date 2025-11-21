@@ -1,0 +1,136 @@
+@use '@/shared/lib/styles/mixin.scss' as *;
+
+.about_vision {
+  &__content {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    border-right: 1px solid rgba(4, 2, 19, 0.08);
+    border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    @include tablet {
+      flex-direction: column-reverse;
+    }
+  }
+  &__col_1 {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 32px;
+    padding: 86px;
+    background-image: url('/images/team/experts/photosBack.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    @include tablet {
+      width: 100%;
+      border-right: none;
+      border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+      padding: 68px 24px;
+    }
+    > img {
+      width: 100%;
+      height: auto;
+    }
+  }
+  &__col_2 {
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 64px;
+    gap: 32px;
+    @include tablet {
+      width: 100%;
+      border-left: none;
+      padding: 32px 12px;
+    }
+    .top {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: flex-start;
+      gap: 16px;
+      h2 {
+        color: $primary;
+        font-size: 42px;
+        font-weight: 500;
+        line-height: 110%;
+        text-align: left;
+        @include tablet {
+          font-size: 32px;
+        }
+      }
+      p {
+        color: $light;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: normal;
+        text-align: left;
+      }
+    }
+    .divider {
+      width: 100%;
+      height: 1px;
+      background: rgba(4, 2, 19, 0.12);
+    }
+    .bottom {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 24px;
+      align-self: stretch;
+      h3 {
+        color: $primary;
+        font-size: 24px;
+        font-weight: 500;
+        line-height: 110%;
+        text-align: left;
+        @include tablet {
+        }
+      }
+      ul {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 6px;
+        align-self: stretch;
+        li {
+          color: $light;
+          font-size: 14px;
+          font-style: normal;
+          font-weight: 400;
+          line-height: normal;
+          position: relative;
+          padding-left: 16px;
+          &:last-child {
+            margin-bottom: 0;
+            padding-bottom: 0;
+            border-bottom: none;
+            &:after {
+              display: none;
+            }
+          }
+          &::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 9px;
+            height: 8px;
+            background: url('/images/integrator/listItem.svg') no-repeat center center;
+            background-size: contain;
+            background-position: center center;
+          }
+        }
+      }
+    }
+  }
+}

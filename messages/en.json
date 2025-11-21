@@ -119,6 +119,18 @@
     "title": "Pricing Philosophy",
     "text": "Craftify Tech rates reflect the value of structured delivery, expert coordination, and measurable results – not just hours or headcount. <br/>Every engagement ensures that enterprise cybersecurity work is executed efficiently, with accountability and clarity."
   },
+  "aboutSecurity": {
+    "title": "Security Projects Fail Without Structure",
+    "text1": "Most enterprises hire multiple vendors or rely on internal teams that cannot cover every domain. The result: gaps, duplicated efforts, missed deadlines, and unaccountable outcomes.",
+    "text2": "Craftity Labs was founded to fix this, providing a single point of control and fully coordinated, cross-domain security delivery.Craftity Labs was founded to fix this, providing a single point of control and fully coordinated, cross-domain security delivery.",
+    "button": "Check Our Approach",
+    "item1": "multiple vendors",
+    "item2": "duplicate work",
+    "item3": "missed deadlines",
+    "info1": "Craftity Labs",
+    "info2": "Single Control",
+    "info3": "Coordinated Domains"
+  },
   "aboutUsHero": {
     "title": "Cybersecurity project integrator ",
     "subtitle": "Connecting Businesses with Proven Experts",
@@ -127,6 +139,14 @@
     "text3": "Incident Response",
     "text4": "Pentester",
     "button": "Request Assistance"
+  },
+  "aboutVision": {
+    "title": "Our Vision",
+    "text": "Enterprise cybersecurity will only get more complex. Threats evolve fast, and companies cannot rely on isolated teams or static controls. Our approach ensures organizations stay ahead through coordinated, measurable, and scalable security capabilities. ",
+    "title2": "Our fundamental principles",
+    "item1Text": "Cross-domain coverage for every security layer",
+    "item2Text": "Agile delivery without building large in-house teams",
+    "item3Text": "Measurable outcomes tied to KPIs and governance"
   },
   "aboutWho": {
     "title": "Who We Are",
