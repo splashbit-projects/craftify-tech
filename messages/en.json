@@ -97,6 +97,42 @@
     "subtitle": "A cybersecurity command unit built around your needs.",
     "button": "Learn More"
   },
+  "aboutExperts": {
+    "expertName": "John Doe",
+    "expertTitle": "Cyber Threat Analyst",
+    "title": "Our Experts Are",
+    "subtitle": "Ready to Consult You Right Away",
+    "text": "Schedule a session or emergency advisory call within 24 hours for pressing security needs: SOC assessment, incident response, or architecture review.",
+    "button": "Request Expert Assistance"
+  },
+  "aboutPricing": {
+    "itemTitle1": "Outcome focused",
+    "itemText1": "Full process management to achieve defined goals.",
+    "itemTitle2": "Top-tier expertise",
+    "itemText2": "Senior specialists coordinated under one oversight.",
+    "itemTitle3": "Extra Governance",
+    "itemText3": "Projects quality-checked by experienced architects.",
+    "itemTitle4": "Clear coordination",
+    "itemText4": "Centralized management reduces miscommunication.",
+    "itemTitle5": "Full Compliance",
+    "itemText5": "EU-aligned processes ensure accountability and clarity.",
+    "title": "Pricing Philosophy",
+    "text": "Craftify Tech rates reflect the value of structured delivery, expert coordination, and measurable results – not just hours or headcount. <br/>Every engagement ensures that enterprise cybersecurity work is executed efficiently, with accountability and clarity."
+  },
+  "aboutUsHero": {
+    "title": "Cybersecurity project integrator ",
+    "subtitle": "Connecting Businesses with Proven Experts",
+    "text1": "SOC Expert",
+    "text2": "Cloud Security",
+    "text3": "Incident Response",
+    "text4": "Pentester",
+    "button": "Request Assistance"
+  },
+  "aboutWho": {
+    "title": "Who We Are",
+    "subtitle": "Craftity Labs is a cybersecurity integrator with deep operational expertise, delivering enterprise-grade security by orchestrating vetted specialists across multiple domains.",
+    "button": "Check Services"
+  },
   "expertiseScales": {
     "title": "Expertise That Scales",
     "subtitle": "Results That Prove It",

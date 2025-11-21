@@ -68,7 +68,7 @@ export const Footer = () => {
                   <Link href="/team">{t('team', { fallback: 'Team' })}</Link>
                 </li>
                 <li>
-                  <Link href="#">{t('about-us', { fallback: 'About Us' })}</Link>
+                  <Link href="/about-us">{t('about-us', { fallback: 'About Us' })}</Link>
                 </li>
                 <li>
                   <Link href="#">{t('insights-and-news', { fallback: 'Insights & News' })}</Link>

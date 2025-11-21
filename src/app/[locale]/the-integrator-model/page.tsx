@@ -11,7 +11,7 @@ import {
   IntegratorWhy,
 } from './components';
 
-export default async function Home() {
+export default async function TheIntegratorModelPage() {
   return (
     <>
       <IntegratorHero />

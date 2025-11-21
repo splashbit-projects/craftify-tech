@@ -4,7 +4,7 @@ import { CtaBlock } from '@/shared/ui/components';
 
 import { ExpertiseScales, Experts, HowWeChoose, OurApproach, TeamDetails, TeamHero } from './components/';
 
-export default async function Home() {
+export default async function TeamPage() {
   const t = await getTranslations('teampage');
 
   const ctaBlockData = {

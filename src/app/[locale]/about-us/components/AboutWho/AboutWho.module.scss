@@ -1,0 +1,70 @@
+@use '@/shared/lib/styles/mixin.scss' as *;
+
+.about_who {
+  &__content {
+    display: flex;
+    align-items: stretch;
+    border-right: 1px solid rgba(4, 2, 19, 0.08);
+    border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    @include tablet {
+      flex-direction: column-reverse;
+    }
+  }
+  &__col_1 {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 32px;
+    @include tablet {
+      width: 100%;
+      border-right: none;
+      border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    }
+    .leftImage {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+  }
+  &__col_2 {
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 64px;
+    gap: 16px;
+    @include tablet {
+      width: 100%;
+      border-left: none;
+      padding: 24px;
+    }
+    .title {
+      color: $primary;
+      font-size: 42px;
+      font-weight: 500;
+      line-height: 110%;
+      text-align: left;
+      @include tablet {
+        font-size: 32px;
+      }
+      span {
+        color: $accent;
+      }
+    }
+    .subtitle {
+      color: $light;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: normal;
+      text-align: left;
+      margin-bottom: 16px;
+    }
+  }
+}

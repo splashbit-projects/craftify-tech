@@ -43,7 +43,7 @@ export const Header = () => {
               {t('expertise-and-services', { fallback: 'Expertise and Services' })}
             </Link>
             <Link href="#">{t('industries', { fallback: 'Industries' })}</Link>
-            <Link href="#">{t('about-us', { fallback: 'About Us' })}</Link>
+            <Link href="/about-us">{t('about-us', { fallback: 'About Us' })}</Link>
             <Link href="#">{t('insights-and-news', { fallback: 'Insights & News' })}</Link>
             <Link href="#">{t('contact', { fallback: 'Contact' })}</Link>
           </nav>
@@ -62,7 +62,7 @@ export const Header = () => {
             {t('expertise-and-services', { fallback: 'Expertise and Services' })}
           </Link>
           <Link href="#">{t('industries', { fallback: 'Industries' })}</Link>
-          <Link href="#">{t('about-us', { fallback: 'About Us' })}</Link>
+          <Link href="/about-us">{t('about-us', { fallback: 'About Us' })}</Link>
           <Link href="#">{t('insights-and-news', { fallback: 'Insights & News' })}</Link>
           <Link href="#">{t('contact', { fallback: 'Contact' })}</Link>
         </nav>
