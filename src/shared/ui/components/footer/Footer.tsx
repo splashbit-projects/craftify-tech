@@ -57,7 +57,7 @@ export const Footer = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link href="#">{t('industries', { fallback: 'Industries' })}</Link>
+                  <Link href="/industries">{t('industries', { fallback: 'Industries' })}</Link>
                 </li>
               </ul>
             </div>
@@ -71,7 +71,7 @@ export const Footer = () => {
                   <Link href="/about-us">{t('about-us', { fallback: 'About Us' })}</Link>
                 </li>
                 <li>
-                  <Link href="#">{t('insights-and-news', { fallback: 'Insights & News' })}</Link>
+                  <Link href="/insights">{t('insights-and-news', { fallback: 'Insights & News' })}</Link>
                 </li>
                 <li>
                   <Link href="#">{t('contact', { fallback: 'Contact' })}</Link>

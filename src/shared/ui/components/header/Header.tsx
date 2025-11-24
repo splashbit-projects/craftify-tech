@@ -42,9 +42,9 @@ export const Header = () => {
             <Link href="/expertise-and-services">
               {t('expertise-and-services', { fallback: 'Expertise and Services' })}
             </Link>
-            <Link href="#">{t('industries', { fallback: 'Industries' })}</Link>
+            <Link href="/industries">{t('industries', { fallback: 'Industries' })}</Link>
             <Link href="/about-us">{t('about-us', { fallback: 'About Us' })}</Link>
-            <Link href="#">{t('insights-and-news', { fallback: 'Insights & News' })}</Link>
+            <Link href="/insights">{t('insights-and-news', { fallback: 'Insights & News' })}</Link>
             <Link href="#">{t('contact', { fallback: 'Contact' })}</Link>
           </nav>
           <div className={styles.header__contact}>
@@ -61,9 +61,9 @@ export const Header = () => {
           <Link href="/expertise-and-services">
             {t('expertise-and-services', { fallback: 'Expertise and Services' })}
           </Link>
-          <Link href="#">{t('industries', { fallback: 'Industries' })}</Link>
+          <Link href="/industries">{t('industries', { fallback: 'Industries' })}</Link>
           <Link href="/about-us">{t('about-us', { fallback: 'About Us' })}</Link>
-          <Link href="#">{t('insights-and-news', { fallback: 'Insights & News' })}</Link>
+          <Link href="/insights">{t('insights-and-news', { fallback: 'Insights & News' })}</Link>
           <Link href="#">{t('contact', { fallback: 'Contact' })}</Link>
         </nav>
         <div className={styles.header__mobile_menu_contact}>

@@ -197,6 +197,79 @@
   "servicesLoop": {
     "title": "Our Services"
   },
+  "industriesDetails": {
+    "itemTitle1": "Mission Definition",
+    "itemRisks1": "Financial institutions face constant attempts at data theft, transaction manipulation, and ransomware targeting high-value information.",
+    "itemWhatYouGet1": "Protected financial processes, continuous transaction integrity, and secure customer data managed under full compliance.",
+    "itemTitle2": "Insurance and Legal",
+    "itemRisks2": "Sensitive client information and contractual data make these industries prime targets for leaks, insider breaches, and unauthorised access.",
+    "itemWhatYouGet2": "Encrypted data storage, reliable client confidentiality, and optimised digital workflows for regulated environments.",
+    "itemTitle3": "E-Commerce and Retail",
+    "itemRisks3": "Payment systems and customer databases are vulnerable to phishing, fraud, and large-scale credential leaks.",
+    "itemWhatYouGet3": "Secured online transactions, safeguarded customer data, and stable digital infrastructure ready for growth and seasonal load peaks.",
+    "itemTitle4": "Telecom and Technology Providers",
+    "itemRisks4": "Network breaches, service interruptions, and data interception that can compromise millions of users simultaneously.",
+    "itemWhatYouGet4": "Hardened infrastructure, protected data traffic, and stable system uptime for uninterrupted service performance.",
+    "itemTitle5": "Crypto, iGaming, and Online Platforms",
+    "itemRisks5": "Frequent high-intensity cyberattacks, bot activity, and unauthorised data extraction targeting platforms with global user access.",
+    "itemWhatYouGet5": "Reinforced platform architecture, protected user environments, and constant system oversight to prevent operational risks.",
+    "itemTitle6": "Small and Medium Businesses",
+    "itemRisks6": "Limited in-house IT protection makes SMBs vulnerable to malware, ransomware, and data breaches.",
+    "itemWhatYouGet6": "Scalable protection, optimised IT performance, and cost-effective cybersecurity built for growing operations.",
+    "risks": "Risks",
+    "whatYouGet": "What You Get"
+  },
+  "industriesExperts": {
+    "expertName": "John Doe",
+    "expertTitle": "Cyber Threat Analyst",
+    "title": "Our Experts Are Ready to Consult You Right Away",
+    "subtitle": "Schedule a session or emergency advisory call within 24 hours for pressing security needs: SOC assessment, incident response, or architecture review.",
+    "button": "Request Expert Assistance"
+  },
+  "industriesHero": {
+    "title": "Proven <br/>Cybersecurity",
+    "subtitle": "Solutions For Every Industry"
+  },
+  "industriesOperate": {
+    "title": "It’s Up to You How to Operate",
+    "subtitle": "But neglecting cybersecurity leads to",
+    "col1Item1Title": "Loss of customers",
+    "col1Item1": "trust disappears when data protection fails.",
+    "col1Item2Title": "Operational disruption",
+    "col1Item2": "downtime and halted workflows damage productivity.",
+    "col1Item3Title": "Legal exposure",
+    "col1Item3": "non-compliance results in penalties and investigations.",
+    "col2Item1Title": "Financial loss",
+    "col12tem1": "recovery costs and system rebuilding drain resources.",
+    "col2Item2Title": "Brand damage",
+    "col2Item2": "reputation takes years to rebuild after a breach.",
+    "col2Item3Title": "Competitive decline",
+    "col3Item3": "weakened credibility and lost market position."
+  },
+  "industriesSlows": {
+    "title": "We Prevent What Slows You Down"
+  },
+  "insightsExperts": {
+    "expertName": "John Doe",
+    "expertTitle": "Cyber Threat Analyst",
+    "title": "Our Experts Are Ready to Consult You Right Away",
+    "subtitle": "Schedule a session or emergency advisory call within 24 hours for pressing security needs: SOC assessment, incident response, or architecture review.",
+    "button": "Request Expert Assistance"
+  },
+  "insightsHero": {
+    "featuredTitle": "Cybersecurity Outlook 2026 Preparing for the Age of Autonomous Threats",
+    "featuredText": "Discover what 2026 holds for cybersecurity — from AI-driven attacks to autonomous defenses — and how businesses can stay ahead in the age of intelligent threats.",
+    "featuredUrl": "/insights/cybersecurity-outlook-2026",
+    "otherArticle1Title": "Cybersecurity Report Q2 2025 Defending Against Autonomy and Deception",
+    "otherArticle1Url": "/insights/cybersecurity-report-q2-2025",
+    "otherArticle2Title": "Cybersecurity Report Q1 2025: Resilience in the Age of Intelligent Threats",
+    "otherArticle2Url": "/insights/cybersecurity-report-q1-2025",
+    "otherArticle3Title": "Global Cybersecurity Report 2024 Navigating a New Era of Digital Threats",
+    "otherArticle3Url": "/insights/global-cybersecurity-report-2024",
+    "subtitle": "[Expert-Driven]",
+    "title": "Insights & Market News",
+    "button": "Open"
+  },
   "expertiseScales": {
     "title": "Expertise That Scales",
     "subtitle": "Results That Prove It",

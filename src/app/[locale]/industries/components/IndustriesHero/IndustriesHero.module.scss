@@ -1,6 +1,6 @@
 @use '@/shared/lib/styles/mixin.scss' as *;
 
-.services_hero {
+.industries_hero {
   &__content {
     display: flex;
     align-items: stretch;
@@ -18,7 +18,7 @@
     align-items: flex-start;
     justify-content: center;
     gap: 32px;
-    padding: 64px 64px;
+    padding: 120px 32px;
     background-image: url('/images/team/experts/photosBack.svg');
     background-size: cover;
     background-position: center;
@@ -27,57 +27,11 @@
       width: 100%;
       border-right: none;
       border-bottom: 1px solid rgba(4, 2, 19, 0.08);
-      padding: 32px 12px;
+      padding: 50px 24px;
     }
-    .services_hero__wrapper {
-      border-radius: 4px;
-      border: 1px solid rgba(4, 2, 19, 0.12);
-      background: #fff;
-      box-shadow: 0 5px 25px 0 rgba(0, 0, 0, 0.03);
+    > img {
       width: 100%;
-      .heading {
-        display: flex;
-        padding: 8px 16px;
-        align-items: center;
-        gap: 8px;
-        align-self: stretch;
-        background: rgba(4, 2, 19, 0.1);
-        color: #040213;
-        font-family: var(--font-fragment-mono);
-        font-size: 12px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-      }
-      .description {
-        padding: 16px;
-      }
-      ol {
-        font-family: var(--font-fragment-mono);
-        color: #808080;
-        font-size: 12px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: 23px;
-        margin-left: 25px;
-        @include tablet {
-         font-size: 9px;
-         line-height: 17.493px;
-        }
-        li {
-          span {
-            color: $accent;
-          }
-          b {
-            font-weight: 400;
-            color: rgba(22, 166, 70, 0.6);
-          }
-          i {
-            color: rgba(255, 104, 22, 0.6);
-            font-style: normal;
-          }
-        }
-      }
+      height: auto;
     }
   }
   &__col_1 {
@@ -92,8 +46,9 @@
     gap: 16px;
     @include tablet {
       width: 100%;
-      border-right: none;
+      border-left: none;
       padding: 24px;
+      border-right: none;
       border-bottom: 1px solid rgba(4, 2, 19, 0.08);
     }
     .title {
