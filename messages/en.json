@@ -154,6 +154,16 @@
     "subtitle": "Craftity Labs is a cybersecurity integrator with deep operational expertise, delivering enterprise-grade security by orchestrating vetted specialists across multiple domains.",
     "button": "Meet the Team"
   },
+  "contact": {
+    "title1": "Business Correspondence",
+    "subtitle1": "Craftify Labs Technologies SRL",
+    "subtitle2": "Registered Address",
+    "subtitle3": "Phone",
+    "subtitle4": "Email:",
+    "subtitle5": "Visit us on LinkedIn",
+    "title2-1": "Contact",
+    "title2-2": "Craftify Tech Team"
+  },
   "servicesChallenged": {
     "expertName": "John Doe",
     "expertTitle": "Cyber Threat Analyst",
@@ -455,6 +465,21 @@
     "title3": "Transparent outcomes",
     "text3": "Every engagement tied to measurable KPIs and governance checkpoints.",
     "title": "Why?"
+  },
+  "contactForm": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phone": "Phone",
+    "businessEmail": "Business Email",
+    "company": "Company",
+    "website": "Website",
+    "question": "Your Question",
+    "loading": "Loading...",
+    "submit": "Submit",
+    "success": "Your request has been ",
+    "submitted": "submitted successfully",
+    "thankYou": "Our team will reach out within the next business day.",
+    "close": "Continue"
   },
   "services": {
     "title-1": "Cyber defense, monitoring",

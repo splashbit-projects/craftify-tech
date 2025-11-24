@@ -10,21 +10,27 @@ export const Button = ({
   url,
   type,
   service,
+  onClick,
 }: {
   children: React.ReactNode;
   variant: 'primary' | 'secondary';
-  url: string;
+  url?: string;
   type: 'button' | 'submit' | 'link';
   service?: string;
+  onClick?: () => void;
 }) => {
   const buttonUrl = service ? `/service-request-form?service=${service}` : url;
 
   return type === 'link' ? (
-    <Link href={buttonUrl} className={cn(styles.button, styles[variant], styles.link)}>
+    <Link href={buttonUrl ?? ''} className={cn(styles.button, styles[variant], styles.link)}>
       {children}
     </Link>
   ) : (
-    <button type={type} className={cn(styles.button, styles[variant])}>
+    <button
+      type={type}
+      className={cn(styles.button, styles[variant])}
+      onClick={onClick ? onClick : undefined}
+    >
       {children}
     </button>
   );

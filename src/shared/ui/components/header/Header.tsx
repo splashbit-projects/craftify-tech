@@ -47,7 +47,7 @@ export const Header = () => {
             <Link href="/industries">{t('industries', { fallback: 'Industries' })}</Link>
             <Link href="/about-us">{t('about-us', { fallback: 'About Us' })}</Link>
             <Link href="/insights">{t('insights-and-news', { fallback: 'Insights & News' })}</Link>
-            <Link href="#">{t('contact', { fallback: 'Contact' })}</Link>
+            <Link href="/contact">{t('contact', { fallback: 'Contact' })}</Link>
           </nav>
           <div className={styles.header__contact}>
             <Button variant="secondary" url="/consultation-request-form" type="link">
@@ -68,7 +68,7 @@ export const Header = () => {
           <Link href="/industries">{t('industries', { fallback: 'Industries' })}</Link>
           <Link href="/about-us">{t('about-us', { fallback: 'About Us' })}</Link>
           <Link href="/insights">{t('insights-and-news', { fallback: 'Insights & News' })}</Link>
-          <Link href="#">{t('contact', { fallback: 'Contact' })}</Link>
+          <Link href="/contact">{t('contact', { fallback: 'Contact' })}</Link>
         </nav>
         <div className={styles.header__mobile_menu_contact}>
           <Button variant="secondary" url="/consultation-request-form" type="link">
