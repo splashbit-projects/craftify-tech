@@ -39,7 +39,7 @@ export const Header = () => {
           <nav className={styles.header__menu}>
             <Link href="/team">{t('team', { fallback: 'Team' })}</Link>
             <Link href="/the-integrator-model">{t('the-integrator-model', { fallback: 'The Integrator Model' })}</Link>
-            <Link href="#">
+            <Link href="/expertise-and-services">
               {t('expertise-and-services', { fallback: 'Expertise and Services' })}
             </Link>
             <Link href="#">{t('industries', { fallback: 'Industries' })}</Link>
@@ -58,7 +58,7 @@ export const Header = () => {
         <nav>
           <Link href="/team">{t('team', { fallback: 'Team' })}</Link>
           <Link href="/the-integrator-model">{t('the-integrator-model', { fallback: 'The Integrator Model' })}</Link>
-          <Link href="#">
+          <Link href="/expertise-and-services">
             {t('expertise-and-services', { fallback: 'Expertise and Services' })}
           </Link>
           <Link href="#">{t('industries', { fallback: 'Industries' })}</Link>

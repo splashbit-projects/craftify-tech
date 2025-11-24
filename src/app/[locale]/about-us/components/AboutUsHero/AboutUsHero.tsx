@@ -96,7 +96,7 @@ export const AboutUsHero = () => {
               <span className={styles.text3}>{t('text3', { fallback: 'Incident Response' })}</span>
               <span className={styles.text4}>{t('text4', { fallback: 'Pentester' })}</span>
               <Button variant="primary" url="#" type="link">
-                {t('button', { fallback: 'Request Assistance' })}
+                {t('button', { fallback: 'Your Business' })}
               </Button>
             </div>
           </div>

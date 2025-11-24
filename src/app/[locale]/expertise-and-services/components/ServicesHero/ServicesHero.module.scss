@@ -1,0 +1,121 @@
+@use '@/shared/lib/styles/mixin.scss' as *;
+
+.services_hero {
+  &__content {
+    display: flex;
+    align-items: stretch;
+    border-right: 1px solid rgba(4, 2, 19, 0.08);
+    border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    @include tablet {
+      flex-direction: column;
+    }
+  }
+  &__col_2 {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 32px;
+    padding: 64px 64px;
+    background-image: url('/images/team/experts/photosBack.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    @include tablet {
+      width: 100%;
+      border-right: none;
+      border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+      padding: 32px 12px;
+    }
+    .services_hero__wrapper {
+      border-radius: 4px;
+      border: 1px solid rgba(4, 2, 19, 0.12);
+      background: #fff;
+      box-shadow: 0 5px 25px 0 rgba(0, 0, 0, 0.03);
+      width: 100%;
+      .heading {
+        display: flex;
+        padding: 8px 16px;
+        align-items: center;
+        gap: 8px;
+        align-self: stretch;
+        background: rgba(4, 2, 19, 0.1);
+        color: #040213;
+        font-family: var(--font-fragment-mono);
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+      }
+      .description {
+        padding: 16px;
+      }
+      ol {
+        font-family: var(--font-fragment-mono);
+        color: #808080;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 23px;
+        margin-left: 25px;
+        @include tablet {
+         font-size: 9px;
+         line-height: 17.493px;
+        }
+        li {
+          span {
+            color: $accent;
+          }
+          b {
+            font-weight: 400;
+            color: rgba(22, 166, 70, 0.6);
+          }
+          i {
+            color: rgba(255, 104, 22, 0.6);
+            font-style: normal;
+          }
+        }
+      }
+    }
+  }
+  &__col_1 {
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 64px;
+    gap: 16px;
+    @include tablet {
+      width: 100%;
+      border-left: none;
+      padding: 24px;
+    }
+    .title {
+      color: $primary;
+      font-size: 40px;
+      font-weight: 500;
+      line-height: 110%;
+      text-align: left;
+      @include tablet {
+        font-size: 30px;
+        text-align: left;
+      }
+      span {
+        color: $accent;
+      }
+    }
+    .subtitle {
+      color: $light;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: normal;
+      text-align: left;
+      margin-bottom: 16px;
+    }
+  }
+}

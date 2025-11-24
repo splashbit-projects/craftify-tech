@@ -52,7 +52,7 @@ export const Footer = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link href="#">
+                  <Link href="/expertise-and-services">
                     {t('expertise-and-services', { fallback: 'Expertise and Services' })}
                   </Link>
                 </li>

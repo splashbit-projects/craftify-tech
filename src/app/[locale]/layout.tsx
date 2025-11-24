@@ -1,4 +1,5 @@
 import { Manrope } from 'next/font/google';
+import { Fragment_Mono } from 'next/font/google';
 
 import type { Metadata } from 'next';
 import { NextIntlClientProvider } from 'next-intl';
@@ -12,6 +13,12 @@ import '@/shared/lib/styles/base.scss';
   const manrope = Manrope({
   variable: '--font-manrope',
   subsets: ['latin'],
+});
+
+const fragmentMono = Fragment_Mono({
+  variable: '--font-fragment-mono',
+  subsets: ['latin'],
+  weight: ['400'],
 });
 
 export const metadata: Metadata = {
@@ -43,7 +50,7 @@ export default async function RootLayout({
 
   return (
     <html lang={locale}>
-      <body className={cn(manrope.variable)}>
+      <body className={cn(manrope.variable, fragmentMono.variable)}>
         <NextIntlClientProvider>
           {/**<Preloader /> */}
             <Header />
