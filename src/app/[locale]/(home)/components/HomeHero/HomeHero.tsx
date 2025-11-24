@@ -68,7 +68,7 @@ export const HomeHero = () => {
             <Button variant="primary" url="/expertise-and-services" type="link">
               {t('explore-solutions', { fallback: 'Explore Solutions' })}
             </Button>
-            <Button variant="secondary" url="/request-form" type="link">
+            <Button variant="secondary" url="/consultation-request-form" type="link">
               {t('request-consultation', { fallback: 'Request Consultation' })}
             </Button>
           </motion.div>
