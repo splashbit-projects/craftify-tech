@@ -3,9 +3,68 @@
 .contactForm {
   form {
     display: flex;
-    flex-wrap: wrap;
-    gap: 12px;
-    align-items: flex-end;
+    flex-direction: column;
+    gap: 42px;
+    width: 500px;
+    max-width: 100%;
+    margin: 0 auto;
+    @include tablet {
+      width: 100%;
+    }
+
+    .checkboxRow {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      align-self: stretch;
+      input {
+        appearance: none;
+        width: 20px;
+        height: 20px;
+        border-radius: 6px;
+        border: 1px solid rgba(4, 2, 19, 0.1);
+        box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05);
+        &:checked {
+          background-color: $accent;
+          border: 1px solid $accent;
+          box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05);
+          background-image: url(/images/check.svg);
+          background-position: center;
+          background-size: 14px;
+          background-repeat: no-repeat;
+        }
+      }
+      p {
+        width: calc(100% - 20px - 12px);
+        color: $light;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        a {
+          text-decoration: underline;
+          color: $accent;
+          &:hover {
+            color: $accent;
+          }
+        }
+      }
+    }
+
+    .formRow {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: flex-end;
+      h4 {
+        width: 100%;
+        color: $primary;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 110%; /* 17.6px */
+      }
+    }
     .formGroup {
       width: calc(50% - 6px);
       display: flex;

@@ -4,6 +4,8 @@ import Image from 'next/image';
 import { motion } from 'framer-motion';
 import { useTranslations } from 'next-intl';
 
+import { useRequestFormStore } from '@/features/request-form/model/store';
+
 import { fadeInUp } from '@/shared/lib/helpers/animations';
 import { Button } from '@/shared/ui/kit/button/Button';
 
@@ -11,6 +13,7 @@ import styles from './Experts.module.scss';
 
 export const Experts = () => {
   const t = useTranslations('teamExperts');
+  const { setExpertName } = useRequestFormStore();
 
   const items = [
     {
@@ -20,6 +23,7 @@ export const Experts = () => {
         fallback:
           'Designs secure cloud infrastructures, implements Zero Trust principles, and ensures compliance with enterprise resilience standards.',
       }),
+      expert: 'Cloud Security Architect',
     },
     {
       icon: '/images/team/experts/icon2.png',
@@ -28,6 +32,7 @@ export const Experts = () => {
         fallback:
           'Coordinates containment, eradication, and recovery during critical incidents with minimal operational disruption.',
       }),
+      expert: 'Incident Response Lead',
     },
     {
       icon: '/images/team/experts/icon3.png',
@@ -36,6 +41,7 @@ export const Experts = () => {
         fallback:
           'Implements ISO, PCI, and GDPR frameworks, ensuring measurable governance and audit readiness.',
       }),
+      expert: 'GRC & Compliance Lead',
     },
     {
       icon: '/images/team/experts/icon4.png',
@@ -44,6 +50,7 @@ export const Experts = () => {
         fallback:
           'Conducts adversary simulations and penetration testing to expose and mitigate critical vulnerabilities.',
       }),
+      expert: 'Red Team Lead',
     },
     {
       icon: '/images/team/experts/icon5.png',
@@ -52,6 +59,7 @@ export const Experts = () => {
         fallback:
           'Integrates security into CI/CD pipelines, maintaining code integrity and continuous protection.',
       }),
+      expert: 'DevSecOps Security Engineer',
     },
   ];
 
@@ -87,9 +95,11 @@ export const Experts = () => {
                   <h3 dangerouslySetInnerHTML={{ __html: item.title || '' }} />
                   <p dangerouslySetInnerHTML={{ __html: item.text || '' }} />
                 </div>
-                <Button variant="primary" url="/expert-consultation-request-form" type="link">
-                  {t('button', { fallback: 'Contact' })}
-                </Button>
+                <span onClick={() => setExpertName(item.expert)}>
+                  <Button variant="primary" url={`/expert-consultation-request-form`} type="link">
+                    {t('button', { fallback: 'Contact' })}
+                  </Button>
+                </span>
               </motion.div>
             ))}
           </div>

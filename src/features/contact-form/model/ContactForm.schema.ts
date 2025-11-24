@@ -1,15 +1,13 @@
 import { z } from 'zod';
 
-type TranslateFn = (key: string, options?: { fallback?: string }) => string;
-
-export const createContactFormSchema = (t: TranslateFn) =>
+export const createContactFormSchema = () =>
   z.object({
-    firstName: z.string().nonempty(t('required', { fallback: 'This field is required' })),
-    lastName: z.string().nonempty(t('required', { fallback: 'This field is required' })),
-    phone: z.string().nonempty(t('required', { fallback: 'This field is required' })),
-    businessEmail: z.string().email(t('invalidEmail', { fallback: 'Invalid email address' })),
-    company: z.string().nonempty(t('required', { fallback: 'This field is required' })),
-    website: z.string().nonempty(t('required', { fallback: 'This field is required' })),
+    firstName: z.string().nonempty('This field is required'),
+    lastName: z.string().nonempty('This field is required'),
+    phone: z.string().nonempty('This field is required'),
+    businessEmail: z.string().email('Invalid email address'),
+    company: z.string().nonempty('This field is required'),
+    website: z.string().nonempty('This field is required'),
     question: z.string(),
   });
 

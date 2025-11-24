@@ -30,7 +30,7 @@ export const ContactForm = () => {
     reset,
     formState: { errors },
   } = useForm({
-    resolver: zodResolver(createContactFormSchema(t)),
+    resolver: zodResolver(createContactFormSchema()),
     defaultValues: {
       firstName: '',
       lastName: '',
@@ -59,99 +59,95 @@ export const ContactForm = () => {
 
   return (
     <>
-      {!isSuccess && (
-        <div className={styles.contactForm}>
-          <form onSubmit={handleSubmit(onSubmit)}>
-            <div className={styles.formGroup}>
-              <input
-                id="contact-form-name"
-                type="text"
-                {...register('firstName')}
-                placeholder={t('firstName', { fallback: 'First Name' })}
-                className={errors.firstName ? styles.errorInput : ''}
-              />
-              {errors.firstName && <p className={styles.error}>{errors.firstName.message}</p>}
-            </div>
-            <div className={styles.formGroup}>
-              <input
-                id="contact-form-lastName"
-                type="text"
-                {...register('lastName')}
-                placeholder={t('lastName', { fallback: 'Last Name' })}
-                className={errors.lastName ? styles.errorInput : ''}
-              />
-            </div>
+      <div className={styles.contactForm}>
+        <form onSubmit={handleSubmit(onSubmit)}>
+          <div className={styles.formGroup}>
+            <input
+              id="contact-form-name"
+              type="text"
+              {...register('firstName')}
+              placeholder={t('firstName', { fallback: 'First Name' })}
+              className={errors.firstName ? styles.errorInput : ''}
+            />
+            {errors.firstName && <p className={styles.error}>{errors.firstName.message}</p>}
+          </div>
+          <div className={styles.formGroup}>
+            <input
+              id="contact-form-lastName"
+              type="text"
+              {...register('lastName')}
+              placeholder={t('lastName', { fallback: 'Last Name' })}
+              className={errors.lastName ? styles.errorInput : ''}
+            />
+          </div>
 
-            <div className={styles.formGroup}>
-              <PhoneInput
-                country="gb"
-                inputClass={errors.phone ? styles.errorInput : ''}
-                containerClass={styles.phoneInputContainer}
-                buttonClass={styles.phoneInputButton}
-                dropdownClass={styles.phoneInputDropdown}
-                onChange={(value) => setValue('phone', value)}
-                value={watch('phone')}
-                placeholder={t('phone', { fallback: 'Phone' })}
-                inputProps={{
-                  id: 'contact-form-phone',
-                }}
-                excludeCountries={excludedCountries}
-              />
-              {errors.phone && <p className={styles.error}>{errors.phone.message}</p>}
-            </div>
+          <div className={styles.formGroup}>
+            <PhoneInput
+              country="gb"
+              inputClass={errors.phone ? styles.errorInput : ''}
+              containerClass={styles.phoneInputContainer}
+              buttonClass={styles.phoneInputButton}
+              dropdownClass={styles.phoneInputDropdown}
+              onChange={(value) => setValue('phone', value)}
+              value={watch('phone')}
+              placeholder={t('phone', { fallback: 'Phone' })}
+              inputProps={{
+                id: 'contact-form-phone',
+              }}
+              excludeCountries={excludedCountries}
+            />
+            {errors.phone && <p className={styles.error}>{errors.phone.message}</p>}
+          </div>
 
-            <div className={styles.formGroup}>
-              <input
-                id="contact-form-businessEmail"
-                type="email"
-                {...register('businessEmail')}
-                placeholder={t('businessEmail', { fallback: 'Business Email' })}
-                className={errors.businessEmail ? styles.errorInput : ''}
-              />
-              {errors.businessEmail && (
-                <p className={styles.error}>{errors.businessEmail.message}</p>
-              )}
-            </div>
+          <div className={styles.formGroup}>
+            <input
+              id="contact-form-businessEmail"
+              type="email"
+              {...register('businessEmail')}
+              placeholder={t('businessEmail', { fallback: 'Business Email' })}
+              className={errors.businessEmail ? styles.errorInput : ''}
+            />
+            {errors.businessEmail && <p className={styles.error}>{errors.businessEmail.message}</p>}
+          </div>
 
-            <div className={styles.formGroup}>
-              <input
-                id="contact-form-company"
-                type="text"
-                {...register('company')}
-                placeholder={t('company', { fallback: 'Company' })}
-                className={errors.company ? styles.errorInput : ''}
-              />
-            </div>
+          <div className={styles.formGroup}>
+            <input
+              id="contact-form-company"
+              type="text"
+              {...register('company')}
+              placeholder={t('company', { fallback: 'Company' })}
+              className={errors.company ? styles.errorInput : ''}
+            />
+          </div>
 
-            <div className={styles.formGroup}>
-              <input
-                id="contact-form-website"
-                type="text"
-                {...register('website')}
-                placeholder={t('website', { fallback: 'Website' })}
-                className={errors.website ? styles.errorInput : ''}
-              />
-              {errors.website && <p className={styles.error}>{errors.website.message}</p>}
-            </div>
+          <div className={styles.formGroup}>
+            <input
+              id="contact-form-website"
+              type="text"
+              {...register('website')}
+              placeholder={t('website', { fallback: 'Website' })}
+              className={errors.website ? styles.errorInput : ''}
+            />
+            {errors.website && <p className={styles.error}>{errors.website.message}</p>}
+          </div>
 
-            <div className={styles.formGroup + ' ' + styles.textarea}>
-              <textarea
-                id="contact-form-question"
-                {...register('question')}
-                placeholder={t('question', { fallback: 'Your Question' })}
-                className={errors.question ? styles.errorInput : ''}
-              />
-              {errors.question && <p className={styles.error}>{errors.question.message}</p>}
-            </div>
+          <div className={styles.formGroup + ' ' + styles.textarea}>
+            <textarea
+              id="contact-form-question"
+              {...register('question')}
+              placeholder={t('question', { fallback: 'Your Question' })}
+              className={errors.question ? styles.errorInput : ''}
+            />
+            {errors.question && <p className={styles.error}>{errors.question.message}</p>}
+          </div>
 
-            <Button type="submit" variant="primary">
-              {isLoading
-                ? t('loading', { fallback: 'Loading...' })
-                : t('submit', { fallback: 'Submit' })}
-            </Button>
-          </form>
-        </div>
-      )}
+          <Button type="submit" variant="primary">
+            {isLoading
+              ? t('loading', { fallback: 'Loading...' })
+              : t('submit', { fallback: 'Submit' })}
+          </Button>
+        </form>
+      </div>
       {isSuccess && <ContactFormSuccess onClose={() => setIsSuccess(false)} />}
     </>
   );

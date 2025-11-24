@@ -1,5 +1,7 @@
 import { useTranslations } from 'next-intl';
 
+import { useRequestFormStore } from '@/features/request-form/model/store';
+
 import { Button } from '@/shared/ui/kit/button/Button';
 
 import type { Service } from '../../model/services';
@@ -7,6 +9,7 @@ import styles from './ServiceCard.module.scss';
 
 export const ServiceCard = ({ service }: { service: Service }) => {
   const t = useTranslations('servicesSingle');
+  const { setServiceName } = useRequestFormStore();
 
   return (
     <div className={styles.service_card}>
@@ -36,14 +39,11 @@ export const ServiceCard = ({ service }: { service: Service }) => {
         </div>
       </div>
       <div className={styles.service_card__bottom}>
-        <Button
-          variant="primary"
-          url="/service-request-form"
-          service={service.service_title}
-          type="link"
-        >
-          {t('button', { fallback: 'Request Now' })}
-        </Button>
+        <span onClick={() => setServiceName(service.service_title)}>
+          <Button variant="primary" url={`/service-request-form`} type="link">
+            {t('button', { fallback: 'Request Now' })}
+          </Button>
+        </span>
       </div>
     </div>
   );

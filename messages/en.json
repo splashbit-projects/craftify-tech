@@ -97,6 +97,28 @@
     "subtitle": "A cybersecurity command unit built around your needs.",
     "button": "Learn More"
   },
+  "requestFormConsultation": {
+    "title1": "Craftify Tech Consultation Request",
+    "subtitle1": "Our expert will contact you asap. Just provide a few details."
+  },
+  "requestFormExpertConsultation": {
+    "title1": "Craftify Tech",
+    "title2": "Assistance Request",
+    "subtitle1": "Our expert will contact you asap. Just provide a few details."
+  },
+  "requestForm": {
+    "title1": "Craftify Tech Assistance Request",
+    "subtitle1": "You are one click away from your cybersecurity solution.",
+    "success": "Your request has been ",
+    "submitted": "submitted successfully",
+    "thankYou": "Our team will reach out within the next business day.",
+    "close": "Continue"
+  },
+  "requestFormServiceRequest": {
+    "title1": "Craftify Tech",
+    "title2": "Request",
+    "subtitle1": "Our expert will contact you asap. Just provide a few details."
+  },
   "aboutExperts": {
     "expertName": "John Doe",
     "expertTitle": "Cyber Threat Analyst",
@@ -473,13 +495,22 @@
     "businessEmail": "Business Email",
     "company": "Company",
     "website": "Website",
-    "question": "Your Question",
+    "question": "Your Business",
     "loading": "Loading...",
     "submit": "Submit",
     "success": "Your request has been ",
     "submitted": "submitted successfully",
     "thankYou": "Our team will reach out within the next business day.",
-    "close": "Continue"
+    "close": "Continue",
+    "yourData": "Your Data",
+    "companyAndWebsite": "Company and Website",
+    "requestTitle": "Your Request",
+    "request": "Description",
+    "businessType": "Description",
+    "terms1": "I accept the ",
+    "terms2": "Terms and Conditions",
+    "terms3": " and ",
+    "privacyPolicy": "Privacy Policy"
   },
   "services": {
     "title-1": "Cyber defense, monitoring",

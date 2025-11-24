@@ -4,10 +4,10 @@ import { useTranslations } from 'next-intl';
 
 import { Button } from '@/shared/ui/kit/button/Button';
 
-import styles from './ContactForm.module.scss';
+import styles from './RequestForm.module.scss';
 
-export const ContactFormSuccess = ({ onClose }: { onClose: () => void }) => {
-  const t = useTranslations('contactForm');
+export const RequestFormSuccess = ({ onClose }: { onClose: () => void }) => {
+  const t = useTranslations('requestForm');
   return (
     <div className={styles.contactFormSuccess}>
       <div className={styles.contactFormSuccess__content}>
