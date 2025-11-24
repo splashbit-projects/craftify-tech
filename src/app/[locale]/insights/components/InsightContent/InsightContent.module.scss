@@ -1,6 +1,21 @@
 @use '@/shared/lib/styles/mixin.scss' as *;
 
 .post {
+  &__buttons {
+    display: flex;
+    gap: 16px;
+    margin-top: 48px;
+    a{
+      border: 1px solid $accent!important;
+      &:last-child{
+        background: #fff;
+        color: $accent;
+        &:hover{
+          color: #fff;
+        }
+      }
+    }
+  }
   &__body {
     display: flex;
     flex-direction: column;

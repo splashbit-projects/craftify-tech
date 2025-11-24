@@ -60,7 +60,7 @@ export const AboutSecurity = () => {
               variants={fadeInUp}
               className={styles.button}
             >
-              <Button variant="primary" url="#" type="link">
+              <Button variant="primary" url="/the-integrator-model" type="link">
                 {t('button', { fallback: 'Check Our Approach' })}
               </Button>
             </motion.div>

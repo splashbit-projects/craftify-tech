@@ -1,3 +1,5 @@
+import type { Metadata } from 'next';
+
 import {
   ExpertiseScales,
   IntegratorAssurance,
@@ -10,6 +12,18 @@ import {
   IntegratorWays,
   IntegratorWhy,
 } from './components';
+
+export const metadata: Metadata = {
+  title: 'The Integrator Model | Unified Cybersecurity Delivery |  Craftify Tech',
+  description:
+    "Discover how Craftify Tech's Integrator Model delivers complete cybersecurity coverage through coordinated experts, measurable KPIs, and single-point accountability.",
+  openGraph: {
+    title: 'The Integrator Model | Unified Cybersecurity Delivery |  Craftify Tech',
+    description:
+      "Discover how Craftify Tech's Integrator Model delivers complete cybersecurity coverage through coordinated experts, measurable KPIs, and single-point accountability.",
+    images: '#',
+  },
+};
 
 export default async function TheIntegratorModelPage() {
   return (

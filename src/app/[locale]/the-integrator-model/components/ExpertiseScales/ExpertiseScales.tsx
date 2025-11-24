@@ -68,7 +68,7 @@ export const ExpertiseScales = () => {
             </p>
           </div>
           <div className={styles.button}>
-            <Button variant="primary" url="#" type="link">
+            <Button variant="primary" url="/team" type="link">
               {t('button', { fallback: 'Meet the Team' })}
             </Button>
           </div>

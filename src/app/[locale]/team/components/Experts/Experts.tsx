@@ -87,7 +87,7 @@ export const Experts = () => {
                   <h3 dangerouslySetInnerHTML={{ __html: item.title || '' }} />
                   <p dangerouslySetInnerHTML={{ __html: item.text || '' }} />
                 </div>
-                <Button variant="primary" url="#" type="link">
+                <Button variant="primary" url="/consultation-request-form" type="link">
                   {t('button', { fallback: 'Contact' })}
                 </Button>
               </motion.div>

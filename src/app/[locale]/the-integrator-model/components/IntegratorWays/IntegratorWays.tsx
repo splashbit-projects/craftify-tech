@@ -105,7 +105,7 @@ export const IntegratorWays = () => {
             variants={fadeInUp}
             className={styles.integrator_ways__button}
           >
-            <Button variant="primary" url="#" type="link">
+            <Button variant="primary" url="/expertise-and-services" type="link">
               {t('button', { fallback: 'Check Services' })}
             </Button>
           </motion.div>

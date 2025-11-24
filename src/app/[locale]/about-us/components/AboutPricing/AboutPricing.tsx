@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 import { useTranslations } from 'next-intl';
 
 import { fadeInUp } from '@/shared/lib/helpers/animations';
+import { Button } from '@/shared/ui/kit/button/Button';
 
 import styles from './AboutPricing.module.scss';
 
@@ -87,6 +88,11 @@ export const AboutPricing = () => {
                 <p>{item.text}</p>
               </motion.div>
             ))}
+          </div>
+          <div className={styles.about_pricing__button}>
+            <Button variant="primary" url="/expertise-and-services" type="link">
+              {t('button', { fallback: 'Check Services' })}
+            </Button>
           </div>
         </div>
       </div>

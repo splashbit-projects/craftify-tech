@@ -2,9 +2,14 @@
 
 import { useLayoutEffect, useRef } from 'react';
 
+import { useTranslations } from 'next-intl';
+
+import { Button } from '@/shared/ui/kit/button/Button';
+
 import st from './InsightContent.module.scss';
 
 export const InsightContent = ({ content }: { content: string }) => {
+  const t = useTranslations('insights');
   const contentRef = useRef<HTMLDivElement>(null);
 
   useLayoutEffect(() => {
@@ -30,6 +35,14 @@ export const InsightContent = ({ content }: { content: string }) => {
               ref={contentRef}
               dangerouslySetInnerHTML={{ __html: content }}
             />
+            <div className={st.post__buttons}>
+              <Button variant="primary" url="/expertise-and-services" type="link">
+                {t('button', { fallback: 'Explore Solutions' })}
+              </Button>
+              <Button variant="primary" url="/request-assistance-form" type="link">
+                {t('button', { fallback: 'Get Assistance' })}
+              </Button>
+            </div>
           </article>
         </div>
       </div>

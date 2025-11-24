@@ -73,7 +73,7 @@ export const About = () => {
                   'Deliver targeted, actionable security solutions that adapt to evolving threats and align with your operational and governance needs.',
               })}
             </p>
-            <Button variant="primary" url="#" type="link">
+            <Button variant="primary" url="/the-integrator-model" type="link">
               {t('button', { fallback: 'Learn More' })}
             </Button>
           </motion.div>

@@ -72,7 +72,7 @@ export const CtaBlock = ({
           >
             {subtitle}
           </motion.p>
-          <Link href="#" className={styles.button}>
+          <Link href="/the-integrator-model" className={styles.button}>
             {button}
           </Link>
         </div>

@@ -38,7 +38,9 @@ export const Header = () => {
 
           <nav className={styles.header__menu}>
             <Link href="/team">{t('team', { fallback: 'Team' })}</Link>
-            <Link href="/the-integrator-model">{t('the-integrator-model', { fallback: 'The Integrator Model' })}</Link>
+            <Link href="/the-integrator-model">
+              {t('the-integrator-model', { fallback: 'The Integrator Model' })}
+            </Link>
             <Link href="/expertise-and-services">
               {t('expertise-and-services', { fallback: 'Expertise and Services' })}
             </Link>
@@ -48,7 +50,7 @@ export const Header = () => {
             <Link href="#">{t('contact', { fallback: 'Contact' })}</Link>
           </nav>
           <div className={styles.header__contact}>
-            <Button variant="secondary" url="#" type="link">
+            <Button variant="secondary" url="/consultation-request-form" type="link">
               {t('request-consultation', { fallback: 'Request Consultation' })}
             </Button>
           </div>
@@ -57,7 +59,9 @@ export const Header = () => {
       <div className={`${styles.header__mobile_menu} ${isMobileMenuOpen ? styles.open : ''}`}>
         <nav>
           <Link href="/team">{t('team', { fallback: 'Team' })}</Link>
-          <Link href="/the-integrator-model">{t('the-integrator-model', { fallback: 'The Integrator Model' })}</Link>
+          <Link href="/the-integrator-model">
+            {t('the-integrator-model', { fallback: 'The Integrator Model' })}
+          </Link>
           <Link href="/expertise-and-services">
             {t('expertise-and-services', { fallback: 'Expertise and Services' })}
           </Link>
@@ -67,7 +71,7 @@ export const Header = () => {
           <Link href="#">{t('contact', { fallback: 'Contact' })}</Link>
         </nav>
         <div className={styles.header__mobile_menu_contact}>
-          <Button variant="secondary" url="#" type="link">
+          <Button variant="secondary" url="/consultation-request-form" type="link">
             {t('request-consultation', { fallback: 'Request Consultation' })}
           </Button>
         </div>

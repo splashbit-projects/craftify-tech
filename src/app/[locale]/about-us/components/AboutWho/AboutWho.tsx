@@ -58,8 +58,8 @@ export const AboutWho = () => {
               variants={fadeInUp}
               className={styles.button}
             >
-              <Button variant="primary" url="#" type="link">
-                {t('button', { fallback: 'Check Services' })}
+              <Button variant="primary" url="/team" type="link">
+                {t('button', { fallback: 'Meet the Team' })}
               </Button>
             </motion.div>
           </div>

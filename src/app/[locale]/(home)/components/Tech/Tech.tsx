@@ -45,7 +45,7 @@ export const Tech = () => {
               variants={fadeInUp}
               className={styles.tech__button}
             >
-              <Button variant="primary" url="#" type="link">
+              <Button variant="primary" url="/expertise-and-services" type="link">
                 {t('explore-solutions', { fallback: 'Explore Solutions' })}
               </Button>
             </motion.div>

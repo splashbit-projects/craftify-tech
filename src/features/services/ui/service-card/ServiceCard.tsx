@@ -36,7 +36,12 @@ export const ServiceCard = ({ service }: { service: Service }) => {
         </div>
       </div>
       <div className={styles.service_card__bottom}>
-        <Button variant="primary" url="#" type="link" >
+        <Button
+          variant="primary"
+          url="/service-request-form"
+          service={service.service_title}
+          type="link"
+        >
           {t('button', { fallback: 'Request Now' })}
         </Button>
       </div>

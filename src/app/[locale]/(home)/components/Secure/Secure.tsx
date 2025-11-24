@@ -39,7 +39,7 @@ export const Secure = () => {
               variants={fadeInUp}
               className={styles.secure__button}
             >
-              <Button variant="primary" url="#" type="link">
+              <Button variant="primary" url="/request-assistance-form" type="link">
                 {t('request-consultation', { fallback: 'Request Free Consultation' })}
               </Button>
             </motion.div>

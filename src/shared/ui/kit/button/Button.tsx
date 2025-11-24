@@ -9,14 +9,18 @@ export const Button = ({
   variant,
   url,
   type,
+  service,
 }: {
   children: React.ReactNode;
   variant: 'primary' | 'secondary';
   url: string;
   type: 'button' | 'submit' | 'link';
+  service?: string;
 }) => {
+  const buttonUrl = service ? `/service-request-form?service=${service}` : url;
+
   return type === 'link' ? (
-    <Link href={url} className={cn(styles.button, styles[variant], styles.link)}>
+    <Link href={buttonUrl} className={cn(styles.button, styles[variant], styles.link)}>
       {children}
     </Link>
   ) : (

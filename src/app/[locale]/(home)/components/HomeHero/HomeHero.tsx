@@ -65,10 +65,10 @@ export const HomeHero = () => {
             variants={fadeInUp}
             className={styles.home_hero__buttons}
           >
-            <Button variant="primary" url="#" type="link">
+            <Button variant="primary" url="/expertise-and-services" type="link">
               {t('explore-solutions', { fallback: 'Explore Solutions' })}
             </Button>
-            <Button variant="secondary" url="#" type="link">
+            <Button variant="secondary" url="/request-form" type="link">
               {t('request-consultation', { fallback: 'Request Consultation' })}
             </Button>
           </motion.div>

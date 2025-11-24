@@ -64,7 +64,7 @@ export const Industries = () => {
               </motion.div>
             ))}
           </div>
-          <Button variant="primary" url="#" type="link">
+          <Button variant="primary" url="/industries" type="link">
             {t('button', { fallback: 'Learn How We Help' })}
           </Button>
         </div>

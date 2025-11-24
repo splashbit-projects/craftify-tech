@@ -117,7 +117,8 @@
     "itemTitle5": "Full Compliance",
     "itemText5": "EU-aligned processes ensure accountability and clarity.",
     "title": "Pricing Philosophy",
-    "text": "Craftify Tech rates reflect the value of structured delivery, expert coordination, and measurable results – not just hours or headcount. <br/>Every engagement ensures that enterprise cybersecurity work is executed efficiently, with accountability and clarity."
+    "text": "Craftify Tech rates reflect the value of structured delivery, expert coordination, and measurable results – not just hours or headcount. <br/>Every engagement ensures that enterprise cybersecurity work is executed efficiently, with accountability and clarity.",
+    "button": "Check Services"
   },
   "aboutSecurity": {
     "title": "Security Projects Fail Without Structure",
@@ -151,7 +152,7 @@
   "aboutWho": {
     "title": "Who We Are",
     "subtitle": "Craftity Labs is a cybersecurity integrator with deep operational expertise, delivering enterprise-grade security by orchestrating vetted specialists across multiple domains.",
-    "button": "Check Services"
+    "button": "Meet the Team"
   },
   "servicesChallenged": {
     "expertName": "John Doe",
@@ -248,6 +249,9 @@
   },
   "industriesSlows": {
     "title": "We Prevent What Slows You Down"
+  },
+  "insights": {
+    "button": "Get Assistance"
   },
   "insightsExperts": {
     "expertName": "John Doe",

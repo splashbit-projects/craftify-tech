@@ -10,7 +10,7 @@ import { Footer, Header } from '@/shared/ui/components';
 import '@/shared/lib/styles/null.scss';
 import '@/shared/lib/styles/base.scss';
 
-  const manrope = Manrope({
+const manrope = Manrope({
   variable: '--font-manrope',
   subsets: ['latin'],
 });
@@ -22,19 +22,15 @@ const fragmentMono = Fragment_Mono({
 });
 
 export const metadata: Metadata = {
-  title: {
-    template: '%s | Craftity Tech',
-    default: 'Craftity Tech',
-  },
+  title:
+    'Cybersecurity Integration for Enterprises | Expert-Orchestrated Solutions | Craftify Tech',
   description:
-    'Craftity Tech',
+    'Craftify Tech connects your business with top cybersecurity expertise to design, integrate, and manage resilient security architectures across all domains. ',
   openGraph: {
-    title: {
-      template: '%s | Craftity Tech',
-      default: 'Craftity Tech',
-    },
+    title:
+      'Cybersecurity Integration for Enterprises | Expert-Orchestrated Solutions | Craftify Tech',
     description:
-      'Craftity Tech',
+      'Craftify Tech connects your business with top cybersecurity expertise to design, integrate, and manage resilient security architectures across all domains. ',
     images: '#',
   },
 };
@@ -53,9 +49,9 @@ export default async function RootLayout({
       <body className={cn(manrope.variable, fragmentMono.variable)}>
         <NextIntlClientProvider>
           {/**<Preloader /> */}
-            <Header />
-            {children}
-            <Footer />
+          <Header />
+          {children}
+          <Footer />
         </NextIntlClientProvider>
       </body>
     </html>
