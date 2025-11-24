@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: 'Cybersecurity Insights & Market News | Craftify Tech Reports and Analysis',
     description:
       'Stay informed with Craftify Tech‘s latest cybersecurity insights, market reports, and expert analyses. Explore trends shaping 2025–2026, from AI-driven threats to autonomous defenses.',
-    images: '#',
+    images: 'https://craftify-tech.com/images/meta.png',
   },
 };
 

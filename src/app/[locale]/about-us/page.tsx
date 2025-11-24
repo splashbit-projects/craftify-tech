@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     title: 'About Craftify Tech | Cybersecurity Project Integrator for Enterprises',
     description:
       'Learn how Craftify Tech unites proven cybersecurity specialists under one structured delivery model, ensuring measurable results, full coordination, and enterprise-grade protection.',
-    images: '#',
+    images: 'https://craftify-tech.com/images/meta.png',
   },
 };
 

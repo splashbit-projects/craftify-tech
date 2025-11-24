@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     title: 'Cybersecurity Experts for Every Function | Certified Specialists | Craftify Tech',
     description:
       'Meet Craftify Tech’s network of senior cybersecurity specialists. From cloud and DevSecOps to incident response and compliance — expertise built for enterprise resilience.',
-    images: '#',
+    images: 'https://craftify-tech.com/images/meta.png',
   },
 };
 

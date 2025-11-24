@@ -31,7 +31,7 @@ export const metadata: Metadata = {
       'Cybersecurity Integration for Enterprises | Expert-Orchestrated Solutions | Craftify Tech',
     description:
       'Craftify Tech connects your business with top cybersecurity expertise to design, integrate, and manage resilient security architectures across all domains. ',
-    images: '#',
+    images: 'https://craftify-tech.com/images/meta.png',
   },
 };
 

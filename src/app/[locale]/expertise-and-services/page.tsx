@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: 'Cybersecurity Expertise and Services | Integrated Security Solutions by Craftify Tech',
     description:
       'Explore Craftify Tech’s expert-driven cybersecurity services — from SOC operations and incident response to cloud hardening, DevSecOps, and compliance programs — designed for measurable protection and lasting resilience.',
-    images: '#',
+    images: 'https://craftify-tech.com/images/meta.png',
   },
 };
 
