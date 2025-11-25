@@ -8,6 +8,9 @@
     border-bottom: 1px solid rgba(4, 2, 19, 0.08);
     border-left: 1px solid rgba(4, 2, 19, 0.08);
     @include tablet {
+      align-items: center;
+    }
+    @include mobile {
       flex-direction: column;
     }
   }
@@ -91,6 +94,10 @@
     padding: 24px;
     @include tablet {
       padding: 24px;
+      //flex-direction: column;
+    }
+    @include mobile {
+      padding: 24px;
       flex-direction: column;
     }
   }
@@ -104,7 +111,7 @@
     border: 1px solid rgba(4, 2, 19, 0.08);
     background: #fff;
     position: relative;
-    @include tablet {
+    @include mobile {
       width: 100%;
       padding: 24px;
     }

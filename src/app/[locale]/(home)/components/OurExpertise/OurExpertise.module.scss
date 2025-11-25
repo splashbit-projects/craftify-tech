@@ -58,7 +58,7 @@
     width: 100%;
     display: flex;
     flex-wrap: wrap;
-    @include tablet {
+    @include mobile {
       flex-direction: column;
     }
   }
@@ -73,6 +73,9 @@
     background: #fff;
     position: relative;
     @include tablet {
+      padding: 24px;
+    }
+    @include mobile {
       width: 100%;
       padding: 24px;
     }

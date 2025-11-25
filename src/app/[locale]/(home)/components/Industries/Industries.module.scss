@@ -38,6 +38,9 @@
     align-self: stretch;
     flex-wrap: wrap;
     @include tablet {
+      //flex-direction: column;
+    }
+    @include mobile {
       flex-direction: column;
     }
     .item {
@@ -54,6 +57,10 @@
       background: #fff;
       border-bottom: 1px solid rgba(4, 2, 19, 0.08);
       @include tablet {
+        width: calc(50% - 12px);
+        padding: 24px;
+      }
+      @include mobile {
         width: 100%;
         padding: 24px;
       }

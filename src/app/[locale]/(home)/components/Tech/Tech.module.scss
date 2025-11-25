@@ -8,8 +8,12 @@
     border-bottom: 1px solid rgba(4, 2, 19, 0.08);
     border-left: 1px solid rgba(4, 2, 19, 0.08);
     @include tablet {
+      //flex-direction: column;
+    }
+    @include mobile {
       flex-direction: column;
     }
+    
   }
   &__col_1 {
     width: 50%;

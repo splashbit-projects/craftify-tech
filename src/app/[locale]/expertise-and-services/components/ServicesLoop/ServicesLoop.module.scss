@@ -88,6 +88,9 @@
   &__item {
     width: 33.33%;
     @include tablet {
+      width: 50%;
+    }
+    @include mobile {
       width: 100%;
     }
   }
