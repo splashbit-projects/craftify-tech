@@ -87,13 +87,13 @@ export const IntegratorWays = () => {
               <li>
                 {t('col2Item2', {
                   fallback:
-                    'Continuous operations, monitoring, or advisory under monthly agreement',
+                    'SLA-driven tasks, recurring reviews, measurable KPIs',
                 })}
               </li>
               <li>
                 {t('col3Item3', {
                   fallback:
-                    'Continuous operations, monitoring, or advisory under monthly agreement',
+                    'Ideal for sustained capability without hiring staff',
                 })}
               </li>
             </ul>

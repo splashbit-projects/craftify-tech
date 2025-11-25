@@ -33,9 +33,10 @@ export const ContactBlock = () => {
                 viewport={{ once: true }}
                 variants={fadeInUp}
                 className={styles.title}
-              >
-                {t('title1', { fallback: 'Business Correspondence' })}
-              </motion.h2>
+                dangerouslySetInnerHTML={{
+                  __html: t('title1', { fallback: 'Business <br/>Correspondence' }),
+                }}
+              />
             </div>
             <div className={styles.details}>
               <div className={styles.addresses}>

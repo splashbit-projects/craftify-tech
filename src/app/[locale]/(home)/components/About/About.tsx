@@ -106,7 +106,7 @@ export const About = () => {
               <CountUp targetNumber={40} suffix="+" />
             </div>
             <p className={styles.accent}>
-              {t('itemText1', {
+              {t('itemText4', {
                 fallback: 'Global network of 40+ experts',
               })}
             </p>

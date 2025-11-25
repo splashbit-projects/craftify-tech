@@ -2,12 +2,13 @@
   "about": {
     "title": "About Craftify Tech",
     "subtitle": "Craftify Tech delivers specialized cybersecurity expertise – accessible, measurable, and tailored. We unite top specialists to defend, optimize, and evolve your digital security environment.",
-    "itemText1": "Global network of 40+ experts",
+    "itemText1": "years combined experience across core cybersecurity domains",
     "itemTitle2": "Mission",
     "itemText2": "Deliver targeted, actionable security solutions that adapt to evolving threats and align with your operational and governance needs.",
     "button": "Learn More",
     "itemTitle3": "Proven Security",
-    "itemText3": "Proven track record in enterprise-grade security integration"
+    "itemText3": "Proven track record in enterprise-grade security integration",
+    "itemText4": "Global network of 40+ experts"
   },
   "homeHero": {
     "label": "[Expert-Driven]",
@@ -84,8 +85,9 @@
   },
   "theChallenge": {
     "title": "The Challenge",
-    "subtitle": "Cybersecurity isn’t just about defense — it’s about coordination. That’s where most systems fail.",
+    "subtitle1": "Modern enterprises face more than threats, they face complexity.",
     "text": "Fragmented systems, overwhelmed teams, and constantly shifting regulations leave critical gaps exposed. Even strong internal departments can’t cover every domain or adapt fast enough.",
+    "subtitle": "Cybersecurity isn’t just about defense — it’s about coordination. That’s where most systems fail.",
     "subtitle2": "Where businesses struggle most",
     "item-1": "Limited internal cybersecurity capacity",
     "item-2": "Disconnected tools and data silos",
@@ -177,7 +179,7 @@
     "button": "Meet the Team"
   },
   "contact": {
-    "title1": "Business Correspondence",
+    "title1": "Business <br/>Correspondence",
     "subtitle1": "Craftify Labs Technologies SRL",
     "subtitle2": "Registered Address",
     "subtitle3": "Phone",
@@ -231,7 +233,7 @@
     "title": "Our Services"
   },
   "industriesDetails": {
-    "itemTitle1": "Mission Definition",
+    "itemTitle1": "Finance and Banking",
     "itemRisks1": "Financial institutions face constant attempts at data theft, transaction manipulation, and ransomware targeting high-value information.",
     "itemWhatYouGet1": "Protected financial processes, continuous transaction integrity, and secure customer data managed under full compliance.",
     "itemTitle2": "Insurance and Legal",
@@ -475,8 +477,8 @@
     "col2Title": "Managed Services",
     "col2Subtitle": "(Ongoing)",
     "col12tem1": "Continuous operations, monitoring, or advisory under monthly agreement",
-    "col2Item2": "Continuous operations, monitoring, or advisory under monthly agreement",
-    "col3Item3": "Continuous operations, monitoring, or advisory under monthly agreement",
+    "col2Item2": "SLA-driven tasks, recurring reviews, measurable KPIs",
+    "col3Item3": "Ideal for sustained capability without hiring staff",
     "button": "Check Services"
   },
   "integratorWhy": {

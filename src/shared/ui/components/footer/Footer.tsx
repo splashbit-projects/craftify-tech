@@ -82,18 +82,18 @@ export const Footer = () => {
               <h3 className={styles.title}>{t('legal', { fallback: 'Legal' })}</h3>
               <ul>
                 <li>
-                  <Link href="#">
+                  <Link href="/legal/terms-and-conditions">
                     {t('terms-and-conditions', { fallback: 'Terms and Conditions' })}
                   </Link>
                 </li>
                 <li>
-                  <Link href="#">{t('privacy-policy', { fallback: 'Privacy Policy' })}</Link>
+                  <Link href="/legal/privacy-policy">{t('privacy-policy', { fallback: 'Privacy Policy' })}</Link>
                 </li>
                 <li>
-                  <Link href="#">{t('cookie-policy', { fallback: 'Cookie Policy' })}</Link>
+                  <Link href="/legal/cookie-policy">{t('cookie-policy', { fallback: 'Cookie Policy' })}</Link>
                 </li>
                 <li>
-                  <Link href="#">{t('refund-policy', { fallback: 'Refund Policy' })}</Link>
+                  <Link href="/legal/refund-policy">{t('refund-policy', { fallback: 'Refund Policy' })}</Link>
                 </li>
               </ul>
             </div>

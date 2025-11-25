@@ -33,7 +33,7 @@ export const TheChallenge = () => {
                 variants={fadeInUp}
                 className={styles.subtitle}
               >
-                {t('subtitle', {
+                {t('subtitle1', {
                   fallback: 'Modern enterprises face more than threats, they face complexity.',
                 })}
               </motion.p>

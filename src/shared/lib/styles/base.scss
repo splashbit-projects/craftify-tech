@@ -120,14 +120,50 @@ h3 {
   }
 }
 
-
 ::selection {
-  background-color: rgba(255, 47, 102, 0.10); /* Sets the background color of the selected text */
+  background-color: rgba(255, 47, 102, 0.1); /* Sets the background color of the selected text */
   color: $accent; /* Sets the color of the selected text */
 }
 
 /* For Firefox compatibility, use -moz-selection */
 ::-moz-selection {
-  background-color: rgba(255, 47, 102, 0.10);
+  background-color: rgba(255, 47, 102, 0.1);
   color: $accent;
+}
+
+.contact-block {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-bottom: 16px;
+  .contact-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    svg {
+      width: 24px;
+      height: 24px;
+    }
+    > div {
+      width: calc(100% - 24px - 8px);
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      b {
+        color: $primary;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+      }
+      a,
+      span {
+        color: $light;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-decoration: none;
+      }
+    }
+  }
 }

@@ -13,7 +13,7 @@ export const IndustriesDetails = () => {
 
   const items = [
     {
-      title: t('itemTitle1', { fallback: 'Mission Definition' }),
+      title: t('itemTitle1', { fallback: 'Finance and Banking' }),
       risks: t('itemRisks1', {
         fallback:
           'Financial institutions face constant attempts at data theft, transaction manipulation, and ransomware targeting high-value information.',
