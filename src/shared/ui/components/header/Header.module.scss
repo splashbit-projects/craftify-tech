@@ -47,6 +47,9 @@
       &:hover {
         color: $accent;
       }
+      &.active {
+        color: $accent;
+      }
     }
   }
 
@@ -158,6 +161,9 @@
         font-style: normal;
         font-weight: 400;
         line-height: normal;
+        &.active {
+          color: $accent;
+        }
       }
     }
   }
