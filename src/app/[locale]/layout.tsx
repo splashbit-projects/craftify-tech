@@ -5,6 +5,7 @@ import type { Metadata } from 'next';
 import { NextIntlClientProvider } from 'next-intl';
 
 import { cn } from '@/shared/lib/helpers/styles';
+import { Preloader } from '@/shared/ui/components';
 import { Footer, Header } from '@/shared/ui/components';
 
 import '@/shared/lib/styles/null.scss';
@@ -48,7 +49,7 @@ export default async function RootLayout({
     <html lang={locale}>
       <body className={cn(manrope.variable, fragmentMono.variable)}>
         <NextIntlClientProvider>
-          {/**<Preloader /> */}
+          <Preloader />
           <Header />
           {children}
           <Footer />

@@ -31,7 +31,7 @@ export const Preloader: React.FC = () => {
         left: 0,
         width: '100%',
         height: '100%',
-        backgroundColor: '#0c0c0c',
+        backgroundColor: '#fff',
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
@@ -41,7 +41,7 @@ export const Preloader: React.FC = () => {
         visibility: isVisible ? 'visible' : 'hidden',
       }}
     >
-      <Image src="/images/preloader.gif" alt="preloader" width={150} height={150} quality={100} />
+      <Image src="/images/preloader.gif" alt="preloader" width={152} height={25} quality={100} />
     </div>
   );
 };
