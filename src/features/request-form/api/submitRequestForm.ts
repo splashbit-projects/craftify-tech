@@ -3,6 +3,8 @@ import type { RequestFormSchema } from '../model/RequestForm.schema';
 export const submitRequestForm = async (data: RequestFormSchema) => {
   const type = data.requestType;
 
+  console.log('type:', type);
+
   let url = '';
   if (type === 'consultation') {
     url = '/api/consultation-request';

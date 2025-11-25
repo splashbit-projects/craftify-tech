@@ -19,7 +19,7 @@ export default async function RequestFormPage() {
             </p>
           </div>
           <div className={styles.request_form__content}>
-            <RequestForm />
+            <RequestForm requestType="assistance" />
           </div>
         </div>
       </section>

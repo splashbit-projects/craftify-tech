@@ -10,7 +10,7 @@ import PhoneInput from 'react-phone-input-2';
 import { excludedCountries } from '@/shared/lib/countries';
 import { Button } from '@/shared/ui/kit/button/Button';
 
-//import { submitContactForm } from '../api/submitContactForm';
+import { submitContactForm } from '../api/submitContactForm';
 import { type ContactFormSchema, createContactFormSchema } from '../model/ContactForm.schema';
 import styles from './ContactForm.module.scss';
 import { ContactFormSuccess } from './ContactFormSuccess';
@@ -46,7 +46,7 @@ export const ContactForm = () => {
     try {
       setIsLoading(true);
       console.log(data);
-      //submitContactForm(data);
+      submitContactForm(data);
       setTimeout(() => {
         setIsSuccess(true);
         reset();

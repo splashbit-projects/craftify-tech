@@ -11,7 +11,7 @@ import PhoneInput from 'react-phone-input-2';
 import { excludedCountries } from '@/shared/lib/countries';
 import { Button } from '@/shared/ui/kit/button/Button';
 
-//import { submitContactForm } from '../api/submitContactForm';
+import { submitRequestForm } from '../api/submitRequestForm';
 import { createRequestFormSchema, type RequestFormSchema } from '../model/RequestForm.schema';
 import styles from './RequestForm.module.scss';
 import { RequestFormSuccess } from './RequestFormSuccess';
@@ -49,7 +49,7 @@ export const RequestForm = ({
       businessEmail: '',
       company: '',
       website: '',
-      request: '',
+      requestDetails: '',
       businessType: '',
       requestType: requestType,
       serviceName: serviceName,
@@ -61,7 +61,7 @@ export const RequestForm = ({
     try {
       setIsLoading(true);
       console.log(data);
-      //submitContactForm(data);
+      submitRequestForm(data);
       setTimeout(() => {
         setIsSuccess(true);
         reset();
@@ -159,16 +159,18 @@ export const RequestForm = ({
             <div className={styles.formGroup + ' ' + styles.textarea}>
               <textarea
                 id="contact-form-request"
-                {...register('request')}
+                {...register('requestDetails')}
                 placeholder={t('request', { fallback: 'Description' })}
-                className={errors.request ? styles.errorInput : ''}
+                className={errors.requestDetails ? styles.errorInput : ''}
               />
-              {errors.request && <p className={styles.error}>{errors.request.message}</p>}
+              {errors.requestDetails && (
+                <p className={styles.error}>{errors.requestDetails.message}</p>
+              )}
             </div>
           </div>
 
           <div className={styles.formRow}>
-            <h4>{t('question', { fallback: 'Your Business' })}</h4>
+            <h4>{t('businessTypeText', { fallback: 'Your Business' })}</h4>
             <div className={styles.formGroup + ' ' + styles.textarea}>
               <textarea
                 id="contact-form-businessType"

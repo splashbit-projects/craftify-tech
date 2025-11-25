@@ -8,7 +8,7 @@ export const createRequestFormSchema = () =>
     businessEmail: z.string().email('Invalid email address'),
     company: z.string().nonempty('This field is required'),
     website: z.string().nonempty('This field is required'),
-    request: z.string().nonempty('This field is required'),
+    requestDetails: z.string().nonempty('This field is required'),
     businessType: z.string().nonempty('This field is required'),
     requestType: z.enum(['assistance', 'consultation', 'expert-consultation', 'service-request']),
     serviceName: z.string().optional(),

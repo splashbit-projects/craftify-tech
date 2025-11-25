@@ -30,7 +30,7 @@ export default function RequestFormPage() {
             </p>
           </div>
           <div className={styles.request_form__content}>
-            <RequestForm requestType="consultation" expertName={expertName} />
+            <RequestForm requestType="expert-consultation" expertName={expertName} />
           </div>
         </div>
       </section>

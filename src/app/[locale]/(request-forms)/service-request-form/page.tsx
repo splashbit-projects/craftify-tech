@@ -32,7 +32,7 @@ export default function RequestFormPage() {
             </p>
           </div>
           <div className={styles.request_form__content}>
-            <RequestForm requestType="consultation" serviceName={serviceName} />
+            <RequestForm requestType="service-request" serviceName={serviceName} />
           </div>
         </div>
       </section>

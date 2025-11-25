@@ -36,7 +36,7 @@ export async function POST(request: Request): Promise<NextResponse> {
       `,
     };
 
-    const userMsg = {
+    /* const userMsg = {
       to: businessEmail,
       from: process.env.FROM_EMAIL!,
       subject: 'We’ve Received Your Urgent Assistance Request - Norevia Digital',
@@ -49,11 +49,11 @@ export async function POST(request: Request): Promise<NextResponse> {
         <p><strong>Phone:</strong> ${phone}</p>
         <p><strong>Question:</strong> ${question}</p>
       `,
-    };
+    };*/
 
     // Send email
     await sgMail.send(msg);
-    await sgMail.send(userMsg);
+    //await sgMail.send(userMsg);
 
     return NextResponse.json({ message: 'Fund access request sent successfully.' });
   } catch (error: unknown) {
