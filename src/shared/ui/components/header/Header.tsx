@@ -7,6 +7,7 @@ import { usePathname } from 'next/navigation';
 
 import { useTranslations } from 'next-intl';
 
+import { LangSelector } from '@/shared/ui/components';
 import { Button } from '@/shared/ui/kit/button/Button';
 
 import styles from './Header.module.scss';
@@ -67,6 +68,7 @@ export const Header = () => {
             </Link>
           </nav>
           <div className={styles.header__contact}>
+            <LangSelector />
             <Button variant="secondary" url="/consultation-request-form" type="link">
               {t('request-consultation', { fallback: 'Request Consultation' })}
             </Button>
@@ -107,6 +109,7 @@ export const Header = () => {
           <Button variant="secondary" url="/consultation-request-form" type="link">
             {t('request-consultation', { fallback: 'Request Consultation' })}
           </Button>
+          <LangSelector />
         </div>
       </div>
     </header>

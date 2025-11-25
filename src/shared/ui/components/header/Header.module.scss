@@ -40,22 +40,26 @@
     }
     a {
       color: #fff;
-      font-size: 14px;
+      font-size: 13px;
       font-style: normal;
       font-weight: 400;
       line-height: normal;
+
       &:hover {
         color: $accent;
       }
       &.active {
         color: $accent;
       }
+      @include desktop {
+        font-size: 12px;
+      }
     }
   }
 
   &__contact {
     display: flex;
-    gap: 24px;
+    gap: 12px;
     align-items: center;
     justify-content: flex-end;
     @include tablet {

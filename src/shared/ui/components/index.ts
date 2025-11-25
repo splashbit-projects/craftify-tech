@@ -3,5 +3,6 @@ export * from './cta-block/CtaBlock';
 export * from './expert-block/ExpertBlock';
 export * from './footer/Footer';
 export * from './header/Header';
+export * from './language-switcher/LangSelector';
 export * from './percentege-graph/PercentageGraph';
 export * from './preloader/Preloader';
