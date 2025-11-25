@@ -1,12 +1,9 @@
 'use client';
-import Image from 'next/image';
-import Link from 'next/link';
-
 import { motion } from 'framer-motion';
 import { useTranslations } from 'next-intl';
 
 import { fadeInUp } from '@/shared/lib/helpers/animations';
-import { Camera, Close, Microphone, Pencil } from '@/shared/ui/icons';
+import { ExpertBlock } from '@/shared/ui/components';
 import { Button } from '@/shared/ui/kit/button/Button';
 
 import styles from './IntegratorExperts.module.scss';
@@ -19,64 +16,7 @@ export const IntegratorExperts = () => {
       <div className={'_container'}>
         <div className={styles.integrator_experts__content}>
           <div className={styles.integrator_experts__col_1}>
-            <div className={styles.expert_wrapper}>
-              <Image
-                src="/images/topLeft.svg"
-                alt="top left corner"
-                width={20}
-                height={20}
-                className={styles.top_left}
-              />
-              <Image
-                src="/images/topRight.svg"
-                alt="top right corner"
-                width={20}
-                height={20}
-                className={styles.top_right}
-              />
-              <Image
-                src="/images/bottomLeft.svg"
-                alt="bottom left corner"
-                width={20}
-                height={20}
-                className={styles.bottom_left}
-              />
-              <Image
-                src="/images/bottomRight.svg"
-                alt="bottom right corner"
-                width={20}
-                height={20}
-                className={styles.bottom_right}
-              />
-              <div className={styles.expert_details}>
-                <Image
-                  src="/images/integrator/expert.png"
-                  alt="expert photo"
-                  width={64}
-                  height={64}
-                  className={styles.expert_photo}
-                />
-                <div>
-                  <h3>{t('expertName', { fallback: 'John Doe' })}</h3>
-                  <p>{t('expertTitle', { fallback: 'Cyber Threat Analyst' })}</p>
-                </div>
-              </div>
-              <div className={styles.expert_divider}></div>
-              <div className={styles.expert_buttons}>
-                <Link href="#">
-                  <Camera />
-                </Link>
-                <Link href="#">
-                  <Microphone />
-                </Link>
-                <Link href="#">
-                  <Pencil />
-                </Link>
-                <Link href="#" className={styles.close_button}>
-                  <Close />
-                </Link>
-              </div>
-            </div>
+            <ExpertBlock />
           </div>
           <div className={styles.integrator_experts__col_2}>
             <motion.h2

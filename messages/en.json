@@ -122,8 +122,6 @@
     "subtitle1": "Our expert will contact you asap. Just provide a few details."
   },
   "aboutExperts": {
-    "expertName": "John Doe",
-    "expertTitle": "Cyber Threat Analyst",
     "title": "Our Experts Are",
     "subtitle": "Ready to Consult You Right Away",
     "text": "Schedule a session or emergency advisory call within 24 hours for pressing security needs: SOC assessment, incident response, or architecture review.",
@@ -189,7 +187,7 @@
     "title2-2": "Craftify Tech Team"
   },
   "servicesChallenged": {
-    "expertName": "John Doe",
+    "expertName": "Liam Brooks",
     "expertTitle": "Cyber Threat Analyst",
     "title": "Still Challenged?",
     "text": "Tell us your top security priority and we’ll match the right experts and delivery mode.",
@@ -255,7 +253,7 @@
     "whatYouGet": "What You Get"
   },
   "industriesExperts": {
-    "expertName": "John Doe",
+    "expertName": "Liam Brooks",
     "expertTitle": "Cyber Threat Analyst",
     "title": "Our Experts Are Ready to Consult You Right Away",
     "subtitle": "Schedule a session or emergency advisory call within 24 hours for pressing security needs: SOC assessment, incident response, or architecture review.",
@@ -288,7 +286,7 @@
     "button": "Get Assistance"
   },
   "insightsExperts": {
-    "expertName": "John Doe",
+    "expertName": "Liam Brooks",
     "expertTitle": "Cyber Threat Analyst",
     "title": "Our Experts Are Ready to Consult You Right Away",
     "subtitle": "Schedule a session or emergency advisory call within 24 hours for pressing security needs: SOC assessment, incident response, or architecture review.",
@@ -419,7 +417,7 @@
     "step3": "Fast expert access"
   },
   "integratorExperts": {
-    "expertName": "John Doe",
+    "expertName": "Liam Brooks",
     "expertTitle": "Cyber Threat Analyst",
     "title": "Our Experts Are Ready to Consult You Right Away",
     "subtitle": "Schedule a session or emergency advisory call within 24 hours for pressing security needs: SOC assessment, incident response, or architecture review.",
@@ -583,6 +581,10 @@
     "key_outcomes": "Key outcomes / KPIs",
     "delivery_modes": "Delivery modes",
     "button": "Request Now"
+  },
+  "expertBlockSingle": {
+    "expertName": "Liam Brooks",
+    "expertTitle": "Cyber Threat Analyst"
   },
   "footer": {
     "subtitle": "Where Cybersecurity Expertise Becomes Architecture.",

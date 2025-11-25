@@ -1,5 +1,6 @@
 export * from './count-up/CountUp';
 export * from './cta-block/CtaBlock';
+export * from './expert-block/ExpertBlock';
 export * from './footer/Footer';
 export * from './header/Header';
 export * from './percentege-graph/PercentageGraph';
