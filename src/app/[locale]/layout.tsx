@@ -5,7 +5,7 @@ import type { Metadata } from 'next';
 import { NextIntlClientProvider } from 'next-intl';
 
 import { cn } from '@/shared/lib/helpers/styles';
-import { Preloader } from '@/shared/ui/components';
+import { CookiePopup, Preloader } from '@/shared/ui/components';
 import { Footer, Header } from '@/shared/ui/components';
 
 import '@/shared/lib/styles/null.scss';
@@ -53,6 +53,7 @@ export default async function RootLayout({
           <Header />
           {children}
           <Footer />
+          <CookiePopup />
         </NextIntlClientProvider>
       </body>
     </html>

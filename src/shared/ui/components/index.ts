@@ -1,3 +1,4 @@
+export * from './cookie-popup/CookiePopup';
 export * from './count-up/CountUp';
 export * from './cta-block/CtaBlock';
 export * from './expert-block/ExpertBlock';

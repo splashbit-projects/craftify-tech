@@ -187,8 +187,6 @@
     "title2-2": "Craftify Tech Team"
   },
   "servicesChallenged": {
-    "expertName": "Liam Brooks",
-    "expertTitle": "Cyber Threat Analyst",
     "title": "Still Challenged?",
     "text": "Tell us your top security priority and we’ll match the right experts and delivery mode.",
     "button": "Request Expert Assistance"
@@ -253,8 +251,6 @@
     "whatYouGet": "What You Get"
   },
   "industriesExperts": {
-    "expertName": "Liam Brooks",
-    "expertTitle": "Cyber Threat Analyst",
     "title": "Our Experts Are Ready to Consult You Right Away",
     "subtitle": "Schedule a session or emergency advisory call within 24 hours for pressing security needs: SOC assessment, incident response, or architecture review.",
     "button": "Request Expert Assistance"
@@ -286,8 +282,6 @@
     "button": "Get Assistance"
   },
   "insightsExperts": {
-    "expertName": "Liam Brooks",
-    "expertTitle": "Cyber Threat Analyst",
     "title": "Our Experts Are Ready to Consult You Right Away",
     "subtitle": "Schedule a session or emergency advisory call within 24 hours for pressing security needs: SOC assessment, incident response, or architecture review.",
     "button": "Request Expert Assistance"
@@ -417,8 +411,6 @@
     "step3": "Fast expert access"
   },
   "integratorExperts": {
-    "expertName": "Liam Brooks",
-    "expertTitle": "Cyber Threat Analyst",
     "title": "Our Experts Are Ready to Consult You Right Away",
     "subtitle": "Schedule a session or emergency advisory call within 24 hours for pressing security needs: SOC assessment, incident response, or architecture review.",
     "button": "Request Expert Assistance"
@@ -581,6 +573,13 @@
     "key_outcomes": "Key outcomes / KPIs",
     "delivery_modes": "Delivery modes",
     "button": "Request Now"
+  },
+  "cookiePopup": {
+    "title": "Cookie settings",
+    "text": "Cookies help us improve our website. By clicking Accept, you agree to our use of cookies for functionality, analytics, and personalized content. Learn more in our ",
+    "link": "Cookie Policy",
+    "decline": "Decline",
+    "accept": "Accept"
   },
   "expertBlockSingle": {
     "expertName": "Liam Brooks",
