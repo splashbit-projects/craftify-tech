@@ -37,10 +37,10 @@ export const InsightContent = ({ content }: { content: string }) => {
             />
             <div className={st.post__buttons}>
               <Button variant="primary" url="/expertise-and-services" type="link">
-                {t('button', { fallback: 'Explore Solutions' })}
+                {t('button1', { fallback: 'Explore Solutions' })}
               </Button>
               <Button variant="primary" url="/request-assistance-form" type="link">
-                {t('button', { fallback: 'Get Assistance' })}
+                {t('button2', { fallback: 'Get Assistance' })}
               </Button>
             </div>
           </article>

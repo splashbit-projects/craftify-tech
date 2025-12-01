@@ -279,7 +279,8 @@
     "title": "We Prevent What Slows You Down"
   },
   "insights": {
-    "button": "Get Assistance"
+    "button1": "Explore Solutions",
+    "button2": "Get Assistance"
   },
   "insightsExperts": {
     "title": "Our Experts Are Ready to Consult You Right Away",
