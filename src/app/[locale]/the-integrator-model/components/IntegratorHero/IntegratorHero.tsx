@@ -35,7 +35,7 @@ export const IntegratorHero = () => {
             height={490}
             className={styles.mobile}
           />
-          <Button variant="primary" url="#" type="link">
+          <Button variant="primary" url="/insights" type="link">
             {t('button', { fallback: 'Proven Results' })}
           </Button>
         </div>
