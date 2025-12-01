@@ -58,7 +58,7 @@
       .line2 {
         position: absolute;
         top: -40px;
-        right: -16px;
+        right: -38px;
         @include tablet {
           display: none;
         }
@@ -74,7 +74,7 @@
       .line4 {
         position: absolute;
         bottom: 15px;
-        left: -70px;
+        left: -92px;
         @include tablet {
           display: none;
         }
@@ -142,7 +142,7 @@
         }
         &.text2 {
           top: -87px;
-          right: -75px;
+          right: -95px;
           @include tablet {
             right: -80px;
             top: -70px;
@@ -158,7 +158,7 @@
         }
         &.text4 {
           top: -60px;
-          left: -105px;
+          left: -130px;
           @include tablet {
             left: -85px;
           }
