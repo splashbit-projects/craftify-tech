@@ -1,9 +1,10 @@
 'use client';
 
-import { useState } from 'react';
+import { useRef, useState } from 'react';
 
 import { zodResolver } from '@hookform/resolvers/zod';
 import { useTranslations } from 'next-intl';
+import ReCAPTCHA from 'react-google-recaptcha';
 import { useForm } from 'react-hook-form';
 import PhoneInput from 'react-phone-input-2';
 
@@ -20,6 +21,7 @@ import 'react-phone-input-2/lib/style.css';
 export const ContactForm = () => {
   const [isSuccess, setIsSuccess] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
+  const recaptchaRef = useRef<ReCAPTCHA>(null);
   const t = useTranslations('contactForm');
 
   const {
@@ -39,6 +41,7 @@ export const ContactForm = () => {
       company: '',
       website: '',
       question: '',
+      recaptcha: '',
     },
   });
 
@@ -50,11 +53,18 @@ export const ContactForm = () => {
       setTimeout(() => {
         setIsSuccess(true);
         reset();
+        recaptchaRef.current?.reset();
         setIsLoading(false);
       }, 1000);
     } catch (error) {
       console.error(error);
+      setIsLoading(false);
+      recaptchaRef.current?.reset();
     }
+  };
+
+  const handleRecaptchaChange = (token: string | null) => {
+    setValue('recaptcha', token || '', { shouldValidate: true });
   };
 
   return (
@@ -139,6 +149,15 @@ export const ContactForm = () => {
               className={errors.question ? styles.errorInput : ''}
             />
             {errors.question && <p className={styles.error}>{errors.question.message}</p>}
+          </div>
+
+          <div className={styles.formGroup}>
+            <ReCAPTCHA
+              ref={recaptchaRef}
+              sitekey={process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY || ''}
+              onChange={handleRecaptchaChange}
+            />
+            {errors.recaptcha && <p className={styles.error}>{errors.recaptcha.message}</p>}
           </div>
 
           <Button type="submit" variant="primary">

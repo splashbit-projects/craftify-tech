@@ -9,6 +9,7 @@ export const createContactFormSchema = () =>
     company: z.string().nonempty('This field is required'),
     website: z.string().nonempty('This field is required'),
     question: z.string(),
+    recaptcha: z.string().nonempty('Please complete the reCAPTCHA verification'),
   });
 
 export type ContactFormSchema = z.infer<ReturnType<typeof createContactFormSchema>>;
