@@ -16,6 +16,7 @@ export const createRequestFormSchema = () =>
     terms: z
       .boolean()
       .refine((data) => data, { message: 'You must accept the terms and conditions' }),
+    recaptcha: z.string().nonempty('Please complete the reCAPTCHA verification'),
   });
 
 export type RequestFormSchema = z.infer<ReturnType<typeof createRequestFormSchema>>;
