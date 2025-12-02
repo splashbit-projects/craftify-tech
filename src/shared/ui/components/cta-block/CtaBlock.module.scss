@@ -68,13 +68,14 @@
     }
     p {
       color: #fff;
-      font-size: 14px;
+      font-size: 20px;
       font-style: normal;
       font-weight: 400;
       line-height: normal;
       margin-bottom: 22px;
       @include tablet {
         text-align: center;
+        font-size: 14px;
       }
     }
     a {

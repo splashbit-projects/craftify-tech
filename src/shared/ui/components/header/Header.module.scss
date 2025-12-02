@@ -1,13 +1,14 @@
 @use '@/shared/lib/styles/mixin.scss' as *;
 
 .header {
-  background-color: #090909;
   position: relative;
   padding: 16px 0;
   z-index: 100;
   position: sticky;
   top: 0;
   z-index: 100;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  background: $primary;
   &__container {
     padding: 14px 100px;
     @include tablet {
@@ -168,6 +169,7 @@
         font-style: normal;
         font-weight: 400;
         line-height: normal;
+        box-sizing: border-box;
         &.active {
           color: $accent;
         }

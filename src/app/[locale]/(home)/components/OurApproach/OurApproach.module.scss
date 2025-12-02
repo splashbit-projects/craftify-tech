@@ -5,7 +5,7 @@
     display: flex;
     align-items: flex-start;
     border-right: 1px solid rgba(4, 2, 19, 0.08);
-    border-bottom: 1px solid rgba(4, 2, 19, 0.08);
+    //border-bottom: 1px solid rgba(4, 2, 19, 0.08);
     border-left: 1px solid rgba(4, 2, 19, 0.08);
     @include tablet {
       align-items: center;
@@ -59,6 +59,7 @@
     gap: 16px;
     position: sticky;
     top: 0;
+    border-bottom: 1px solid rgba(4, 2, 19, 0.08);
     @include tablet {
       width: 100%;
       padding: 32px 12px;
@@ -82,6 +83,29 @@
       font-weight: 400;
       line-height: normal;
       text-align: center;
+    }
+  }
+  &__howWeWork {
+    border-right: 1px solid rgba(4, 2, 19, 0.08);
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+    background: #f7f7f8;
+    display: flex;
+    display: flex;
+    padding: 48px 24px 24px 24px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    align-self: stretch;
+    .title {
+      color: $primary;
+      font-size: 42px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 110%;
+      text-align: center;
+      @include tablet {
+        font-size: 32px;
+      }
     }
   }
   &__items {

@@ -13,6 +13,7 @@ export const IndustriesDetails = () => {
 
   const items = [
     {
+      icon: '/images/industries/icon1.svg',
       title: t('itemTitle1', { fallback: 'Finance and Banking' }),
       risks: t('itemRisks1', {
         fallback:
@@ -24,6 +25,7 @@ export const IndustriesDetails = () => {
       }),
     },
     {
+      icon: '/images/industries/icon2.svg',
       title: t('itemTitle2', { fallback: 'Insurance and Legal' }),
       risks: t('itemRisks2', {
         fallback:
@@ -35,6 +37,7 @@ export const IndustriesDetails = () => {
       }),
     },
     {
+      icon: '/images/industries/icon3.svg',
       title: t('itemTitle3', { fallback: 'E-Commerce and Retail' }),
       risks: t('itemRisks3', {
         fallback:
@@ -46,6 +49,7 @@ export const IndustriesDetails = () => {
       }),
     },
     {
+      icon: '/images/industries/icon4.svg',
       title: t('itemTitle4', { fallback: 'Telecom and Technology Providers' }),
       risks: t('itemRisks4', {
         fallback:
@@ -57,6 +61,7 @@ export const IndustriesDetails = () => {
       }),
     },
     {
+      icon: '/images/industries/icon5.svg',
       title: t('itemTitle5', { fallback: 'Crypto, iGaming, and Online Platforms' }),
       risks: t('itemRisks5', {
         fallback:
@@ -68,6 +73,7 @@ export const IndustriesDetails = () => {
       }),
     },
     {
+      icon: '/images/industries/icon6.svg',
       title: t('itemTitle6', { fallback: 'Small and Medium Businesses' }),
       risks: t('itemRisks6', {
         fallback:
@@ -123,7 +129,7 @@ export const IndustriesDetails = () => {
                   className={styles.bottom_right}
                 />
                 <Image
-                  src={'/images/industries/icon1.svg'}
+                  src={item.icon}
                   width={32}
                   height={32}
                   alt="industries"

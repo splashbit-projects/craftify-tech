@@ -37,7 +37,8 @@
     "itemTitle4": "Validate",
     "itemText4": "We measure outcomes against recognized frameworks to ensure lasting compliance and performance.",
     "title": "Our Approach",
-    "text": "We don’t sell predefined packages — we assemble the exact expertise your case demands."
+    "text": "We don’t sell predefined packages — we assemble the exact expertise your case demands.",
+    "howWeWorkTitle": "How We Work"
   },
   "ourExpertise": {
     "itemTitle1": "Network & Cloud Security",
@@ -72,7 +73,8 @@
     "item14": "Awareness & Training",
     "item15": "Security Program Management",
     "title": "Expertise Within ",
-    "subtitle": "Our Network"
+    "subtitle": "Our Network",
+    "button": "Meet Our Team"
   },
   "secure": {
     "title": "Secure Your Enterprise Infrastructure, Talk to a Cyber Expert Today",

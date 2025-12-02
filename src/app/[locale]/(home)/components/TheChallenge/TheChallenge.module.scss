@@ -60,6 +60,7 @@
     }
     .bottom {
       border-top: 1px solid rgba(4, 2, 19, 0.08);
+      background: #ff2f66;
       padding: 24px 64px;
       background-image: url('/images/home/cellPattern.svg');
       background-size: cover;
@@ -69,7 +70,7 @@
         padding: 24px 12px;
       }
       p {
-        color: $primary;
+        color: #fff;
         font-size: 14px;
         font-style: normal;
         font-weight: 400;

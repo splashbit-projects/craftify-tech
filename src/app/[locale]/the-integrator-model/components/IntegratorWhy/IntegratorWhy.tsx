@@ -84,7 +84,7 @@ export const IntegratorWhy = () => {
                 width={427}
                 height={20}
               />
-              <VerticalGraph text="Execution" percentage={90} />
+              <VerticalGraph text="Execution" percentage={70} />
               <VerticalGraph text="Risk" percentage={5} />
               <VerticalGraph text="Outcomes" percentage={93} />
               <Image

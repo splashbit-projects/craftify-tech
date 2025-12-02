@@ -3,15 +3,16 @@
 .team_details {
   &__content {
     display: flex;
+    flex-direction: row-reverse;
     align-items: stretch;
     border-right: 1px solid rgba(4, 2, 19, 0.08);
     border-bottom: 1px solid rgba(4, 2, 19, 0.08);
     border-left: 1px solid rgba(4, 2, 19, 0.08);
     @include tablet {
-     // flex-direction: column;
+      // flex-direction: column;
     }
     @include mobile {
-      flex-direction: column;
+      flex-direction: column-reverse;
     }
   }
   &__col_1 {
@@ -20,6 +21,8 @@
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
+    border-left: 1px solid rgba(4, 2, 19, 0.08);
+
     @include tablet {
       width: 100%;
       border-right: none;
@@ -54,7 +57,6 @@
     }
   }
   &__col_2 {
-    border-left: 1px solid rgba(4, 2, 19, 0.08);
     width: 50%;
     padding: 64px;
     display: flex;

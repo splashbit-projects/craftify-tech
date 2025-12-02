@@ -94,6 +94,17 @@ export const OurApproach = () => {
             </motion.p>
           </div>
         </div>
+        <div className={styles.our_approach__howWeWork}>
+          <motion.h2
+            initial="hidden"
+            whileInView="visible"
+            viewport={{ once: true }}
+            variants={fadeInUp}
+            className={styles.title}
+          >
+            {t('howWeWorkTitle', { fallback: 'How We Work' })}
+          </motion.h2>
+        </div>
         <div className={styles.our_approach__items}>
           {items.map((item) => (
             <motion.div

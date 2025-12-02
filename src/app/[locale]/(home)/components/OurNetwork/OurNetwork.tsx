@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 import { useTranslations } from 'next-intl';
 
 import { fadeInUp } from '@/shared/lib/helpers/animations';
+import { Button } from '@/shared/ui/kit/button/Button';
 
 import styles from './OurNetwork.module.scss';
 
@@ -67,6 +68,12 @@ export const OurNetwork = () => {
                 </div>
               ))}
             </div>
+          </div>
+
+          <div className={styles.our_approach__button}>
+            <Button variant="primary" url="/team" type="link">
+              {t('button', { fallback: 'Meet Our Team' })}
+            </Button>
           </div>
         </div>
       </div>
