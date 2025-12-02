@@ -17,7 +17,8 @@ export const CookiePopup = () => {
   useEffect(() => {
     // Check if user has already accepted cookies
     const hasAcceptedCookies = localStorage.getItem('cookiesAccepted');
-    if (!hasAcceptedCookies) {
+    const hasDeclinedCookies = localStorage.getItem('cookiesDeclined');
+    if (!hasAcceptedCookies && !hasDeclinedCookies) {
       setIsVisible(true);
     }
   }, []);
@@ -28,6 +29,7 @@ export const CookiePopup = () => {
   };
 
   const handleDecline = () => {
+    localStorage.setItem('cookiesDeclined', 'true');
     setIsVisible(false);
   };
 
