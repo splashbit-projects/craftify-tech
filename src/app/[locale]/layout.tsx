@@ -1,6 +1,7 @@
 import { Manrope } from 'next/font/google';
 import { Fragment_Mono } from 'next/font/google';
 
+import { GoogleAnalytics } from '@next/third-parties/google';
 import type { Metadata } from 'next';
 import { NextIntlClientProvider } from 'next-intl';
 
@@ -47,6 +48,7 @@ export default async function RootLayout({
 
   return (
     <html lang={locale}>
+      <GoogleAnalytics gaId="G-7YSW5B6JKV" />
       <body className={cn(manrope.variable, fragmentMono.variable)}>
         <NextIntlClientProvider>
           <Preloader />
