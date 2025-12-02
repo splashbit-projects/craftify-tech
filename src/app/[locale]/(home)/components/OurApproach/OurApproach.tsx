@@ -2,7 +2,7 @@
 import { useEffect, useRef, useState } from 'react';
 import Image from 'next/image';
 
-import { motion, AnimatePresence } from 'framer-motion';
+import { AnimatePresence, motion } from 'framer-motion';
 import { useTranslations } from 'next-intl';
 
 import { fadeInUp } from '@/shared/lib/helpers/animations';
@@ -12,7 +12,11 @@ import styles from './OurApproach.module.scss';
 export const OurApproach = () => {
   const t = useTranslations('ourApproach');
   const [activeImageIndex, setActiveImageIndex] = useState(0);
-  const imageRefs = [useRef<HTMLDivElement>(null), useRef<HTMLDivElement>(null), useRef<HTMLDivElement>(null)];
+  const imageRefs = [
+    useRef<HTMLDivElement>(null),
+    useRef<HTMLDivElement>(null),
+    useRef<HTMLDivElement>(null),
+  ];
   const containerRef = useRef<HTMLDivElement>(null);
 
   const items = [
@@ -52,10 +56,12 @@ export const OurApproach = () => {
 
   const texts = [
     t('text1', {
-      fallback: "We don't sell predefined packages — we assemble the exact expertise your case demands.",
+      fallback:
+        "We don't sell predefined packages — we assemble the exact expertise your case demands.",
     }),
     t('text2', {
-      fallback: 'One-time and ongoing solutions — built to solve real problems, not fit into templates.',
+      fallback:
+        'One-time and ongoing solutions — built to solve real problems, not fit into templates.',
     }),
     t('text3', {
       fallback:
