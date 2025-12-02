@@ -2,7 +2,6 @@
 
 import React, { useEffect, useState } from 'react';
 import Image from 'next/image';
-import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 
 import { useTranslations } from 'next-intl';
@@ -11,6 +10,8 @@ import { LangSelector } from '@/shared/ui/components';
 import { Button } from '@/shared/ui/kit/button/Button';
 
 import styles from './Header.module.scss';
+
+import { Link } from '@/i18n/navigation';
 
 export const Header = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);

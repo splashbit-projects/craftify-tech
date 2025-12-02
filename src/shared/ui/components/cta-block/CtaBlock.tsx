@@ -1,12 +1,13 @@
 'use client';
 import Image from 'next/image';
-import Link from 'next/link';
 
 import { motion } from 'framer-motion';
 
 import { fadeInUp } from '@/shared/lib/helpers/animations';
 
 import styles from './CtaBlock.module.scss';
+
+import { Link } from '@/i18n/navigation';
 
 export const CtaBlock = ({
   title,

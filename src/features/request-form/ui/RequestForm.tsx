@@ -1,7 +1,6 @@
 'use client';
 
 import { useRef, useState } from 'react';
-import Link from 'next/link';
 
 import { zodResolver } from '@hookform/resolvers/zod';
 import { useTranslations } from 'next-intl';
@@ -18,6 +17,8 @@ import styles from './RequestForm.module.scss';
 import { RequestFormSuccess } from './RequestFormSuccess';
 
 import 'react-phone-input-2/lib/style.css';
+
+import { Link } from '@/i18n/navigation';
 
 type RequestFormType = 'assistance' | 'consultation' | 'expert-consultation' | 'service-request';
 

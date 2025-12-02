@@ -1,13 +1,14 @@
 'use client';
 
 import Image from 'next/image';
-import Link from 'next/link';
 
 import { useTranslations } from 'next-intl';
 
 import { WEBSITE_EMAIL, WEBSITE_REGISTERED_ADDRESS } from '@/shared/lib/constants/constants';
 
 import styles from './Footer.module.scss';
+
+import { Link } from '@/i18n/navigation';
 
 export const Footer = () => {
   const t = useTranslations('footer');

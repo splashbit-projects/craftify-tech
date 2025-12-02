@@ -1,11 +1,12 @@
 import Image from 'next/image';
-import Link from 'next/link';
 
 import { useTranslations } from 'next-intl';
 
 import { Camera, Close, Microphone, Pencil } from '@/shared/ui/icons';
 
 import styles from './ExpertBlock.module.scss';
+
+import { Link } from '@/i18n/navigation';
 
 export const ExpertBlock = () => {
   const t = useTranslations('expertBlockSingle');

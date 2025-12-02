@@ -1,6 +1,5 @@
 'use client';
 import Image from 'next/image';
-import Link from 'next/link';
 
 import { motion } from 'framer-motion';
 import { useTranslations } from 'next-intl';
@@ -9,6 +8,8 @@ import { fadeInUp } from '@/shared/lib/helpers/animations';
 import { Button } from '@/shared/ui/kit/button/Button';
 
 import styles from './InsightHero.module.scss';
+
+import { Link } from '@/i18n/navigation';
 
 export const InsightHero = () => {
   const t = useTranslations('insightsHero');

@@ -1,6 +1,5 @@
 'use client';
 import Image from 'next/image';
-import Link from 'next/link';
 
 import { motion } from 'framer-motion';
 import { useTranslations } from 'next-intl';
@@ -17,6 +16,8 @@ import {
 import { fadeInUp } from '@/shared/lib/helpers/animations';
 
 import styles from './ContactBlock.module.scss';
+
+import { Link } from '@/i18n/navigation';
 
 export const ContactBlock = () => {
   const t = useTranslations('contact');

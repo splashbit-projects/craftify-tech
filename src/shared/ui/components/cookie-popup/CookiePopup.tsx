@@ -1,6 +1,5 @@
 'use client';
 import { useEffect, useState } from 'react';
-import Link from 'next/link';
 
 import classNames from 'classnames';
 import { useTranslations } from 'next-intl';
@@ -8,6 +7,8 @@ import { useTranslations } from 'next-intl';
 import { Button } from '@/shared/ui/kit/button/Button';
 
 import styles from './CookiePopup.module.scss';
+
+import { Link } from '@/i18n/navigation';
 
 export const CookiePopup = () => {
   const t = useTranslations('cookiePopup');
