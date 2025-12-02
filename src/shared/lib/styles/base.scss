@@ -167,3 +167,28 @@ h3 {
     }
   }
 }
+
+html:not([lang='en']) {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  p,
+  li {
+    transform: scale(0.85) !important;
+    transform-origin: top left;
+  }
+  header {
+    a {
+      font-size: 12px !important;
+    }
+  }
+}
+html[lang='de'] {
+  header {
+    a {
+      font-size: 10px !important;
+    }
+  }
+}
