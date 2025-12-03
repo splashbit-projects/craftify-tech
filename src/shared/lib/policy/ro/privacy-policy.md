@@ -1,103 +1,103 @@
 ---
-title: "Privacy Policy"
+title: "Politica de Confidențialitate"
 last_update: "Last Updated: 27 June 2025"
 ---
 
-At Craftify Labs Technologies SRL (“Craftify Tech”, “we”, “us”, or “our”), we value your privacy and are committed to handling your personal information responsibly, transparently, and securely. This Privacy Policy explains how we collect, use, store, and protect your personal data when you interact with our website or use our services.
+La Craftify Labs Technologies SRL („Craftify Tech”, „noi” sau „al nostru”), prețuim confidențialitatea dumneavoastră și ne angajăm să gestionăm informațiile dumneavoastră personale în mod responsabil, transparent și sigur. Această Politică de Confidențialitate explică modul în care colectăm, utilizăm, stocăm și protejăm datele dumneavoastră personale atunci când interacționați cu site-ul nostru web sau utilizați serviciile noastre.
 
-By using our website or submitting your information through our forms, you acknowledge that you have read and understood this Privacy Policy.
+Prin utilizarea site-ului nostru web sau prin trimiterea informațiilor dumneavoastră prin formularele noastre, recunoașteți că ați citit și ați înțeles această Politică de Confidențialitate.
 
-Company Details:
+Detalii Companie:
 
-Company Name: Craftify Labs Technologies SRL
+Numele Companiei: Craftify Labs Technologies SRL
 
-Registration Address: Șoseaua Mihai Bravu 255, Etaj S, Apartament MOD. S 056, Sector 3, București, Cod 030302, Romania
+Adresă de Înregistrare: Șoseaua Mihai Bravu 255, Etaj S, Apartament MOD. S 056, Sector 3, București, Cod 030302, România
 
-Registration Number: J2025010962001
+Număr de Înregistrare: J2025010962001
 
-Contact Email: info@craftify-tech.com
+E-mail de Contact: info@craftify-tech.com
 
-## Information We Collect
+## Informațiile Pe Care Le Colectăm
 
-We collect personal data that you voluntarily provide when you communicate with us, submit a form, or request our services. Depending on the interaction, we may collect:
+Colectăm date personale pe care ni le furnizați voluntar atunci când comunicați cu noi, trimiteți un formular sau solicitați serviciile noastre. În funcție de interacțiune, putem colecta:
 
-- Full Name – to address and identify you correctly;
+- Numele Complet – pentru a vă adresa și a vă identifica corect;
 
-- Email Address – to respond to inquiries and provide requested information;
+- Adresa de E-mail – pentru a răspunde la întrebări și a furniza informațiile solicitate;
 
-- Phone Number – for direct communication related to your request or project;
+- Numărul de Telefon – pentru comunicarea directă legată de solicitarea sau proiectul dumneavoastră;
 
-- Company Name and Website – to understand your business and tailor our solutions accordingly;
+- Numele Companiei și Site-ul Web – pentru a înțelege afacerea dumneavoastră și a ne adapta soluțiile în consecință;
 
-- Description or Message – to process your request in context and provide relevant assistance.
+- Descrierea sau Mesajul – pentru a procesa solicitarea dumneavoastră în context și a oferi asistență relevantă.
 
-We may also collect technical information automatically when you visit our website, including your IP address, browser type, time zone, device information, and referring URLs. This helps us improve performance, security, and usability.
+De asemenea, putem colecta automat informații tehnice atunci când vizitați site-ul nostru web, inclusiv adresa dumneavoastră IP, tipul de browser, fusul orar, informațiile despre dispozitiv și **URL-urile de referință**. Acest lucru ne ajută să îmbunătățim performanța, securitatea și utilizabilitatea.
 
-## How We Use Your Information
+## Cum Utilizăm Informațiile Dumneavoastră
 
-We process personal data only when necessary for legitimate business purposes, including to:
+Procesăm datele personale doar atunci când este necesar pentru scopuri de afaceri legitime, inclusiv pentru a:
 
-- Respond to inquiries and provide requested information or consultations;
+- Răspunde la întrebări și a furniza informațiile sau consultările solicitate;
 
-- Deliver, manage, and improve our services;
+- Furniza, gestiona și îmbunătăți serviciile noastre;
 
-- Maintain communication regarding ongoing or potential projects;
+- Menține comunicarea privind proiectele în curs sau potențiale;
 
-- Meet legal, contractual, or regulatory requirements;
+- Îndeplini cerințele legale, contractuale sau de reglementare;
 
-- Improve the security, usability, and functionality of our website;
+- Îmbunătăți securitatea, utilizabilitatea și funcționalitatea site-ului nostru web;
 
-- Comply with applicable data protection, anti-fraud, and compliance obligations.
+- Ne conforma obligațiilor aplicabile de protecție a datelor, anti-fraudă și conformitate.
 
-Your data is not shared, sold, or disclosed to third parties except as required by law or when necessary to deliver our services with trusted partners operating under confidentiality obligations.
+Datele dumneavoastră nu sunt partajate, vândute sau divulgate terților, cu excepția cazurilor prevăzute de lege sau când este necesar pentru a ne furniza serviciile cu parteneri de încredere care operează sub obligații de confidențialitate.
 
-## Data Retention
+## Reținerea Datelor
 
-We retain personal data only for as long as necessary to fulfill the purpose for which it was collected, or to comply with legal and regulatory obligations.
+Reținem datele personale doar atât timp cât este necesar pentru a îndeplini scopul pentru care au fost colectate sau pentru a ne conforma obligațiilor legale și de reglementare.
 
-When data is no longer required, we securely delete or anonymize it in accordance with industry standards. Data retention periods may vary depending on the nature of the information and the type of service provided.
+Atunci când datele nu mai sunt necesare, le ștergem sau le anonimizăm în siguranță, în conformitate cu standardele industriei. Perioadele de păstrare a datelor pot varia în funcție de natura informațiilor și tipul de serviciu furnizat.
 
-## Your Rights
+## Drepturile Dumneavoastră
 
-You have the right to:
+Aveți dreptul de a:
 
-- Access – request details about the personal data we hold about you;
+- **Accesa** – solicita detalii despre datele personale pe care le deținem despre dumneavoastră;
 
-- Rectify – correct or update inaccurate or incomplete information;
+- **Rectifica** – corecta sau actualiza informațiile inexacte sau incomplete;
 
-- Erase – request deletion of your personal data where applicable;
+- **Șterge** – solicita ștergerea datelor dumneavoastră personale, acolo unde este cazul;
 
-- Restrict – limit how we process your data under specific conditions;
+- **Restricționa** – limita modul în care procesăm datele dumneavoastră în condiții specifice;
 
-- Portability – request your data in a structured, commonly used format;
+- **Portabilitate** – solicita datele dumneavoastră într-un format structurat, utilizat în mod obișnuit;
 
-- Object – oppose certain types of processing, including direct communications.
+- **Obiecta** – vă opuneți anumitor tipuri de prelucrare, inclusiv comunicărilor directe.
 
-To exercise any of these rights, please contact us at info@craftify-tech.com. We will respond promptly and in line with applicable data protection laws.
+Pentru a exercita oricare dintre aceste drepturi, vă rugăm să ne contactați la **info@craftify-tech.com**. Vom răspunde prompt și în conformitate cu legile aplicabile privind protecția datelor.
 
-## Cookies and Tracking Technologies
+## Cookies și Tehnologii de Urmărire
 
-We use cookies and similar technologies to enhance website performance and personalize user experience. Cookies are small text files stored in your browser that help us remember your preferences, analyze site usage, and improve navigation.
+Utilizăm cookies și tehnologii similare pentru a îmbunătăți performanța site-ului web și a personaliza experiența utilizatorului. Cookies sunt fișiere text mici stocate în browserul dumneavoastră care ne ajută să ne amintim preferințele dumneavoastră, să analizăm utilizarea site-ului și să îmbunătățim navigarea.
 
-You can manage or disable cookies through your browser settings at any time. For more details, please refer to our Cookie Policy.
+Puteți gestiona sau dezactiva cookies prin setările browserului dumneavoastră în orice moment. Pentru mai multe detalii, vă rugăm să consultați **Politica noastră de Cookies**.
 
-## Information Security
+## Securitatea Informațiilor
 
-We apply industry-standard technical and organizational measures to protect your data from unauthorized access, loss, misuse, or alteration. These measures include encryption, secure servers, access controls, and regular security audits.
+Aplicăm măsuri tehnice și organizaționale standard în industrie pentru a proteja datele dumneavoastră împotriva accesului neautorizat, pierderii, utilizării necorespunzătoare sau modificării. Aceste măsuri includ criptarea, servere sigure, controale de acces și audituri regulate de securitate.
 
-While we take all reasonable steps to protect your data, no system is entirely secure. By using our website, you acknowledge and accept the inherent risks of online communication.
+Deși luăm toate măsurile rezonabile pentru a vă proteja datele, niciun sistem nu este complet sigur. Prin utilizarea site-ului nostru web, recunoașteți și acceptați riscurile inerente ale comunicării online.
 
-## Children’s Privacy
+## Confidențialitatea Copiilor
 
-Our website and services are not directed at individuals under the age of 18. We do not knowingly collect or retain personal information from minors. If we become aware that we have collected such data inadvertently, it will be deleted immediately.
+Site-ul nostru web și serviciile nu se adresează persoanelor sub vârsta de 18 ani. Nu colectăm sau reținem cu bună știință informații personale de la minori. Dacă luăm cunoștință că am colectat accidental astfel de date, acestea vor fi șterse imediat.
 
-## Policy Updates
+## Actualizări Ale Politicii
 
-We may update or amend this Privacy Policy periodically to reflect legal or operational changes. The revised version will be posted on this page with the updated date. Continued use of our website following changes indicates your acceptance of the updated terms.
+Putem actualiza sau modifica periodic această Politică de Confidențialitate pentru a reflecta schimbările legale sau operaționale. Versiunea revizuită va fi postată pe această pagină cu data actualizată. Utilizarea continuă a site-ului nostru web după modificări indică acceptarea dumneavoastră a termenilor actualizați.
 
-## Contact Us
+## Contactați-ne
 
-If you have any questions, requests, or concerns regarding this Privacy Policy or our handling of your personal data, please contact us:
+Dacă aveți întrebări, solicitări sau nelămuriri cu privire la această Politică de Confidențialitate sau la gestionarea datelor dumneavoastră personale, vă rugăm să ne contactați:
 
 <div class="contact-block">
 
@@ -106,7 +106,7 @@ If you have any questions, requests, or concerns regarding this Privacy Policy o
   <path d="M4 7.99989L12 12.9999L20 7.99989L12 2.99989L4 7.99989ZM22 7.99989V17.9999C22 18.5303 21.7893 19.039 21.4142 19.4141C21.0391 19.7892 20.5304 19.9999 20 19.9999H4C3.46957 19.9999 2.96086 19.7892 2.58579 19.4141C2.21071 19.039 2 18.5303 2 17.9999V7.99989C2 7.26989 2.39 6.63989 2.97 6.28989L12 0.639893L21.03 6.28989C21.61 6.63989 22 7.26989 22 7.99989Z" fill="#FF2F66"/>
 </svg>
 <div>
-<b>Email</b>
+<b>E-mail</b>
 <a href="mailto:info@craftify-tech.com">info@craftify-tech.com</a>
 </div>
 </div>
@@ -123,11 +123,11 @@ If you have any questions, requests, or concerns regarding this Privacy Policy o
   </defs>
 </svg>
 <div>
-<b>Website</b>
+<b>Site web</b>
 <a href="craftify-tech.com">craftify-tech.com</a>
 </div>
 </div>
 
 </div>
 
-We will review and respond to all inquiries in accordance with applicable data protection requirements.
+Vom examina și vom răspunde la toate solicitările în conformitate cu cerințele aplicabile în materie de protecție a datelor.

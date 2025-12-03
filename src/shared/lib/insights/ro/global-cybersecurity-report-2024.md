@@ -1,119 +1,119 @@
 ---
-title: "Global Cybersecurity Report 2024"
-subtitle: "Navigating a New Era of Digital Threats"
+title: "Raport global de cibersecuritate 2024"
+subtitle: "Navigând într-o nouă eră a amenințărilor digitale"
 image: "/images/insights/article1.webp"
 seo_title: "Global Cybersecurity Report 2024 | Craftify Tech Industry Analysis"
 seo_description: "Explore Craftify Tech Global Cybersecurity Report 2024. Discover key trends shaping the threat landscape, from AI-driven attacks to evolving compliance frameworks, and learn how organizations are adapting."
-excerpt_1: "In 2024, the cybersecurity landscape reached a turning point. The convergence of artificial intelligence, cloud expansion, and geopolitical instability has reshaped the global threat environment. Businesses are facing not only a growing number of attacks but also a new generation of adversaries using automation, deepfake technologies, and sophisticated social engineering tactics."
-excerpt_2: "This report explores the most significant trends defining cybersecurity in 2024, the evolving risk factors for businesses, and how organizations are adapting through professional cybersecurity solutions and managed protection services."
+excerpt_1: "În 2024, peisajul securității cibernetice a ajuns la un punct de cotitură. Convergența inteligenței artificiale, expansiunea cloudului și instabilitatea geopolitică au remodelat mediul global al amenințărilor. Companiile se confruntă nu numai cu un număr tot mai mare de atacuri, ci și cu o nouă generație de adversari care utilizează automatizarea, tehnologiile deepfake și tactici sofisticate de inginerie socială."
+excerpt_2: "Acest raport explorează cele mai semnificative tendințe care definesc securitatea cibernetică în 2024, factorii de risc în continuă evoluție pentru întreprinderi și modul în care organizațiile se adaptează prin soluții profesionale de securitate cibernetică și servicii de protecție gestionate."
 ---
 
-## 1. The state of global cybersecurity in 2024
+## 1. Starea securității cibernetice globale în 2024
 
-The year 2024 was marked by a sharp rise in AI-driven attacks and data exposure incidents across all industries. According to multiple research sources, global cybercrime costs exceeded \$10.5 trillion, making cybersecurity one of the most critical aspects of business continuity.
+Anul 2024 a fost marcat de o creștere accentuată a atacurilor bazate pe IA și a incidentelor de expunere a datelor în toate industriile. Conform mai multor surse de cercetare, costurile globale ale criminalității cibernetice au depășit **\$10.5 trilioane**, făcând din securitatea cibernetică unul dintre cele mai critice aspecte ale continuității afacerilor.
 
-### Key figures:
+### Cifre cheie:
 
-- 68% of organizations reported at least one ransomware attempt this year.
+- **68%** dintre organizații au raportat cel puțin o tentativă de ransomware în acest an.
 
-- 45% of attacks leveraged AI or machine learning tools to automate intrusion or phishing.
+- **45%** dintre atacuri au utilizat instrumente de IA sau învățare automată pentru a automatiza intruziunea sau phishing-ul.
 
-- Cloud security incidents grew by over 30%, driven by hybrid infrastructure misconfigurations.
+- Incidentele de securitate în cloud au crescut cu peste **30%**, determinate de erorile de configurare a infrastructurii hibride.
 
-- Average breach detection time remains high — 204 days on average, despite advances in threat monitoring.
+- Timpul mediu de detectare a breșelor rămâne ridicat — **204 zile** în medie, în ciuda progreselor în monitorizarea amenințărilor.
 
-The ongoing talent shortage further complicates the situation. There are an estimated 3.5 million unfilled cybersecurity roles worldwide, forcing many companies to outsource or adopt managed detection and response (MDR) solutions.
+Deficitul continuu de talente complică și mai mult situația. Există un număr estimat de **3.5 milioane** de posturi neocupate în securitatea cibernetică la nivel mondial, forțând multe companii să externalizeze sau să adopte soluții de detectare și răspuns gestionat (**MDR**).
 
-## 2. Major threat categories of 2024
+## 2. Categorii majore de amenințări în 2024
 
-### 2.1 Ransomware evolves into “data extortion as a service”
+### 2.1 Ransomware-ul evoluează în „extorcare de date ca serviciu”
 
-Ransomware groups have transitioned from simple encryption models to double and triple extortion tactics, stealing sensitive data and threatening public leaks even after ransom payments.
+Grupurile de ransomware au trecut de la modele simple de criptare la tactici de extorcare dublă și triplă, furând date sensibile și amenințând cu scurgeri publice chiar și după plata răscumpărării.
 
-New ransomware-as-a-service (RaaS) models allow low-skilled actors to launch professional-grade attacks, expanding the threat surface dramatically.
+Noile modele **Ransomware-as-a-Service (RaaS)** permit actorilor cu competențe reduse să lanseze atacuri de nivel profesional, extinzând dramatic suprafața de amenințare.
 
-### 2.2 AI-powered phishing and deepfake fraud
+### 2.2 Phishing-ul bazat pe IA și frauda deepfake
 
-AI-generated content now enables realistic impersonation at scale — from voice clones to deepfake video calls. Cybercriminals use these tools to bypass verification systems, trick finance teams, and manipulate business communications.
+Conținutul generat de IA permite acum uzurparea identității realistă la scară largă — de la clone vocale la apeluri video deepfake. Infractorii cibernetici folosesc aceste instrumente pentru a ocoli sistemele de verificare, a păcăli echipele financiare și a manipula comunicările de afaceri.
 
-### 2.3 Supply chain and third-party risks
+### 2.3 Riscuri în lanțul de aprovizionare și la terțe părți
 
-The rise in vendor-integrated systems means a single vulnerability can cascade through hundreds of organizations. Attackers increasingly exploit software updates, cloud APIs, and IoT endpoints as entry points.
+Creșterea sistemelor integrate de furnizori înseamnă că o singură vulnerabilitate poate genera o cascadă prin sute de organizații. Atacatorii exploatează tot mai mult actualizările de software, API-urile cloud și punctele finale IoT ca puncte de intrare.
 
-### 2.4 Cloud misconfigurations and shadow IT
+### 2.4 Erori de configurare a cloud-ului și Shadow IT
 
-As companies accelerate digital transformation, many deploy multi-cloud environments without consistent governance. Misconfigured access policies, forgotten test environments, and unsecured containers remain leading causes of data exposure.
+Pe măsură ce companiile accelerează transformarea digitală, multe implementează medii multi-cloud fără o guvernanță consecventă. Politicile de acces greșit configurate, mediile de testare uitate și containerele nesecurizate rămân cauze principale ale expunerii datelor.
 
-### 2.5 Insider and human-factor threats
+### 2.5 Amenințări din partea angajaților (Insider) și a factorului uman
 
-Human error remains the most frequent initial cause of breaches. In 2024, more than 80% of incidents were linked to phishing, credential reuse, or social engineering — highlighting that awareness training remains a critical defense.
+Eroarea umană rămâne cea mai frecventă cauză inițială a breșelor. În 2024, peste **80%** din incidente au fost legate de phishing, reutilizarea acreditărilor sau ingineria socială — subliniind că formarea de conștientizare rămâne o apărare critică.
 
-## 3. Industry impact analysis
+## 3. Analiza impactului pe industrie
 
-### Finance and banking
+### Finanțe și bănci
 
-Targeted attacks on fintech APIs, payment processors, and digital wallets increased sharply. The financial sector remains the most attacked, with nearly one-third of global ransomware campaigns aimed at financial institutions.
+Atacurile direcționate asupra API-urilor fintech, procesoarelor de plăți și portofelelor digitale au crescut puternic. Sectorul financiar rămâne cel mai atacat, cu aproape o treime din campaniile globale de ransomware vizând instituțiile financiare.
 
-### Healthcare
+### Sănătate
 
-Medical systems continue to face high risks due to outdated infrastructure and valuable personal data. In 2024, several hospital networks suffered operational disruptions following cyber incidents affecting IoT-based medical devices.
+Sistemele medicale continuă să se confrunte cu riscuri ridicate din cauza infrastructurii învechite și a datelor personale valoroase. În 2024, mai multe rețele spitalicești au suferit întreruperi operaționale în urma incidentelor cibernetice care au afectat dispozitivele medicale bazate pe IoT.
 
-### Manufacturing and logistics
+### Producție și logistică
 
-Operational technology (OT) and industrial control systems (ICS) are increasingly connected to corporate networks. Cyberattacks on production systems led to real-world downtime and supply chain losses.
+Tehnologia operațională (OT) și sistemele de control industrial (ICS) sunt tot mai conectate la rețelele corporative. Atacurile cibernetice asupra sistemelor de producție au dus la timpi de nefuncționare reali și pierderi în lanțul de aprovizionare.
 
-### SMBs
+### IMM-uri
 
-Small and medium-sized businesses remain prime targets due to weaker defenses. Many attackers see SMBs as entry points into larger corporate ecosystems through shared platforms or suppliers.
+Întreprinderile mici și mijlocii rămân ținte principale din cauza apărărilor mai slabe. Mulți atacatori văd IMM-urile ca puncte de intrare în ecosistemele corporative mai mari prin platforme sau furnizori partajați.
 
-## 4. The growing adoption of professional cybersecurity services
+## 4. Adoptarea în creștere a serviciilor profesionale de securitate cibernetică
 
-To counter escalating risks, businesses in 2024 increasingly turned to specialized cybersecurity providers for proactive defense. The demand for managed security services (MSS) and MDR (Managed Detection and Response) rose by over 25% year-over-year, driven by a need for:
+Pentru a contracara riscurile în creștere, companiile în 2024 s-au îndreptat tot mai mult către furnizori specializați de securitate cibernetică pentru apărare proactivă. Cererea pentru servicii de securitate gestionate (**MSS**) și **MDR** (Managed Detection and Response) a crescut cu peste **25%** de la an la an, determinată de o nevoie de:
 
-- 24/7 monitoring and rapid incident response
+- Monitorizare 24/7 și răspuns rapid la incidente
 
-- Advanced threat intelligence and analytics
+- Informații avansate despre amenințări și analiză
 
-- Regulatory compliance support (GDPR, ISO 27001, NIS2)
+- Suport pentru conformitatea reglementară (GDPR, ISO 27001, NIS2)
 
-- AI-assisted risk assessment and predictive defense
+- Evaluare a riscurilor asistată de IA și apărare predictivă
 
-Organizations realized that cybersecurity is no longer a single investment but an ongoing strategic function — integrated into every business decision and digital initiative.
+Organizațiile au realizat că securitatea cibernetică nu mai este o investiție unică, ci o **funcție strategică continuă** — integrată în fiecare decizie de afaceri și inițiativă digitală.
 
-## 5. The role of AI — both a threat and a defense
+## 5. Rolul IA — atât o amenințare, cât și o apărare
 
-AI is redefining both sides of the cybersecurity equation. Attackers use AI for automated scanning, password cracking, and content generation. In response, security providers employ AI-powered detection systems capable of identifying anomalies across vast data sets in real time.
+IA redefinește ambele părți ale ecuației de securitate cibernetică. Atacatorii folosesc IA pentru scanare automată, spargere de parole și generare de conținut. Ca răspuns, furnizorii de securitate folosesc sisteme de detectare bazate pe IA capabile să identifice anomaliile în seturi vaste de date în timp real.
 
-In 2024, the most successful defense strategies combined machine learning, human expertise, and contextual analysis — leveraging technology without removing human judgment from the loop.
+În 2024, cele mai reușite strategii de apărare au combinat învățarea automată, expertiza umană și analiza contextuală — valorificând tehnologia fără a elimina judecata umană din buclă.
 
-## 6. Regulatory and compliance developments
+## 6. Evoluții în reglementare și conformitate
 
-Governments and international bodies intensified their regulatory oversight in 2024:
+Guvernele și organismele internaționale și-au intensificat supravegherea reglementară în 2024:
 
-- The EU’s NIS2 Directive expanded cybersecurity obligations to critical infrastructure operators and suppliers.
+- Directiva **NIS2** a UE a extins obligațiile de securitate cibernetică la operatorii și furnizorii de infrastructură critică.
 
-- The U.S. SEC introduced new requirements for public companies to disclose material cybersecurity incidents.
+- **SEC** din S.U.A. a introdus noi cerințe pentru companiile publice de a dezvălui incidentele materiale de securitate cibernetică.
 
-- Emerging markets began adopting their own data protection frameworks, raising the global compliance baseline.
+- Piețele emergente au început să adopte propriile lor cadre de protecție a datelor, ridicând baza globală de conformitate.
 
-Companies that fail to align with evolving standards risk not only fines but also reputational damage and supply chain exclusion.
+Companiile care nu se aliniază la standardele în evoluție riscă nu numai amenzi, ci și daune de reputație și excluderea din lanțul de aprovizionare.
 
-## 7. Outlook for 2025
+## 7. Perspective pentru 2025
 
-Looking ahead, several trends are likely to define the cybersecurity landscape:
+Privind în perspectivă, mai multe tendințe vor defini probabil peisajul securității cibernetice:
 
-1.  Convergence of cybersecurity and business resilience — integrating IT, compliance, and crisis management.
+1. Convergența securității cibernetice și a rezilienței afacerilor — integrarea IT-ului, conformității și gestionării crizelor.
 
-2.  Zero-trust architecture adoption — replacing perimeter-based security with identity-based access controls.
+2. Adoptarea arhitecturii **Zero Trust** — înlocuirea securității bazate pe perimetru cu controale de acces bazate pe identitate.
 
-3.  Automation and AI-driven defense ecosystems — reducing detection-to-response time.
+3. Automatizarea și ecosistemele de apărare bazate pe IA — reducerea timpului de la detectare la răspuns.
 
-4.  Expansion of cybersecurity insurance, though premiums and requirements continue to rise.
+4. Extinderea asigurărilor de securitate cibernetică, deși primele și cerințele continuă să crească.
 
-5.  Growing collaboration between governments and the private sector in intelligence sharing and incident response.
+5. Colaborare crescândă între guverne și sectorul privat în schimbul de informații și răspunsul la incidente.
 
-Organizations that proactively build resilience and partner with professional cybersecurity providers will be best positioned to navigate the risks of an increasingly digital world.
+Organizațiile care construiesc proactiv reziliența și colaborează cu furnizori profesioniști de securitate cibernetică vor fi cel mai bine poziționate pentru a naviga prin riscurile unei lumi tot mai digitale.
 
-Cybersecurity in 2024 has evolved from an IT concern to a core element of business strategy. The complexity of modern attacks, the shortage of skilled professionals, and the increasing regulatory expectations all demand a structured, proactive approach.
+Securitatea cibernetică în 2024 a evoluat de la o preocupare IT la un element central al strategiei de afaceri. Complexitatea atacurilor moderne, deficitul de profesioniști calificați și așteptările reglementare în creștere solicită toate o abordare structurată și proactivă.
 
-Companies that invest in continuous monitoring, employee awareness, and expert-managed services are not only protecting their assets — they are building the trust and operational stability required to grow confidently in a digital-first economy.
+Companiile care investesc în monitorizare continuă, conștientizarea angajaților și servicii gestionate de experți nu doar că își protejează activele — ele construiesc încrederea și stabilitatea operațională necesare pentru a crește cu încredere într-o economie bazată pe digital.

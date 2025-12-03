@@ -23,9 +23,7 @@ export const InsightHero = () => {
         'Discover what 2026 holds for cybersecurity — from AI-driven attacks to autonomous defenses — and how businesses can stay ahead in the age of intelligent threats.',
     }),
     image: '/images/insights/article4.webp',
-    url: t('featuredUrl', {
-      fallback: '/insights/cybersecurity-outlook-2026',
-    }),
+    url: '/insights/cybersecurity-outlook-2026',
   };
 
   const otherArticles = [
@@ -34,27 +32,21 @@ export const InsightHero = () => {
         fallback: 'Cybersecurity Report Q2 2025 Defending Against Autonomy and Deception',
       }),
       image: '/images/insights/article3.webp',
-      url: t('otherArticle1Url', {
-        fallback: '/insights/cybersecurity-report-q2-2025',
-      }),
+      url: '/insights/cybersecurity-report-q2-2025',
     },
     {
       title: t('otherArticle2Title', {
         fallback: 'Cybersecurity Report Q1 2025: Resilience in the Age of Intelligent Threats',
       }),
       image: '/images/insights/article2.webp',
-      url: t('otherArticle2Url', {
-        fallback: '/insights/cybersecurity-report-q1-2025',
-      }),
+      url: '/insights/cybersecurity-report-q1-2025',
     },
     {
       title: t('otherArticle3Title', {
         fallback: 'Global Cybersecurity Report 2024 Navigating a New Era of Digital Threats',
       }),
       image: '/images/insights/article1.webp',
-      url: t('otherArticle3Url', {
-        fallback: '/insights/global-cybersecurity-report-2024',
-      }),
+      url: '/insights/global-cybersecurity-report-2024',
     },
   ];
 

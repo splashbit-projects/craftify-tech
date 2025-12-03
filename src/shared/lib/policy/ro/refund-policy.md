@@ -1,77 +1,77 @@
 ---
-title: "Refund Policy"
+title: "Politica de rambursare"
 last_update: "Last Updated: 27 June 2025"
 ---
 
-This Refund Policy applies to all services provided by Craftify Tech, operated by Craftify Labs Technologies SRL, with its registered address at Șoseaua Mihai Bravu 255, Etaj S, Apartament MOD. S 056, Sector 3, București, Cod 030302, Romania (“the Company”, “we”, “us”, or “our”).
+Această Politică de Rambursare se aplică tuturor serviciilor furnizate de Craftify Tech, operat de Craftify Labs Technologies SRL, cu sediul social la Șoseaua Mihai Bravu 255, Etaj S, Apartament MOD. S 056, Sector 3, București, Cod 030302, România („Compania”, „noi” sau „al nostru”).
 
-All refund-related matters are handled in accordance with applicable commercial and consumer protection laws.
+Toate chestiunile legate de rambursare sunt gestionate în conformitate cu legile aplicabile privind protecția comercială și a consumatorilor.
 
-For any questions, contact us at info@craftify-tech.com.
+Pentru orice întrebări, contactați-ne la info@craftify-tech.com.
 
-## General Terms
+## Termeni Generali
 
-Craftify Tech provides specialized cybersecurity integration and advisory services. Due to the nature of these services, which involve immediate expert engagement, system evaluation, and customized security configurations, all fees are non-refundable once service delivery has commenced.
+Craftify Tech oferă servicii specializate de integrare și consultanță în securitate cibernetică. Datorită naturii acestor servicii, care implică angajarea imediată a experților, evaluarea sistemului și configurații de securitate personalizate, **toate taxele sunt nerambursabile odată ce livrarea serviciului a început.**
 
-Due to the personalized and labor-intensive nature of our work, all fees are non-refundable once service delivery has commenced.
+Datorită naturii personalizate și intensive a muncii noastre, toate taxele sunt nerambursabile odată ce livrarea serviciului a început.
 
-This includes any research, analysis, planning, documentation, or expert assignment initiated under the client’s request.
+Aceasta include orice cercetare, analiză, planificare, documentație sau alocare de expert inițiată la cererea clientului.
 
-Refunds are available only in exceptional cases as defined below.
+Rambursările sunt disponibile doar în cazuri excepționale, așa cum sunt definite mai jos.
 
-### Eligible Refund Cases
+### Cazuri Eligibile de Rambursare
 
-Refunds may be issued exclusively in the following situations:
+Rambursările pot fi emise exclusiv în următoarele situații:
 
-- Technical Error: A verified system malfunction resulted in an incorrect charge or failure to deliver a purchased service.
+- **Eroare Tehnică:** O defecțiune verificată a sistemului a dus la o taxare incorectă sau la eșecul livrării unui serviciu achiziționat.
 
-* Duplicate Payment: The same invoice or service was paid for more than once.
+* **Plată Duplicată:** Aceeași factură sau același serviciu a fost plătit de mai multe ori.
 
-- Overpayment: The amount received exceeded the invoiced total.
+- **Supraplată:** Suma primită a depășit totalul facturat.
 
-Refunds cannot be granted in the following cases:
+Rambursările nu pot fi acordate în următoarele cazuri:
 
-- Change of mind after service commencement.
+- Răzgândire după începerea serviciului.
 
-- Partial completion of services according to agreement terms.
+- Finalizarea parțială a serviciilor conform termenilor acordului.
 
-- Delays or issues resulting from incomplete or late client responses.
+- Întârzieri sau probleme rezultate din răspunsuri incomplete sau tardive din partea clientului.
 
-- Dissatisfaction with results based on subjective interpretation of quality or expectations.
+- Nereușita obținerii rezultatelor bazată pe interpretarea subiectivă a calității sau a așteptărilor.
 
-### 4. Refund Request Procedure
+### 4. Procedura de Solicitare a Rambursării
 
-To submit a refund request, please contact us at [info@craftify-tech.com](mailto:info@craftify-tech.com) and include the following details:
+Pentru a trimite o cerere de rambursare, vă rugăm să ne contactați la [info@craftify-tech.com](mailto:info@craftify-tech.com) și să includeți următoarele detalii:
 
-1.  Your full name or company name
+1. Numele dumneavoastră complet sau numele companiei
 
-2.  Invoice number and payment date
+2. Numărul facturii și data plății
 
-3.  Payment method used
+3. Metoda de plată utilizată
 
-4.  Detailed explanation of your refund request, including any relevant documentation.
+4. Explicație detaliată a solicitării de rambursare, incluzând orice documentație relevantă.
 
-Only fully detailed and verifiable requests will be reviewed.
+Vor fi revizuite doar solicitările complet detaliate și verificabile.
 
-### Review Process and Timeline
+### Procesul de Revizuire și Termenul Limită
 
-All refund requests undergo internal verification by our Finance and Security Department to ensure compliance with cybersecurity and anti-fraud protocols.
+Toate cererile de rambursare sunt supuse unei verificări interne de către Departamentul nostru Financiar și de Securitate pentru a asigura conformitatea cu protocoalele de securitate cibernetică și anti-fraudă.
 
-- The review process may take up to 10 business days from the date we receive complete information.
+- Procesul de revizuire poate dura până la **10 zile lucrătoare** de la data primirii informațiilor complete.
 
-- Once reviewed, the client will receive a written decision by email.
+- Odată revizuit, clientul va primi o decizie scrisă prin e-mail.
 
-## Refund Method
+## Metoda de Rambursare
 
-Approved refunds will be sent exclusively to the same payment method or account from which the original transaction was made.
+Rambursările aprobate vor fi trimise exclusiv către aceeași metodă de plată sau cont din care a fost efectuată tranzacția inițială.
 
-For financial security and compliance reasons, refunds to alternative accounts or payment methods are not possible.
+Din motive de securitate financiară și conformitate, rambursările către conturi sau metode de plată alternative nu sunt posibile.
 
-All refunds are processed securely using encrypted and verified payment channels.
+Toate rambursările sunt procesate în siguranță, utilizând canale de plată criptate și verificate.
 
 ## Contact
 
-If you believe your case qualifies for a refund, or you wish to verify eligibility before submitting a payment, please contact us at:
+Dacă considerați că situația dumneavoastră se califică pentru o rambursare, sau doriți să verificați eligibilitatea înainte de a efectua o plată, vă rugăm să ne contactați la:
 
 <div class="contact-block">
 
@@ -80,7 +80,7 @@ If you believe your case qualifies for a refund, or you wish to verify eligibili
   <path d="M4 7.99989L12 12.9999L20 7.99989L12 2.99989L4 7.99989ZM22 7.99989V17.9999C22 18.5303 21.7893 19.039 21.4142 19.4141C21.0391 19.7892 20.5304 19.9999 20 19.9999H4C3.46957 19.9999 2.96086 19.7892 2.58579 19.4141C2.21071 19.039 2 18.5303 2 17.9999V7.99989C2 7.26989 2.39 6.63989 2.97 6.28989L12 0.639893L21.03 6.28989C21.61 6.63989 22 7.26989 22 7.99989Z" fill="#FF2F66"/>
 </svg>
 <div>
-<b>Email</b>
+<b>E-mail</b>
 <a href="mailto:info@craftify-tech.com">info@craftify-tech.com</a>
 </div>
 </div>
@@ -97,7 +97,7 @@ If you believe your case qualifies for a refund, or you wish to verify eligibili
   </defs>
 </svg>
 <div>
-<b>Website</b>
+<b>Site web</b>
 <a href="craftify-tech.com">craftify-tech.com</a>
 </div>
 </div>

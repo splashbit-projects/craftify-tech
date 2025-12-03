@@ -1,103 +1,103 @@
 ---
-title: "Cookie Policy"
+title: "Politica de Cookie-uri"
 last_update: "Last Updated: 27 June 2025"
 ---
 
-This Cookie Policy explains how Craftify Labs Technologies SRL (“Craftify Tech”, “we”, “us”, or “our”) uses cookies and similar technologies on our website to ensure functionality, enhance performance, and protect your browsing experience.
+Această Politică de Cookies explică modul în care Craftify Labs Technologies SRL („Craftify Tech”, „noi” sau „al nostru”) utilizează cookies și tehnologii similare pe site-ul nostru web pentru a asigura funcționalitatea, a îmbunătăți performanța și a proteja experiența dumneavoastră de navigare.
 
-By continuing to browse or use our website, you consent to the use of cookies as described in this policy. You may withdraw or adjust your consent at any time by managing your cookie preferences in your browser settings.
+Prin continuarea navigării sau utilizării site-ului nostru web, vă exprimați consimțământul pentru utilizarea cookies, așa cum este descris în această politică. Vă puteți retrage sau ajusta consimțământul în orice moment gestionând preferințele dumneavoastră de cookies în setările browserului.
 
-At Craftify Tech, cybersecurity and privacy are integral to everything we do. Our use of cookies is designed not only to improve user experience but also to maintain the integrity, confidentiality, and safety of all online interactions with our systems.
+La Craftify Tech, securitatea cibernetică și confidențialitatea sunt parte integrantă a tot ceea ce facem. Utilizarea cookies de către noi este concepută nu doar pentru a îmbunătăți experiența utilizatorului, ci și pentru a menține integritatea, confidențialitatea și siguranța tuturor interacțiunilor online cu sistemele noastre.
 
-## What Are Cookies?
+## Ce Sunt Cookies?
 
-Cookies are small text files stored on your device when you visit a website. They allow websites to recognize your browser, remember preferences, and analyze how visitors interact with content.
+Cookies (modulele cookie) sunt fișiere text mici stocate pe dispozitivul dumneavoastră atunci când vizitați un site web. Acestea permit site-urilor web să vă recunoască browserul, să rețină preferințele și să analizeze modul în care vizitatorii interacționează cu conținutul.
 
-Cookies are not harmful software — they are widely used for legitimate technical and analytical purposes. However, because they may collect limited personal data, we treat them with the same security and privacy standards as all other forms of information.
+Cookies nu sunt software dăunător — ele sunt utilizate pe scară largă în scopuri tehnice și analitice legitime. Totuși, deoarece pot colecta date personale limitate, le tratăm cu aceleași standarde de securitate și confidențialitate ca toate celelalte forme de informații.
 
-## Types of Cookies We Use
+## Tipurile de Cookies Pe Care Le Utilizăm
 
-We use several categories of cookies to operate our website securely and efficiently:
+Utilizăm mai multe categorii de cookies pentru a opera site-ul nostru web în siguranță și eficient:
 
-### A. Essential (Security & Functionality) Cookies
+### A. Cookies Esențiale (Securitate și Funcționalitate)
 
-These cookies are necessary for the core operation and security of our website. They:
+Aceste cookies sunt necesare pentru funcționarea de bază și securitatea site-ului nostru web. Ele:
 
-- Enable access to secure areas and system features;
+- Permit accesul la zone sigure și la funcțiile sistemului;
 
-- Protect against unauthorized access and malicious activities;
+- Protejează împotriva accesului neautorizat și a activităților malițioase;
 
-- Support safe data transmission between your browser and our servers.
+- Susțin transmiterea sigură a datelor între browserul dumneavoastră și serverele noastre.
 
-Without these cookies, the website may not function properly.
+Fără aceste cookies, este posibil ca site-ul web să nu funcționeze corect.
 
-### B. Performance & Analytics Cookies
+### B. Cookies de Performanță și Analiză
 
-These cookies help us understand how visitors interact with our website. They collect anonymized or aggregated data such as:
+Aceste cookies ne ajută să înțelegem modul în care vizitatorii interacționează cu site-ul nostru web. Ele colectează date anonimizate sau agregate, cum ar fi:
 
-- Pages visited,
+- Paginile vizitate,
 
-- Time spent on site,
+- Timpul petrecut pe site,
 
-- Navigation paths,
+- Traseele de navigare,
 
-- Browser and device types.
+- Tipul de browser și dispozitiv.
 
-This allows us to detect unusual traffic patterns, enhance cybersecurity monitoring, and optimize usability without compromising privacy.
+Acest lucru ne permite să detectăm tipare de trafic neobișnuite, să îmbunătățim monitorizarea securității cibernetice și să optimizăm utilizabilitatea fără a compromite confidențialitatea.
 
-### C. Preference Cookies
+### C. Cookies de Preferințe
 
-These cookies remember your choices—such as preferred language, region, or cookie settings—to create a smoother and more personalized browsing experience.
+Aceste cookies rețin alegerile dumneavoastră — cum ar fi limba preferată, regiunea sau setările de cookies — pentru a crea o experiență de navigare mai fluidă și mai personalizată.
 
-### D. Third-Party & Integration Cookies
+### D. Cookies Terțe și de Integrare
 
-Certain pages may include embedded tools or links from trusted partners or third-party platforms (e.g., analytics or communication tools). These third parties may set their own cookies according to their policies.
+Anumite pagini pot include instrumente încorporate sau linkuri de la parteneri de încredere sau platforme terțe (de exemplu, instrumente de analiză sau comunicare). Aceste terțe părți își pot seta propriile cookies în conformitate cu politicile lor.
 
-We only collaborate with providers that maintain strong data protection and cybersecurity standards.
+Colaborăm doar cu furnizori care mențin standarde stricte de protecție a datelor și securitate cibernetică.
 
-## Cybersecurity and Data Protection
+## Securitate Cibernetică și Protecția Datelor
 
-Cookies are handled in accordance with our strict internal information security protocols.
+Cookies sunt gestionate în conformitate cu protocoalele noastre interne stricte de securitate a informațiilor.
 
-We use encryption, controlled access, and anonymization techniques to prevent unauthorized tracking, profiling, or data breaches.
+Utilizăm criptarea, accesul controlat și tehnicile de anonimizare pentru a preveni urmărirea, profilarea sau breșele de date neautorizate.
 
-We regularly audit cookie-related scripts and remove any components that could introduce vulnerabilities or pose a privacy risk.
+Audităm în mod regulat scripturile legate de cookies și eliminăm orice componente care ar putea introduce vulnerabilități sau ar putea prezenta un risc de confidențialitate.
 
-In short, our cookies are not just functional — they’re part of our cybersecurity layer that keeps your browsing experience safe.
+Pe scurt, cookies-urile noastre nu sunt doar funcționale — ele fac parte din stratul nostru de securitate cibernetică ce menține sigură experiența dumneavoastră de navigare.
 
-## Managing and Disabling Cookies
+## Gestionarea și Dezactivarea Cookies
 
-You have full control over your cookie preferences. Most web browsers allow you to:
+Aveți control deplin asupra preferințelor dumneavoastră de cookies. Majoritatea browserelor web vă permit să:
 
-- View which cookies are stored;
+- Vedeți ce cookies sunt stocate;
 
-- Delete existing cookies;
+- Ștergeți cookies existente;
 
-- Block all or specific cookies;
+- Blocați toate cookies-urile sau pe cele specifice;
 
-- Receive notifications before a cookie is stored.
+- Primiți notificări înainte de stocarea unui cookie.
 
-Please note that disabling essential cookies may affect website functionality or limit access to certain secure sections.
+Vă rugăm să rețineți că dezactivarea cookies-urilor esențiale poate afecta funcționalitatea site-ului web sau poate limita accesul la anumite secțiuni securizate.
 
-You can manage your settings in your browser’s “Privacy” or “Security” section. For more information, visit:
+Vă puteți gestiona setările în secțiunea „Confidențialitate” sau „Securitate” a browserului dumneavoastră. Pentru mai multe informații, vizitați:
 
-- Google Chrome Settings
+- [Setări Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)
 
-- [Mozilla Firefox Settings](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop)
+- [Setări Mozilla Firefox](https://support.mozilla.org/ro/kb/protejarea-imbunatatita-impotriva-urmaririi-in-firefox)
 
-- [Microsoft Edge Settings](https://support.microsoft.com/en-us/microsoft-edge/view-cookies-in-microsoft-edge-a7d95376-f2cd-8e4a-25dc-1de753474879)
+- [Setări Microsoft Edge](https://support.microsoft.com/ro-ro/microsoft-edge/vizualiza%C8%9Bi-modulele-cookie-%C3%AEn-microsoft-edge-a7d95376-f2cd-8e4a-25dc-1de753474879)
 
-- [Apple Safari Settings](https://support.apple.com/en-gb/guide/safari/sfri11471/mac)
+- [Setări Apple Safari](https://support.apple.com/ro-ro/guide/safari/sfri11471/mac)
 
-## Updates to This Policy
+## Actualizări Ale Acestei Politici
 
-We may update this Cookie Policy to reflect technical, legal, or operational changes. The revised version will be published on this page with an updated date.
+Putem actualiza această Politică de Cookies pentru a reflecta schimbările tehnice, legale sau operaționale. Versiunea revizuită va fi publicată pe această pagină cu o dată actualizată.
 
-We encourage you to review this policy periodically to stay informed about how we use cookies and maintain your online security.
+Vă încurajăm să revizuiți periodic această politică pentru a rămâne informat cu privire la modul în care utilizăm cookies și menținem securitatea dumneavoastră online.
 
-## Contact Us
+## Contactați-ne
 
-If you have any questions, concerns, or requests related to our Cookie Policy, please contact us at:
+Dacă aveți întrebări, nelămuriri sau solicitări legate de Politica noastră de Cookies, vă rugăm să ne contactați la:
 
 <div class="contact-block">
 
@@ -106,7 +106,7 @@ If you have any questions, concerns, or requests related to our Cookie Policy, p
   <path d="M4 7.99989L12 12.9999L20 7.99989L12 2.99989L4 7.99989ZM22 7.99989V17.9999C22 18.5303 21.7893 19.039 21.4142 19.4141C21.0391 19.7892 20.5304 19.9999 20 19.9999H4C3.46957 19.9999 2.96086 19.7892 2.58579 19.4141C2.21071 19.039 2 18.5303 2 17.9999V7.99989C2 7.26989 2.39 6.63989 2.97 6.28989L12 0.639893L21.03 6.28989C21.61 6.63989 22 7.26989 22 7.99989Z" fill="#FF2F66"/>
 </svg>
 <div>
-<b>Email</b>
+<b>E-mail</b>
 <a href="mailto:info@craftify-tech.com">info@craftify-tech.com</a>
 </div>
 </div>
@@ -123,7 +123,7 @@ If you have any questions, concerns, or requests related to our Cookie Policy, p
   </defs>
 </svg>
 <div>
-<b>Website</b>
+<b>Site web</b>
 <a href="craftify-tech.com">craftify-tech.com</a>
 </div>
 </div>

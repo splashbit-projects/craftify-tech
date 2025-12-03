@@ -1,151 +1,151 @@
 ---
-title: "Cybersecurity Report Q2 2025"
-subtitle: "Defending Against Autonomy and Deception"
+title: "Raport de Cybersecuritate Q2 2025"
+subtitle: "Apărarea împotriva Autonomiei și Decepției"
 image: "/images/insights/article3.webp"
 seo_title: "Cybersecurity Report Q2 2025 | Global Analysis by Craftify Tech"
 seo_description: "Explore Craftify Tech's Cybersecurity Report Q2 2025, revealing how autonomous AI attacks, data extortion, and deepfake deception are reshaping the global threat landscape, and how organizations are defending through innovation."
-excerpt_1: "The second quarter of 2025 marked another acceleration in the evolution of cyber threats. The lines between automated, state-sponsored, and criminal operations have blurred further, as adversaries leverage autonomous <b>AI systems, synthetic content</b>, and <b>supply chain manipulation</b> to breach even the most prepared organizations."
-excerpt_2: "While the global cybersecurity industry continues to mature, new vulnerabilities are emerging faster than traditional defenses can adapt. This report analyzes the main developments from April to June 2025 — highlighting major incidents, threat trends, and how organizations are responding through innovation and collaboration."
+excerpt_1: "Al doilea trimestru al anului 2025 a marcat o nouă accelerare în evoluția amenințărilor cibernetice. Granițele dintre operațiunile automatizate, sponsorizate de stat și cele criminale s-au estompat și mai mult, pe măsură ce adversarii utilizează <b>sisteme autonome de inteligență artificială, conținut sintetic</b> și <b>manipularea lanțului de aprovizionare</b> pentru a penetra chiar și cele mai bine pregătite organizații."
+excerpt_2: "În timp ce industria globală a securității cibernetice continuă să se maturizeze, noi vulnerabilități apar mai repede decât se pot adapta sistemele tradiționale de apărare. Acest raport analizează principalele evoluții din perioada aprilie-iunie 2025, evidențiind incidentele majore, tendințele în materie de amenințări și modul în care organizațiile răspund prin inovare și colaborare."
 ---
 
-## 1. Global cybersecurity overview
+## 1. Prezentare generală a securității cibernetice globale
 
-### 1.1 Surge in AI-automated attacks
+### 1.1 Creșterea atacurilor automatizate de IA
 
-Q2 confirmed that cyberattacks powered by self-learning algorithms are becoming the new normal. These systems continuously test, adapt, and evolve based on defensive responses.
+Trimestrul 2 a confirmat că atacurile cibernetice bazate pe algoritmi de auto-învățare devin noua normalitate. Aceste sisteme testează, adaptează și evoluează continuu pe baza răspunsurilor defensive.
 
-- Nearly 70% of detected intrusion attempts in Q2 showed signs of automation or generative AI involvement.
+- Aproape **70%** din tentativele de intruziune detectate în T2 au prezentat semne de automatizare sau implicare a IA generative.
 
-- Adaptive phishing kits, capable of rewriting emails in real time based on recipients’ behavior, became a leading threat vector.
+- Kiturile de phishing adaptiv, capabile să rescrie e-mailurile în timp real pe baza comportamentului destinatarilor, au devenit un vector de amenințare principal.
 
-- AI-based vulnerability scanning bots are now scanning public networks 24/7, identifying exploitable systems within minutes of new CVE disclosures.
+- Roboții de scanare a vulnerabilităților bazați pe IA scanează acum rețelele publice 24/7, identificând sistemele exploatabile în câteva minute de la dezvăluirea noilor **CVE** (Common Vulnerabilities and Exposures).
 
-### 1.2 Data extortion and ransomware diversification
+### 1.2 Extorcarea de date și diversificarea ransomware-ului
 
-Ransomware continues to evolve beyond encryption. Attackers increasingly rely on pure data extortion — stealing sensitive files and demanding payment for non-disclosure.
+Ransomware-ul continuă să evolueze dincolo de criptare. Atacatorii se bazează tot mai mult pe extorcarea pură de date — furtul de fișiere sensibile și cererea de plată pentru ne-divulgare.
 
-- The number of extortion-only attacks grew 38% quarter-over-quarter.
+- Numărul atacurilor bazate exclusiv pe extorcare a crescut cu **38%** față de trimestrul precedent.
 
-- Average ransom demands remained high at around \$1.9 million, while fewer victims chose to pay.
+- Cererile medii de răscumpărare au rămas ridicate, în jurul valorii de **\$1.9 milioane**, în timp ce tot mai puține victime au ales să plătească.
 
-- Governments worldwide began drafting coordinated policies to prohibit ransom payments to known criminal groups.
+- Guvernele din întreaga lume au început să elaboreze politici coordonate pentru a interzice plățile de răscumpărare către grupările criminale cunoscute.
 
-### 1.3 Cloud and SaaS compromise escalation
+### 1.3 Escaladarea compromiterii Cloud și SaaS
 
-The majority of breaches in Q2 originated in cloud or SaaS environments. Misconfigured access controls, token reuse, and third-party integrations created cascading vulnerabilities.
+Majoritatea breșelor din T2 au provenit din medii cloud sau SaaS. Controalele de acces greșit configurate, reutilizarea token-urilor și integrările terțe au creat vulnerabilități în cascadă.
 
-- One in four security incidents involved stolen or leaked API keys.
+- Unul din patru incidente de securitate a implicat chei API furate sau divulgate.
 
-- The “multi-cloud blind spot” — gaps in monitoring between cloud providers — has become a critical challenge for enterprise security teams.
+- **„Punctul mort multi-cloud”** — lacunele de monitorizare între furnizorii de cloud — a devenit o provocare critică pentru echipele de securitate ale întreprinderilor.
 
-## 2. Key cyber incidents and lessons learned
+## 2. Incidente cibernetice cheie și lecții învățate
 
-### 2.1 Global logistics provider hit by coordinated ransomware
+### 2.1 Furnizor global de logistică lovit de ransomware coordonat
 
-In May 2025, a major international logistics company suffered a multi-stage ransomware attack, disrupting operations in over 20 countries. The attackers used compromised IoT scanners as entry points, underscoring the ongoing risk of connected devices in industrial environments.
+În mai 2025, o companie internațională majoră de logistică a suferit un atac ransomware în mai multe etape, perturbând operațiunile în peste 20 de țări. Atacatorii au folosit scanere IoT compromise ca puncte de intrare, subliniind riscul continuu al dispozitivelor conectate în mediile industriale.
 
-| Lesson: Continuous monitoring of operational technology (OT) networks is essential — traditional IT firewalls alone are insufficient. |
-| ------------------------------------------------------------------------------------------------------------------------------------- |
+| Lecție: Monitorizarea continuă a rețelelor de tehnologie operațională (OT) este esențială — firewall-urile IT tradiționale nu sunt suficiente. |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
-### 2.2 AI deepfake scam targeting multinational CFOs
+### 2.2 Fraudă AI deepfake care vizează directorii financiari ai multinaționalelor
 
-Several corporations across Europe and Asia reported video-call fraud in which attackers used AI deepfakes of senior executives to authorize fund transfers. These incidents highlight the growing threat of synthetic identity attacks and the urgent need for multi-channel verification protocols.
+Mai multe corporații din Europa și Asia au raportat fraude prin apeluri video în care atacatorii au folosit **deepfake-uri IA** ale directorilor executivi seniori pentru a autoriza transferuri de fonduri. Aceste incidente evidențiază amenințarea în creștere a atacurilor de identitate sintetică și nevoia urgentă de protocoale de verificare pe mai multe canale.
 
-| Lesson: Voice or visual confirmation alone is no longer a reliable form of identity validation. |
-| ----------------------------------------------------------------------------------------------- |
+| Lecție: Confirmarea vocală sau vizuală nu mai este o formă fiabilă de validare a identității. |
+| --------------------------------------------------------------------------------------------- |
 
 
-### 2.3 Supply chain breach in software development
+### 2.3 Breșă în lanțul de aprovizionare în dezvoltarea de software
 
-A compromised update in a widely used open-source package led to data exfiltration in hundreds of corporate environments. The event reignited debates about open-source dependency risk management.
+O actualizare compromisă într-un pachet open-source utilizat pe scară largă a dus la exfiltrarea de date în sute de medii corporative. Evenimentul a reaprins dezbaterile privind gestionarea riscului de dependență de surse deschise.
 
-| Lesson: Continuous software composition analysis (SCA) and vendor security assessments must become standard practice. |
-| --------------------------------------------------------------------------------------------------------------------- |
+| Lecție: Analiza continuă a compoziției software (SCA) și evaluările de securitate ale furnizorilor trebuie să devină practici standard. |
+| --------------------------------------------------------------------------------------------------------------------------------------- |
 
 
-## 3. Threat landscape analysis
+## 3. Analiza peisajului amenințărilor
 
-### 3.1 Sector breakdown
+### 3.1 Defalcare pe sectoare
 
-- Finance & Banking: Targeted by 29% of global cyber incidents this quarter. Focus shifted to fraudulent API connections in fintech apps and AI-powered identity spoofing.
+- **Finanțe și Bănci:** Vizate de **29%** din incidentele cibernetice globale din acest trimestru. Accentul s-a mutat pe conexiunile API frauduloase în aplicațiile fintech și pe uzurparea de identitate bazată pe IA.
 
-- Healthcare: Continued to face ransomware pressure, with patient data remaining the most valuable asset. New attacks exploited outdated medical IoT firmware.
+- **Sănătate:** A continuat să se confrunte cu presiunea ransomware, datele pacienților rămânând cel mai valoros activ. Noile atacuri au exploatat firmware-ul învechit al dispozitivelor medicale IoT.
 
-- Manufacturing & Energy: Increasing attacks on industrial IoT systems caused downtime and safety risks.
+- **Producție și Energie:** Atacurile în creștere asupra sistemelor industriale IoT au cauzat timpi de nefuncționare și riscuri de siguranță.
 
-- Retail & E-commerce: Surge in credential-stuffing and card-not-present fraud driven by automated botnets.
+- **Retail și E-commerce:** Creștere a fraudelor de tip **credential-stuffing** și card-not-present, conduse de rețele de **botnet** automatizate.
 
-### 3.2 Emerging threat categories
+### 3.2 Categorii de amenințări emergente
 
-- Synthetic insider attacks — criminals impersonating employees through AI-generated profiles to gain access.
+- **Atacuri de tip insider sintetic** — infractorii se dau drept angajați prin profiluri generate de IA pentru a obține acces.
 
-- Quantum-resilient encryption testing — early signs that threat actors are experimenting with breaking weaker algorithms in preparation for the post-quantum era.
+- **Testarea criptării rezistente la cuantică** — semne timpurii că actorii de amenințare experimentează spargerea algoritmilor mai slabi în pregătirea pentru era post-cuantică.
 
-- Cross-cloud lateral movement — attackers leveraging identity federation misconfigurations to pivot between cloud environments.
+- **Mișcare laterală cross-cloud** — atacatorii exploatează erorile de configurare a federației de identitate pentru a pivota între mediile cloud.
 
-## 4. The evolving defense response
+## 4. Răspunsul defensiv în evoluție
 
-### 4.1 Shift toward autonomous defense
+### 4.1 Trecerea la apărarea autonomă
 
-To counter automated threats, organizations are investing in autonomous cybersecurity frameworks capable of self-learning and adaptive response.
+Pentru a contracara amenințările automatizate, organizațiile investesc în cadre de securitate cibernetică autonome, capabile de auto-învățare și răspuns adaptiv.
 
-- AI-driven SOC systems reduced detection times by up to 40%.
+- Sistemele **SOC** bazate pe IA au redus timpii de detectare cu până la **40%**.
 
-- Predictive analytics tools are increasingly used to anticipate likely breach paths before attacks occur.
+- Instrumentele de analiză predictivă sunt utilizate tot mai mult pentru a anticipa căile probabile de breșă înainte ca atacurile să aibă loc.
 
-### 4.2 Expansion of managed security partnerships
+### 4.2 Extinderea parteneriatelor de securitate gestionată
 
-The shortage of cybersecurity professionals remains acute. As a result:
+Deficitul de profesioniști în securitate cibernetică rămâne acut. Drept urmare:
 
-- Global spending on managed detection and response (MDR) services rose 24% year-over-year.
+- Cheltuielile globale pentru serviciile de detectare și răspuns gestionat (**MDR**) au crescut cu **24%** de la an la an.
 
-- Co-managed SOC models are emerging — combining internal expertise with external threat intelligence.
+- Apar modelele **SOC co-gestionat** — combinând expertiza internă cu informațiile externe despre amenințări.
 
-- SMBs are adopting Security-as-a-Service models, benefiting from enterprise-grade protection without capital investment.
+- IMM-urile adoptă modele **Security-as-a-Service**, beneficiind de protecție de nivel enterprise fără investiții de capital.
 
-### 4.3 Human resilience and awareness
+### 4.3 Reziliența umană și conștientizarea
 
-Despite technological progress, human error still accounts for over 80% of initial breaches.
+În ciuda progresului tehnologic, eroarea umană este încă responsabilă pentru peste **80%** din breșele inițiale.
 
-Organizations that invest in continuous training, phishing simulations, and incident rehearsal exercises demonstrate 60% fewer successful intrusions.
+Organizațiile care investesc în training continuu, simulări de phishing și exerciții de repetiție a incidentelor demonstrează cu **60%** mai puține intruziuni reușite.
 
-## 5. Regulation and policy updates
+## 5. Reglementare și actualizări de politici
 
-- The EU’s NIS2 Directive entered its enforcement phase in June 2025, requiring mandatory incident reporting and stricter supplier oversight.
+- Directiva **NIS2** a UE a intrat în faza de aplicare în iunie 2025, cerând raportarea obligatorie a incidentelor și o supraveghere mai strictă a furnizorilor.
 
-- The U.S. Federal Cyber Resilience Act, introduced in April, aims to unify reporting standards across critical infrastructure sectors.
+- **Actul Federal American de Reziliență Cibernetică** (U.S. Federal Cyber Resilience Act), introdus în aprilie, urmărește unificarea standardelor de raportare în sectoarele de infrastructură critică.
 
-- Asia-Pacific regulators — particularly in Singapore and South Korea — expanded cross-border data security requirements, emphasizing transparency and vendor accountability.
+- Autoritățile de reglementare din Asia-Pacific — în special în Singapore și Coreea de Sud — au extins cerințele transfrontaliere de securitate a datelor, punând accent pe transparență și responsabilitatea furnizorilor.
 
-These regulatory developments signal that cybersecurity compliance is evolving from a “checklist” to a continuous risk management discipline.
+Aceste evoluții de reglementare semnalează că conformitatea în securitatea cibernetică evoluează de la o „listă de verificare” la o disciplină continuă de gestionare a riscurilor.
 
-## 6. Investment and economic outlook
+## 6. Investiții și perspective economice
 
-- Global cybersecurity spending reached an estimated \$223 billion in Q2 2025 — up 15% year-over-year.
+- Cheltuielile globale pentru securitatea cibernetică au atins o estimare de **\$223 miliarde** în T2 2025 — o creștere de **15%** de la an la an.
 
-- The strongest investment growth occurred in AI-powered analytics, identity protection, and incident automation.
+- Cea mai puternică creștere a investițiilor a avut loc în analiza bazată pe IA, protecția identității și automatizarea incidentelor.
 
-- Venture capital funding in cybersecurity startups specializing in AI defense, post-quantum encryption, and SaaS security posture management (SSPM) reached its highest point since 2021.
+- Finanțarea capitalului de risc în startup-uri de securitate cibernetică specializate în apărare AI, criptare post-cuantică și gestionarea poziției de securitate SaaS (**SSPM**) a atins cel mai înalt punct din 2021.
 
-This indicates growing recognition that cybersecurity is not merely a cost center but a driver of long-term business resilience and trust.
+Acest lucru indică o recunoaștere tot mai mare că securitatea cibernetică nu este doar un centru de cost, ci un motor al rezilienței și încrederii pe termen lung în afaceri.
 
-## 7. Outlook for Q3 2025
+## 7. Perspective pentru T3 2025
 
-The coming months are expected to bring:
+Lunile următoare se așteaptă să aducă:
 
-1.  Expansion of AI-driven “persistent threat loops” — automated systems that re-engage after detection.
+1.  Extinderea **„buclelor de amenințare persistentă”** bazate pe IA — sisteme automate care reiau atacul după detectare.
 
-2.  Wider attacks targeting supply chains in the AI and data analytics sectors.
+2.  Atacuri mai ample vizând lanțurile de aprovizionare din sectoarele IA și de analiză a datelor.
 
-3.  Adoption of post-quantum encryption pilots in financial and government institutions.
+3.  Adoptarea de proiecte pilot de criptare post-cuantică în instituțiile financiare și guvernamentale.
 
-4.  Increased collaboration between private cybersecurity firms and national CERTs to exchange real-time threat intelligence.
+4.  Colaborare sporită între firmele private de securitate cibernetică și **CERT**-urile naționale pentru a schimba informații despre amenințări în timp real.
 
-Organizations that align prevention, detection, and recovery under unified, data-driven frameworks will be best positioned to mitigate these emerging risks.
+Organizațiile care aliniază prevenirea, detectarea și recuperarea sub cadre unificate, bazate pe date, vor fi cel mai bine poziționate pentru a atenua aceste riscuri emergente.
 
-Q2 2025 has demonstrated that cybersecurity has entered a new strategic phase — one where automation, deception, and resilience define both attack and defense.
+T2 2025 a demonstrat că securitatea cibernetică a intrat într-o nouă fază strategică — una în care automatizarea, înșelăciunea și reziliența definesc atât atacul, cât și apărarea.
 
-Businesses that combine AI-enabled defense technologies with human expertise, supply chain governance, and regulatory compliance will maintain the agility required to operate securely in an increasingly complex digital environment.
+Afacerile care combină tehnologiile de apărare activate de IA cu expertiza umană, guvernanța lanțului de aprovizionare și conformitatea reglementară vor menține agilitatea necesară pentru a opera în siguranță într-un mediu digital tot mai complex.
 
-As the threat landscape becomes more intelligent, the most successful organizations will not only defend against attacks — they will learn, adapt, and strengthen faster than their adversaries.
+Pe măsură ce peisajul amenințărilor devine mai inteligent, cele mai de succes organizații nu doar se vor apăra împotriva atacurilor — ele vor învăța, se vor adapta și se vor consolida mai rapid decât adversarii lor.
