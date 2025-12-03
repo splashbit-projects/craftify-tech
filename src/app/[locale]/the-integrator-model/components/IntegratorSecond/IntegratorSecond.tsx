@@ -2,7 +2,7 @@
 import Image from 'next/image';
 
 import { motion } from 'framer-motion';
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 
 import { fadeInUp } from '@/shared/lib/helpers/animations';
 
@@ -10,6 +10,8 @@ import styles from './IntegratorSecond.module.scss';
 
 export const IntegratorSecond = () => {
   const t = useTranslations('integratorSecond');
+  const locale = useLocale();
+
   return (
     <section className={styles.integrator_second}>
       <div className={'_container'}>
@@ -48,7 +50,7 @@ export const IntegratorSecond = () => {
                 height={20}
               />
               <Image
-                src="/images/integrator/ChartContent.svg"
+                src={`/images/integrator/ChartContent-${locale}.svg`}
                 alt="integrator model"
                 width={379}
                 height={250}

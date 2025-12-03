@@ -3,7 +3,7 @@
 import Image from 'next/image';
 
 import { motion } from 'framer-motion';
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 
 import { fadeInUp } from '@/shared/lib/helpers/animations';
 import { Button } from '@/shared/ui/kit/button/Button';
@@ -12,13 +12,19 @@ import styles from './Secure.module.scss';
 
 export const Secure = () => {
   const t = useTranslations('secure');
+  const locale = useLocale();
 
   return (
     <section className={styles.secure}>
       <div className={'_container'}>
         <div className={styles.secure__content}>
           <div className={styles.secure__col_1}>
-            <Image src="/images/home/secure/radar.svg" alt="secure" width={500} height={500} />
+            <Image
+              src={`/images/home/secure/radar-${locale}.svg`}
+              alt="secure"
+              width={500}
+              height={500}
+            />
           </div>
           <div className={styles.secure__col_2}>
             <motion.h2

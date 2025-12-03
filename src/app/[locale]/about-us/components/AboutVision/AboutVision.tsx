@@ -2,7 +2,7 @@
 import Image from 'next/image';
 
 import { motion } from 'framer-motion';
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 
 import { fadeInUp } from '@/shared/lib/helpers/animations';
 
@@ -10,6 +10,7 @@ import styles from './AboutVision.module.scss';
 
 export const AboutVision = () => {
   const t = useTranslations('aboutVision');
+  const locale = useLocale();
 
   return (
     <section className={styles.about_vision}>
@@ -17,7 +18,7 @@ export const AboutVision = () => {
         <div className={styles.about_vision__content}>
           <div className={styles.about_vision__col_1}>
             <Image
-              src="/images/about-us/vision/chart.svg"
+              src={`/images/about-us/vision/chart-${locale}.svg`}
               alt="about vision"
               width={383}
               height={383}

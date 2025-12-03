@@ -44,11 +44,23 @@
     background-position: center;
     background-repeat: no-repeat;
     @include tablet {
-      padding: 32px 12px;
+      padding: 32px 0;
       flex-direction: column;
       align-items: center;
       justify-content: center;
       background-image: url('/images/integrator/heroBG-mob.png');
+    }
+    a {
+      white-space: nowrap;
+    }
+    img {
+      width: 100%;
+      height: auto;
+      margin-right: -10px;
+      @include tablet {
+        margin-right: 0;
+        margin-bottom: -10px;
+      }
     }
     .dt {
       display: block;

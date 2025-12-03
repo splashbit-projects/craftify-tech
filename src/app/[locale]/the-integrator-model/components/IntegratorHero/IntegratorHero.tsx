@@ -2,7 +2,7 @@
 
 import Image from 'next/image';
 
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 
 import { Button } from '@/shared/ui/kit/button/Button';
 
@@ -11,6 +11,7 @@ import styles from './IntegratorHero.module.scss';
 export const IntegratorHero = () => {
   const t = useTranslations('integratorHero');
 
+  const locale = useLocale();
   return (
     <section className={styles.integrator_hero}>
       <div className={'_container'}>
@@ -22,14 +23,14 @@ export const IntegratorHero = () => {
         </div>
         <div className={styles.integrator_hero__content}>
           <Image
-            src="/images/integrator/hero-chart.png"
+            src={`/images/integrator/hero-chart-${locale}.png`}
             alt="Integrator Model"
             width={824}
             height={260}
             className={styles.dt}
           />
           <Image
-            src="/images/integrator/hero-chart-mob.png"
+            src={`/images/integrator/hero-chart-mob-${locale}.png`}
             alt="Integrator Model"
             width={366}
             height={490}

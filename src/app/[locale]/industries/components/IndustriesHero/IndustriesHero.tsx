@@ -3,7 +3,7 @@
 import Image from 'next/image';
 
 import { motion } from 'framer-motion';
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 
 import { fadeInUp } from '@/shared/lib/helpers/animations';
 
@@ -11,6 +11,7 @@ import styles from './IndustriesHero.module.scss';
 
 export const IndustriesHero = () => {
   const t = useTranslations('industriesHero');
+  const locale = useLocale();
 
   return (
     <section className={styles.industries_hero}>
@@ -34,7 +35,12 @@ export const IndustriesHero = () => {
             </motion.h1>
           </div>
           <div className={styles.industries_hero__col_2}>
-            <Image src="/images/industries/hero.svg" alt="industries" width={496} height={422} />
+            <Image
+              src={`/images/industries/hero-${locale}.svg`}
+              alt="industries"
+              width={496}
+              height={422}
+            />
           </div>
         </div>
       </div>
