@@ -1,77 +1,77 @@
 ---
-title: "Refund Policy"
+title: "Politica di rimborso"
 last_update: "Last Updated: 27 June 2025"
 ---
 
-This Refund Policy applies to all services provided by Craftify Tech, operated by Craftify Labs Technologies SRL, with its registered address at Șoseaua Mihai Bravu 255, Etaj S, Apartament MOD. S 056, Sector 3, București, Cod 030302, Romania (“the Company”, “we”, “us”, or “our”).
+La presente Politica di Rimborso si applica a tutti i servizi forniti da Craftify Tech, gestita da Craftify Labs Technologies SRL, con sede legale in Șoseaua Mihai Bravu 255, Etaj S, Apartament MOD. S 056, Sector 3, București, Cod 030302, Romania (“l’Azienda”, “noi” o “nostro”).
 
-All refund-related matters are handled in accordance with applicable commercial and consumer protection laws.
+Tutte le questioni relative ai rimborsi sono gestite in conformità con le leggi commerciali e di protezione dei consumatori applicabili.
 
-For any questions, contact us at info@craftify-tech.com.
+Per qualsiasi domanda, contattateci all'indirizzo info@craftify-tech.com.
 
-## General Terms
+## Termini Generali
 
-Craftify Tech provides specialized cybersecurity integration and advisory services. Due to the nature of these services, which involve immediate expert engagement, system evaluation, and customized security configurations, all fees are non-refundable once service delivery has commenced.
+Craftify Tech fornisce servizi specializzati di integrazione e consulenza in materia di cybersicurezza. Data la natura di questi servizi, che implicano l'impegno immediato di esperti, la valutazione del sistema e configurazioni di sicurezza personalizzate, **tutte le tariffe non sono rimborsabili una volta che la fornitura del servizio è iniziata.**
 
-Due to the personalized and labor-intensive nature of our work, all fees are non-refundable once service delivery has commenced.
+A causa della natura personalizzata e ad alta intensità di lavoro del nostro operato, tutte le tariffe non sono rimborsabili una volta che la fornitura del servizio è iniziata.
 
-This includes any research, analysis, planning, documentation, or expert assignment initiated under the client’s request.
+Ciò include qualsiasi ricerca, analisi, pianificazione, documentazione o assegnazione di esperti avviata su richiesta del cliente.
 
-Refunds are available only in exceptional cases as defined below.
+I rimborsi sono disponibili solo in casi eccezionali come definiti di seguito.
 
-### Eligible Refund Cases
+### Casi di Rimborso Ammissibili
 
-Refunds may be issued exclusively in the following situations:
+I rimborsi possono essere emessi esclusivamente nelle seguenti situazioni:
 
-- Technical Error: A verified system malfunction resulted in an incorrect charge or failure to deliver a purchased service.
+- **Errore Tecnico:** Un malfunzionamento del sistema verificato ha comportato un addebito errato o la mancata erogazione di un servizio acquistato.
 
-* Duplicate Payment: The same invoice or service was paid for more than once.
+* **Pagamento Duplicato:** La stessa fattura o servizio è stata pagata più di una volta.
 
-- Overpayment: The amount received exceeded the invoiced total.
+- **Pagamento in Eccesso:** L'importo ricevuto ha superato il totale fatturato.
 
-Refunds cannot be granted in the following cases:
+I rimborsi non possono essere concessi nei seguenti casi:
 
-- Change of mind after service commencement.
+- Cambio di idea dopo l'inizio del servizio.
 
-- Partial completion of services according to agreement terms.
+- Completamento parziale dei servizi in conformità con i termini dell'accordo.
 
-- Delays or issues resulting from incomplete or late client responses.
+- Ritardi o problemi derivanti da risposte incomplete o tardive del cliente.
 
-- Dissatisfaction with results based on subjective interpretation of quality or expectations.
+- Insoddisfazione per i risultati basata sull'interpretazione soggettiva della qualità o delle aspettative.
 
-### 4. Refund Request Procedure
+### 4. Procedura di Richiesta di Rimborso
 
-To submit a refund request, please contact us at [info@craftify-tech.com](mailto:info@craftify-tech.com) and include the following details:
+Per inviare una richiesta di rimborso, vi preghiamo di contattarci all'indirizzo [info@craftify-tech.com](mailto:info@craftify-tech.com) e di includere i seguenti dettagli:
 
-1.  Your full name or company name
+1. Il vostro nome completo o nome dell'azienda
 
-2.  Invoice number and payment date
+2. Numero di fattura e data di pagamento
 
-3.  Payment method used
+3. Metodo di pagamento utilizzato
 
-4.  Detailed explanation of your refund request, including any relevant documentation.
+4. Spiegazione dettagliata della vostra richiesta di rimborso, inclusa l'eventuale documentazione pertinente.
 
-Only fully detailed and verifiable requests will be reviewed.
+Saranno esaminate solo le richieste completamente dettagliate e verificabili.
 
-### Review Process and Timeline
+### Processo di Revisione e Tempistiche
 
-All refund requests undergo internal verification by our Finance and Security Department to ensure compliance with cybersecurity and anti-fraud protocols.
+Tutte le richieste di rimborso sono sottoposte a verifica interna da parte del nostro Dipartimento Finanza e Sicurezza per garantire la conformità con i protocolli di cybersicurezza e anti-frode.
 
-- The review process may take up to 10 business days from the date we receive complete information.
+- Il processo di revisione può richiedere fino a **10 giorni lavorativi** dalla data in cui riceviamo le informazioni complete.
 
-- Once reviewed, the client will receive a written decision by email.
+- Una volta esaminato, il cliente riceverà una decisione scritta via email.
 
-## Refund Method
+## Metodo di Rimborso
 
-Approved refunds will be sent exclusively to the same payment method or account from which the original transaction was made.
+I rimborsi approvati saranno inviati esclusivamente allo stesso metodo di pagamento o conto da cui è stata effettuata la transazione originale.
 
-For financial security and compliance reasons, refunds to alternative accounts or payment methods are not possible.
+Per motivi di sicurezza finanziaria e compliance, i rimborsi su conti o metodi di pagamento alternativi non sono possibili.
 
-All refunds are processed securely using encrypted and verified payment channels.
+Tutti i rimborsi vengono elaborati in modo sicuro utilizzando canali di pagamento crittografati e verificati.
 
-## Contact
+## Contatti
 
-If you believe your case qualifies for a refund, or you wish to verify eligibility before submitting a payment, please contact us at:
+Se ritenete che il vostro caso sia idoneo per un rimborso, o desiderate verificare l'idoneità prima di effettuare un pagamento, vi preghiamo di contattarci all'indirizzo:
 
 <div class="contact-block">
 
@@ -80,7 +80,7 @@ If you believe your case qualifies for a refund, or you wish to verify eligibili
   <path d="M4 7.99989L12 12.9999L20 7.99989L12 2.99989L4 7.99989ZM22 7.99989V17.9999C22 18.5303 21.7893 19.039 21.4142 19.4141C21.0391 19.7892 20.5304 19.9999 20 19.9999H4C3.46957 19.9999 2.96086 19.7892 2.58579 19.4141C2.21071 19.039 2 18.5303 2 17.9999V7.99989C2 7.26989 2.39 6.63989 2.97 6.28989L12 0.639893L21.03 6.28989C21.61 6.63989 22 7.26989 22 7.99989Z" fill="#FF2F66"/>
 </svg>
 <div>
-<b>Email</b>
+<b>E-mail</b>
 <a href="mailto:info@craftify-tech.com">info@craftify-tech.com</a>
 </div>
 </div>
@@ -97,7 +97,7 @@ If you believe your case qualifies for a refund, or you wish to verify eligibili
   </defs>
 </svg>
 <div>
-<b>Website</b>
+<b>Sito web</b>
 <a href="craftify-tech.com">craftify-tech.com</a>
 </div>
 </div>

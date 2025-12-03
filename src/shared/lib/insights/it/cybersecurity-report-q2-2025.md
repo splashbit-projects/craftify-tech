@@ -1,151 +1,151 @@
 ---
-title: "Cybersecurity Report Q2 2025"
-subtitle: "Defending Against Autonomy and Deception"
+title: "Rapporto sulla Cybersecurity Q2 2025"
+subtitle: "Difendere contro l'Autonomia e la Deception"
 image: "/images/insights/article3.webp"
 seo_title: "Cybersecurity Report Q2 2025 | Global Analysis by Craftify Tech"
 seo_description: "Explore Craftify Tech's Cybersecurity Report Q2 2025, revealing how autonomous AI attacks, data extortion, and deepfake deception are reshaping the global threat landscape, and how organizations are defending through innovation."
-excerpt_1: "The second quarter of 2025 marked another acceleration in the evolution of cyber threats. The lines between automated, state-sponsored, and criminal operations have blurred further, as adversaries leverage autonomous <b>AI systems, synthetic content</b>, and <b>supply chain manipulation</b> to breach even the most prepared organizations."
-excerpt_2: "While the global cybersecurity industry continues to mature, new vulnerabilities are emerging faster than traditional defenses can adapt. This report analyzes the main developments from April to June 2025 — highlighting major incidents, threat trends, and how organizations are responding through innovation and collaboration."
+excerpt_1: "Il secondo trimestre del 2025 ha segnato un'ulteriore accelerazione nell'evoluzione delle minacce informatiche. I confini tra operazioni automatizzate, sponsorizzate dallo Stato e criminali sono diventati ancora più sfumati, poiché gli avversari sfruttano <b>sistemi di intelligenza artificiale autonomi, contenuti sintetici</b> e <b>manipolazione della catena di approvvigionamento</b> per violare anche le organizzazioni più preparate."
+excerpt_2: "Mentre il settore della sicurezza informatica globale continua a maturare, nuove vulnerabilità emergono più rapidamente di quanto le difese tradizionali riescano ad adattarsi. Questo rapporto analizza i principali sviluppi da aprile a giugno 2025, evidenziando gli incidenti più rilevanti, le tendenze delle minacce e il modo in cui le organizzazioni stanno rispondendo attraverso l'innovazione e la collaborazione."
 ---
 
-## 1. Global cybersecurity overview
+## 1. Panoramica globale sulla Cybersicurezza
 
-### 1.1 Surge in AI-automated attacks
+### 1.1 Impennata degli attacchi automatizzati dall'IA
 
-Q2 confirmed that cyberattacks powered by self-learning algorithms are becoming the new normal. These systems continuously test, adapt, and evolve based on defensive responses.
+Il Q2 ha confermato che gli attacchi informatici alimentati da algoritmi autoapprendenti stanno diventando la nuova normalità. Questi sistemi testano, si adattano ed evolvono continuamente in base alle risposte difensive.
 
-- Nearly 70% of detected intrusion attempts in Q2 showed signs of automation or generative AI involvement.
+- Quasi il **70%** dei tentativi di intrusione rilevati nel Q2 ha mostrato segni di automazione o coinvolgimento dell'IA generativa.
 
-- Adaptive phishing kits, capable of rewriting emails in real time based on recipients’ behavior, became a leading threat vector.
+- I kit di phishing adattivi, capaci di riscrivere e-mail in tempo reale in base al comportamento dei destinatari, sono diventati un vettore di minaccia principale.
 
-- AI-based vulnerability scanning bots are now scanning public networks 24/7, identifying exploitable systems within minutes of new CVE disclosures.
+- I bot di scansione delle vulnerabilità basati sull'IA stanno ora scansionando le reti pubbliche 24 ore su 24, 7 giorni su 7, identificando i sistemi sfruttabili entro pochi minuti dalle nuove divulgazioni **CVE** (Common Vulnerabilities and Exposures).
 
-### 1.2 Data extortion and ransomware diversification
+### 1.2 Estorsione di dati e diversificazione del ransomware
 
-Ransomware continues to evolve beyond encryption. Attackers increasingly rely on pure data extortion — stealing sensitive files and demanding payment for non-disclosure.
+Il ransomware continua ad evolversi oltre la crittografia. Gli aggressori si affidano sempre più alla pura estorsione di dati — rubando file sensibili e richiedendo un pagamento per la non divulgazione.
 
-- The number of extortion-only attacks grew 38% quarter-over-quarter.
+- Il numero di attacchi basati solo sull'estorsione è cresciuto del **38%** trimestre su trimestre.
 
-- Average ransom demands remained high at around \$1.9 million, while fewer victims chose to pay.
+- Le richieste medie di riscatto sono rimaste elevate, intorno a **1,9 milioni di dollari**, mentre un numero minore di vittime ha scelto di pagare.
 
-- Governments worldwide began drafting coordinated policies to prohibit ransom payments to known criminal groups.
+- I governi di tutto il mondo hanno iniziato a redigere politiche coordinate per vietare i pagamenti di riscatti a noti gruppi criminali.
 
-### 1.3 Cloud and SaaS compromise escalation
+### 1.3 Escalation della compromissione Cloud e SaaS
 
-The majority of breaches in Q2 originated in cloud or SaaS environments. Misconfigured access controls, token reuse, and third-party integrations created cascading vulnerabilities.
+La maggior parte delle violazioni nel Q2 ha avuto origine in ambienti cloud o **SaaS** (Software as a Service). Controlli di accesso configurati in modo errato, riutilizzo di token e integrazioni di terze parti hanno creato vulnerabilità a cascata.
 
-- One in four security incidents involved stolen or leaked API keys.
+- Un incidente di sicurezza su quattro ha coinvolto chiavi API rubate o trapelate.
 
-- The “multi-cloud blind spot” — gaps in monitoring between cloud providers — has become a critical challenge for enterprise security teams.
+- Il "punto cieco multi-cloud" — lacune nel monitoraggio tra i fornitori di cloud — è diventato una sfida critica per i team di sicurezza aziendali.
 
-## 2. Key cyber incidents and lessons learned
+## 2. Incidenti informatici chiave e lezioni apprese
 
-### 2.1 Global logistics provider hit by coordinated ransomware
+### 2.1 Fornitore di logistica globale colpito da ransomware coordinato
 
-In May 2025, a major international logistics company suffered a multi-stage ransomware attack, disrupting operations in over 20 countries. The attackers used compromised IoT scanners as entry points, underscoring the ongoing risk of connected devices in industrial environments.
+Nel maggio 2025, un'importante azienda di logistica internazionale ha subito un attacco ransomware a più fasi, interrompendo le operazioni in oltre 20 paesi. Gli aggressori hanno utilizzato scanner **IoT** (Internet of Things) compromessi come punti di ingresso, sottolineando il rischio persistente dei dispositivi connessi negli ambienti industriali.
 
-| Lesson: Continuous monitoring of operational technology (OT) networks is essential — traditional IT firewalls alone are insufficient. |
-| ------------------------------------------------------------------------------------------------------------------------------------- |
+| Lezione: Il monitoraggio continuo delle reti di **Tecnologia Operativa (OT)** è essenziale — i firewall IT tradizionali da soli non sono sufficienti. |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
-### 2.2 AI deepfake scam targeting multinational CFOs
+### 2.2 Truffa deepfake con IA mirata ai CFO multinazionali
 
-Several corporations across Europe and Asia reported video-call fraud in which attackers used AI deepfakes of senior executives to authorize fund transfers. These incidents highlight the growing threat of synthetic identity attacks and the urgent need for multi-channel verification protocols.
+Diverse società in Europa e Asia hanno segnalato frodi tramite videochiamata in cui gli aggressori hanno utilizzato deepfake con IA di dirigenti senior per autorizzare trasferimenti di fondi. Questi incidenti evidenziano la crescente minaccia di attacchi di identità sintetica e l'urgente necessità di protocolli di verifica multi-canale.
 
-| Lesson: Voice or visual confirmation alone is no longer a reliable form of identity validation. |
-| ----------------------------------------------------------------------------------------------- |
+| Lezione: La sola conferma vocale o visiva non è più una forma affidabile di convalida dell'identità. |
+| ---------------------------------------------------------------------------------------------------- |
 
 
-### 2.3 Supply chain breach in software development
+### 2.3 Violazione della catena di fornitura nello sviluppo software
 
-A compromised update in a widely used open-source package led to data exfiltration in hundreds of corporate environments. The event reignited debates about open-source dependency risk management.
+Un aggiornamento compromesso in un pacchetto open-source ampiamente utilizzato ha portato all'esfiltrazione di dati in centinaia di ambienti aziendali. L'evento ha riacceso i dibattiti sulla gestione del rischio di dipendenza dall'open-source.
 
-| Lesson: Continuous software composition analysis (SCA) and vendor security assessments must become standard practice. |
-| --------------------------------------------------------------------------------------------------------------------- |
+| Lezione: L'analisi continua della composizione del software (**SCA**) e le valutazioni di sicurezza dei fornitori devono diventare una pratica standard. |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
-## 3. Threat landscape analysis
+## 3. Analisi del panorama delle minacce
 
-### 3.1 Sector breakdown
+### 3.1 Ripartizione settoriale
 
-- Finance & Banking: Targeted by 29% of global cyber incidents this quarter. Focus shifted to fraudulent API connections in fintech apps and AI-powered identity spoofing.
+- **Finanza e Banche:** Bersaglio del **29%** degli incidenti informatici globali in questo trimestre. L'attenzione si è spostata sulle connessioni API fraudolente nelle app fintech e sullo spoofing dell'identità potenziato dall'IA.
 
-- Healthcare: Continued to face ransomware pressure, with patient data remaining the most valuable asset. New attacks exploited outdated medical IoT firmware.
+- **Sanità:** Ha continuato a subire la pressione del ransomware, con i dati dei pazienti che rimangono l'asset più prezioso. Nuovi attacchi hanno sfruttato il firmware obsoleto dell'IoT medico.
 
-- Manufacturing & Energy: Increasing attacks on industrial IoT systems caused downtime and safety risks.
+- **Manifatturiero ed Energia:** L'aumento degli attacchi ai sistemi IoT industriali ha causato tempi di inattività e rischi per la sicurezza.
 
-- Retail & E-commerce: Surge in credential-stuffing and card-not-present fraud driven by automated botnets.
+- **Vendita al Dettaglio ed E-commerce:** Aumento del **credential-stuffing** e delle frodi con carta non presente (card-not-present fraud) guidate da botnet automatizzate.
 
-### 3.2 Emerging threat categories
+### 3.2 Categorie di minacce emergenti
 
-- Synthetic insider attacks — criminals impersonating employees through AI-generated profiles to gain access.
+- **Attacchi insider sintetici** — criminali che impersonano i dipendenti tramite profili generati dall'IA per ottenere l'accesso.
 
-- Quantum-resilient encryption testing — early signs that threat actors are experimenting with breaking weaker algorithms in preparation for the post-quantum era.
+- **Test di crittografia resistente al quantum** — primi segnali che gli attori delle minacce stanno sperimentando la rottura di algoritmi più deboli in preparazione all'era post-quantum.
 
-- Cross-cloud lateral movement — attackers leveraging identity federation misconfigurations to pivot between cloud environments.
+- **Movimento laterale cross-cloud** — aggressori che sfruttano le errate configurazioni di federazione delle identità per spostarsi tra gli ambienti cloud.
 
-## 4. The evolving defense response
+## 4. La risposta difensiva in evoluzione
 
-### 4.1 Shift toward autonomous defense
+### 4.1 Passaggio verso la difesa autonoma
 
-To counter automated threats, organizations are investing in autonomous cybersecurity frameworks capable of self-learning and adaptive response.
+Per contrastare le minacce automatizzate, le organizzazioni stanno investendo in framework di cybersicurezza autonomi capaci di autoapprendimento e risposta adattiva.
 
-- AI-driven SOC systems reduced detection times by up to 40%.
+- I sistemi **SOC** (Security Operations Center) basati sull'IA hanno ridotto i tempi di rilevamento fino al **40%**.
 
-- Predictive analytics tools are increasingly used to anticipate likely breach paths before attacks occur.
+- Gli strumenti di analisi predittiva vengono sempre più utilizzati per anticipare probabili percorsi di violazione prima che si verifichino gli attacchi.
 
-### 4.2 Expansion of managed security partnerships
+### 4.2 Espansione delle partnership di sicurezza gestita
 
-The shortage of cybersecurity professionals remains acute. As a result:
+La carenza di professionisti della cybersicurezza rimane acuta. Di conseguenza:
 
-- Global spending on managed detection and response (MDR) services rose 24% year-over-year.
+- La spesa globale per i servizi **Managed Detection and Response (MDR)** è aumentata del **24%** su base annua.
 
-- Co-managed SOC models are emerging — combining internal expertise with external threat intelligence.
+- Stanno emergendo modelli SOC co-gestiti — che combinano l'expertise interna con l'intelligence sulle minacce esterna.
 
-- SMBs are adopting Security-as-a-Service models, benefiting from enterprise-grade protection without capital investment.
+- Le **PMI** (Piccole e Medie Imprese) stanno adottando modelli **Security-as-a-Service**, beneficiando della protezione di livello aziendale senza investimenti in capitale.
 
-### 4.3 Human resilience and awareness
+### 4.3 Resilienza e consapevolezza umana
 
-Despite technological progress, human error still accounts for over 80% of initial breaches.
+Nonostante il progresso tecnologico, l'errore umano è ancora responsabile di oltre l'**80%** delle violazioni iniziali.
 
-Organizations that invest in continuous training, phishing simulations, and incident rehearsal exercises demonstrate 60% fewer successful intrusions.
+Le organizzazioni che investono in formazione continua, simulazioni di phishing ed esercitazioni di prova degli incidenti dimostrano il **60%** in meno di intrusioni riuscite.
 
-## 5. Regulation and policy updates
+## 5. Aggiornamenti normativi e di policy
 
-- The EU’s NIS2 Directive entered its enforcement phase in June 2025, requiring mandatory incident reporting and stricter supplier oversight.
+- La direttiva **NIS2** dell'UE è entrata nella sua fase di applicazione nel giugno 2025, richiedendo la segnalazione obbligatoria degli incidenti e una supervisione più rigorosa dei fornitori.
 
-- The U.S. Federal Cyber Resilience Act, introduced in April, aims to unify reporting standards across critical infrastructure sectors.
+- Il **Federal Cyber Resilience Act** statunitense, introdotto ad aprile, mira a unificare gli standard di segnalazione nei settori delle infrastrutture critiche.
 
-- Asia-Pacific regulators — particularly in Singapore and South Korea — expanded cross-border data security requirements, emphasizing transparency and vendor accountability.
+- Le autorità di regolamentazione dell'Asia-Pacifico — in particolare a Singapore e in Corea del Sud — hanno ampliato i requisiti di sicurezza dei dati transfrontalieri, enfatizzando la trasparenza e la responsabilità dei fornitori.
 
-These regulatory developments signal that cybersecurity compliance is evolving from a “checklist” to a continuous risk management discipline.
+Questi sviluppi normativi segnalano che la compliance in materia di cybersicurezza si sta evolvendo da una "lista di controllo" a una disciplina continua di gestione del rischio.
 
-## 6. Investment and economic outlook
+## 6. Investimenti e prospettive economiche
 
-- Global cybersecurity spending reached an estimated \$223 billion in Q2 2025 — up 15% year-over-year.
+- La spesa globale per la cybersicurezza ha raggiunto una stima di **223 miliardi di dollari** nel Q2 2025 — in crescita del 15% su base annua.
 
-- The strongest investment growth occurred in AI-powered analytics, identity protection, and incident automation.
+- La crescita degli investimenti più forte si è verificata nell'analisi potenziata dall'IA, nella protezione delle identità e nell'automazione degli incidenti.
 
-- Venture capital funding in cybersecurity startups specializing in AI defense, post-quantum encryption, and SaaS security posture management (SSPM) reached its highest point since 2021.
+- I finanziamenti di venture capital nelle startup di cybersicurezza specializzate in difesa basata sull'IA, crittografia post-quantum e **SaaS Security Posture Management (SSPM)** hanno raggiunto il loro punto più alto dal 2021.
 
-This indicates growing recognition that cybersecurity is not merely a cost center but a driver of long-term business resilience and trust.
+Ciò indica un crescente riconoscimento del fatto che la cybersicurezza non è semplicemente un centro di costo, ma un motore della resilienza aziendale a lungo termine e della fiducia.
 
-## 7. Outlook for Q3 2025
+## 7. Prospettive per il Q3 2025
 
-The coming months are expected to bring:
+Si prevede che i prossimi mesi porteranno:
 
-1.  Expansion of AI-driven “persistent threat loops” — automated systems that re-engage after detection.
+1. Espansione dei "cicli di minaccia persistente" guidati dall'IA — sistemi automatizzati che riattaccano dopo il rilevamento.
 
-2.  Wider attacks targeting supply chains in the AI and data analytics sectors.
+2. Attacchi più ampi mirati alle catene di fornitura nei settori dell'IA e dell'analisi dei dati.
 
-3.  Adoption of post-quantum encryption pilots in financial and government institutions.
+3. Adozione di progetti pilota di crittografia post-quantum nelle istituzioni finanziarie e governative.
 
-4.  Increased collaboration between private cybersecurity firms and national CERTs to exchange real-time threat intelligence.
+4. Maggiore collaborazione tra aziende private di cybersicurezza e **CERT** nazionali per lo scambio di informazioni sulle minacce in tempo reale.
 
-Organizations that align prevention, detection, and recovery under unified, data-driven frameworks will be best positioned to mitigate these emerging risks.
+Le organizzazioni che allineano prevenzione, rilevamento e recupero sotto framework unificati e basati sui dati saranno le meglio posizionate per mitigare questi rischi emergenti.
 
-Q2 2025 has demonstrated that cybersecurity has entered a new strategic phase — one where automation, deception, and resilience define both attack and defense.
+Il Q2 2025 ha dimostrato che la cybersicurezza è entrata in una nuova fase strategica — una in cui l'automazione, l'inganno e la resilienza definiscono sia l'attacco che la difesa.
 
-Businesses that combine AI-enabled defense technologies with human expertise, supply chain governance, and regulatory compliance will maintain the agility required to operate securely in an increasingly complex digital environment.
+Le aziende che combinano tecnologie di difesa abilitate all'IA con expertise umana, governance della catena di fornitura e compliance normativa manterranno l'agilità necessaria per operare in sicurezza in un ambiente digitale sempre più complesso.
 
-As the threat landscape becomes more intelligent, the most successful organizations will not only defend against attacks — they will learn, adapt, and strengthen faster than their adversaries.
+Man mano che il panorama delle minacce diventa più intelligente, le organizzazioni di maggior successo non si limiteranno a difendersi dagli attacchi — impareranno, si adatteranno e si rafforzeranno più velocemente dei loro avversari.

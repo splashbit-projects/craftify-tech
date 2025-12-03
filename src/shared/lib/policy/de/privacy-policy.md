@@ -1,103 +1,103 @@
 ---
-title: "Privacy Policy"
+title: "Datenschutzrichtlinie"
 last_update: "Last Updated: 27 June 2025"
 ---
 
-At Craftify Labs Technologies SRL (“Craftify Tech”, “we”, “us”, or “our”), we value your privacy and are committed to handling your personal information responsibly, transparently, and securely. This Privacy Policy explains how we collect, use, store, and protect your personal data when you interact with our website or use our services.
+Bei Craftify Labs Technologies SRL („Craftify Tech“, „wir“ oder „unser“) legen wir Wert auf Ihre Privatsphäre und verpflichten uns, Ihre personenbezogenen Daten verantwortungsvoll, transparent und sicher zu behandeln. Diese Datenschutzerklärung erklärt, wie wir Ihre personenbezogenen Daten erfassen, verwenden, speichern und schützen, wenn Sie mit unserer Website interagieren oder unsere Dienste nutzen.
 
-By using our website or submitting your information through our forms, you acknowledge that you have read and understood this Privacy Policy.
+Durch die Nutzung unserer Website oder die Übermittlung Ihrer Informationen über unsere Formulare bestätigen Sie, dass Sie diese Datenschutzerklärung gelesen und verstanden haben.
 
-Company Details:
+Unternehmensdetails:
 
-Company Name: Craftify Labs Technologies SRL
+Firmenname: Craftify Labs Technologies SRL
 
-Registration Address: Șoseaua Mihai Bravu 255, Etaj S, Apartament MOD. S 056, Sector 3, București, Cod 030302, Romania
+Eingetragene Adresse: Șoseaua Mihai Bravu 255, Etaj S, Apartament MOD. S 056, Sector 3, București, Cod 030302, Rumänien
 
-Registration Number: J2025010962001
+Registrierungsnummer: J2025010962001
 
-Contact Email: info@craftify-tech.com
+Kontakt-E-Mail: info@craftify-tech.com
 
-## Information We Collect
+## Informationen, die wir sammeln
 
-We collect personal data that you voluntarily provide when you communicate with us, submit a form, or request our services. Depending on the interaction, we may collect:
+Wir erfassen personenbezogene Daten, die Sie uns freiwillig zur Verfügung stellen, wenn Sie mit uns kommunizieren, ein Formular absenden oder unsere Dienste anfordern. Abhängig von der Interaktion erfassen wir möglicherweise:
 
-- Full Name – to address and identify you correctly;
+- Vollständiger Name – um Sie korrekt anzusprechen und zu identifizieren;
 
-- Email Address – to respond to inquiries and provide requested information;
+- E-Mail-Adresse – um auf Anfragen zu antworten und angeforderte Informationen bereitzustellen;
 
-- Phone Number – for direct communication related to your request or project;
+- Telefonnummer – für die direkte Kommunikation im Zusammenhang mit Ihrer Anfrage oder Ihrem Projekt;
 
-- Company Name and Website – to understand your business and tailor our solutions accordingly;
+- Firmenname und Website – um Ihr Unternehmen zu verstehen und unsere Lösungen entsprechend anzupassen;
 
-- Description or Message – to process your request in context and provide relevant assistance.
+- Beschreibung oder Nachricht – um Ihre Anfrage im Kontext zu bearbeiten und relevante Unterstützung zu leisten.
 
-We may also collect technical information automatically when you visit our website, including your IP address, browser type, time zone, device information, and referring URLs. This helps us improve performance, security, and usability.
+Wir erfassen möglicherweise auch automatisch technische Informationen, wenn Sie unsere Website besuchen, einschließlich Ihrer IP-Adresse, Ihres Browsertyps, Ihrer Zeitzone, Geräteinformationen und verweisenden URLs. Dies hilft uns, die Leistung, Sicherheit und Benutzerfreundlichkeit zu verbessern.
 
-## How We Use Your Information
+## Wie wir Ihre Informationen verwenden
 
-We process personal data only when necessary for legitimate business purposes, including to:
+Wir verarbeiten personenbezogene Daten nur, wenn dies für legitime Geschäftszwecke erforderlich ist, einschließlich:
 
-- Respond to inquiries and provide requested information or consultations;
+- Zur Beantwortung von Anfragen und Bereitstellung angeforderter Informationen oder Konsultationen;
 
-- Deliver, manage, and improve our services;
+- Zur Bereitstellung, Verwaltung und Verbesserung unserer Dienste;
 
-- Maintain communication regarding ongoing or potential projects;
+- Zur Aufrechterhaltung der Kommunikation bezüglich laufender oder potenzieller Projekte;
 
-- Meet legal, contractual, or regulatory requirements;
+- Zur Erfüllung gesetzlicher, vertraglicher oder regulatorischer Anforderungen;
 
-- Improve the security, usability, and functionality of our website;
+- Zur Verbesserung der Sicherheit, Benutzerfreundlichkeit und Funktionalität unserer Website;
 
-- Comply with applicable data protection, anti-fraud, and compliance obligations.
+- Zur Einhaltung geltender Datenschutz-, Anti-Betrugs- und Compliance-Verpflichtungen.
 
-Your data is not shared, sold, or disclosed to third parties except as required by law or when necessary to deliver our services with trusted partners operating under confidentiality obligations.
+Ihre Daten werden nicht an Dritte weitergegeben, verkauft oder offengelegt, es sei denn, dies ist gesetzlich vorgeschrieben oder zur Erbringung unserer Dienstleistungen mit vertrauenswürdigen Partnern erforderlich, die Vertraulichkeitsverpflichtungen unterliegen.
 
-## Data Retention
+## Datenaufbewahrung
 
-We retain personal data only for as long as necessary to fulfill the purpose for which it was collected, or to comply with legal and regulatory obligations.
+Wir speichern personenbezogene Daten nur so lange, wie es zur Erfüllung des Zwecks, für den sie erhoben wurden, oder zur Einhaltung gesetzlicher und regulatorischer Verpflichtungen erforderlich ist.
 
-When data is no longer required, we securely delete or anonymize it in accordance with industry standards. Data retention periods may vary depending on the nature of the information and the type of service provided.
+Wenn Daten nicht mehr benötigt werden, löschen oder anonymisieren wir sie sicher gemäß den Industriestandards. Die Datenaufbewahrungsfristen können je nach Art der Informationen und der Art des bereitgestellten Dienstes variieren.
 
-## Your Rights
+## Ihre Rechte
 
-You have the right to:
+Sie haben das Recht auf:
 
-- Access – request details about the personal data we hold about you;
+- **Auskunft** – Details zu den personenbezogenen Daten, die wir über Sie speichern, anzufordern;
 
-- Rectify – correct or update inaccurate or incomplete information;
+- **Berichtigung** – ungenaue oder unvollständige Informationen zu korrigieren oder zu aktualisieren;
 
-- Erase – request deletion of your personal data where applicable;
+- **Löschung** – die Löschung Ihrer personenbezogenen Daten zu verlangen, sofern zutreffend;
 
-- Restrict – limit how we process your data under specific conditions;
+- **Einschränkung** – die Verarbeitung Ihrer Daten unter bestimmten Bedingungen einzuschränken;
 
-- Portability – request your data in a structured, commonly used format;
+- **Datenübertragbarkeit** – Ihre Daten in einem strukturierten, gängigen Format anzufordern;
 
-- Object – oppose certain types of processing, including direct communications.
+- **Widerspruch** – bestimmten Arten der Verarbeitung zu widersprechen, einschließlich direkter Kommunikation.
 
-To exercise any of these rights, please contact us at info@craftify-tech.com. We will respond promptly and in line with applicable data protection laws.
+Um eines dieser Rechte auszuüben, kontaktieren Sie uns bitte unter **info@craftify-tech.com**. Wir werden umgehend und in Übereinstimmung mit den geltenden Datenschutzgesetzen antworten.
 
-## Cookies and Tracking Technologies
+## Cookies und Tracking-Technologien
 
-We use cookies and similar technologies to enhance website performance and personalize user experience. Cookies are small text files stored in your browser that help us remember your preferences, analyze site usage, and improve navigation.
+Wir verwenden Cookies und ähnliche Technologien, um die Leistung der Website zu verbessern und das Benutzererlebnis zu personalisieren. Cookies sind kleine Textdateien, die in Ihrem Browser gespeichert werden und uns helfen, uns an Ihre Präferenzen zu erinnern, die Website-Nutzung zu analysieren und die Navigation zu verbessern.
 
-You can manage or disable cookies through your browser settings at any time. For more details, please refer to our Cookie Policy.
+Sie können Cookies jederzeit über Ihre Browsereinstellungen verwalten oder deaktivieren. Weitere Details entnehmen Sie bitte unserer Cookie-Richtlinie.
 
-## Information Security
+## Informationssicherheit
 
-We apply industry-standard technical and organizational measures to protect your data from unauthorized access, loss, misuse, or alteration. These measures include encryption, secure servers, access controls, and regular security audits.
+Wir wenden branchenübliche technische und organisatorische Maßnahmen an, um Ihre Daten vor unbefugtem Zugriff, Verlust, Missbrauch oder Änderung zu schützen. Diese Maßnahmen umfassen Verschlüsselung, sichere Server, Zugriffskontrollen und regelmäßige Sicherheitsaudits.
 
-While we take all reasonable steps to protect your data, no system is entirely secure. By using our website, you acknowledge and accept the inherent risks of online communication.
+Obwohl wir alle angemessenen Schritte unternehmen, um Ihre Daten zu schützen, ist kein System vollständig sicher. Durch die Nutzung unserer Website erkennen Sie die inhärenten Risiken der Online-Kommunikation an und akzeptieren diese.
 
-## Children’s Privacy
+## Datenschutz von Kindern
 
-Our website and services are not directed at individuals under the age of 18. We do not knowingly collect or retain personal information from minors. If we become aware that we have collected such data inadvertently, it will be deleted immediately.
+Unsere Website und Dienste richten sich nicht an Personen unter 18 Jahren. Wir sammeln oder speichern wissentlich keine personenbezogenen Daten von Minderjährigen. Wenn wir feststellen, dass wir solche Daten unbeabsichtigt erfasst haben, werden diese unverzüglich gelöscht.
 
-## Policy Updates
+## Richtlinien-Updates
 
-We may update or amend this Privacy Policy periodically to reflect legal or operational changes. The revised version will be posted on this page with the updated date. Continued use of our website following changes indicates your acceptance of the updated terms.
+Wir können diese Datenschutzerklärung regelmäßig aktualisieren oder ergänzen, um rechtliche oder betriebliche Änderungen widerzuspiegeln. Die überarbeitete Version wird auf dieser Seite mit dem aktualisierten Datum veröffentlicht. Die fortgesetzte Nutzung unserer Website nach Änderungen bedeutet Ihre Zustimmung zu den aktualisierten Bedingungen.
 
-## Contact Us
+## Kontaktieren Sie uns
 
-If you have any questions, requests, or concerns regarding this Privacy Policy or our handling of your personal data, please contact us:
+Wenn Sie Fragen, Anfragen oder Bedenken bezüglich dieser Datenschutzerklärung oder unserer Handhabung Ihrer personenbezogenen Daten haben, kontaktieren Sie uns bitte:
 
 <div class="contact-block">
 
@@ -106,7 +106,7 @@ If you have any questions, requests, or concerns regarding this Privacy Policy o
   <path d="M4 7.99989L12 12.9999L20 7.99989L12 2.99989L4 7.99989ZM22 7.99989V17.9999C22 18.5303 21.7893 19.039 21.4142 19.4141C21.0391 19.7892 20.5304 19.9999 20 19.9999H4C3.46957 19.9999 2.96086 19.7892 2.58579 19.4141C2.21071 19.039 2 18.5303 2 17.9999V7.99989C2 7.26989 2.39 6.63989 2.97 6.28989L12 0.639893L21.03 6.28989C21.61 6.63989 22 7.26989 22 7.99989Z" fill="#FF2F66"/>
 </svg>
 <div>
-<b>Email</b>
+<b>E-Mail</b>
 <a href="mailto:info@craftify-tech.com">info@craftify-tech.com</a>
 </div>
 </div>
@@ -130,4 +130,4 @@ If you have any questions, requests, or concerns regarding this Privacy Policy o
 
 </div>
 
-We will review and respond to all inquiries in accordance with applicable data protection requirements.
+Wir werden alle Anfragen gemäß den geltenden Datenschutzbestimmungen prüfen und beantworten.

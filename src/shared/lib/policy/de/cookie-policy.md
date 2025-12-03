@@ -1,103 +1,103 @@
 ---
-title: "Cookie Policy"
+title: "Cookie-Richtlinie"
 last_update: "Last Updated: 27 June 2025"
 ---
 
-This Cookie Policy explains how Craftify Labs Technologies SRL (“Craftify Tech”, “we”, “us”, or “our”) uses cookies and similar technologies on our website to ensure functionality, enhance performance, and protect your browsing experience.
+Diese Cookie-Richtlinie erklärt, wie Craftify Labs Technologies SRL („Craftify Tech“, „wir“ oder „unser“) Cookies und ähnliche Technologien auf unserer Website verwendet, um die Funktionalität zu gewährleisten, die Leistung zu verbessern und Ihr Surferlebnis zu schützen.
 
-By continuing to browse or use our website, you consent to the use of cookies as described in this policy. You may withdraw or adjust your consent at any time by managing your cookie preferences in your browser settings.
+Indem Sie weiterhin auf unserer Website surfen oder diese nutzen, stimmen Sie der Verwendung von Cookies zu, wie in dieser Richtlinie beschrieben. Sie können Ihre Zustimmung jederzeit widerrufen oder anpassen, indem Sie Ihre Cookie-Präferenzen in Ihren Browsereinstellungen verwalten.
 
-At Craftify Tech, cybersecurity and privacy are integral to everything we do. Our use of cookies is designed not only to improve user experience but also to maintain the integrity, confidentiality, and safety of all online interactions with our systems.
+Bei Craftify Tech sind Cybersicherheit und Datenschutz integraler Bestandteil all unserer Tätigkeiten. Unsere Verwendung von Cookies dient nicht nur der Verbesserung des Nutzererlebnisses, sondern auch der Aufrechterhaltung der Integrität, Vertraulichkeit und Sicherheit aller Online-Interaktionen mit unseren Systemen.
 
-## What Are Cookies?
+## Was sind Cookies?
 
-Cookies are small text files stored on your device when you visit a website. They allow websites to recognize your browser, remember preferences, and analyze how visitors interact with content.
+Cookies sind kleine Textdateien, die auf Ihrem Gerät gespeichert werden, wenn Sie eine Website besuchen. Sie ermöglichen es Websites, Ihren Browser zu erkennen, Präferenzen zu speichern und zu analysieren, wie Besucher mit Inhalten interagieren.
 
-Cookies are not harmful software — they are widely used for legitimate technical and analytical purposes. However, because they may collect limited personal data, we treat them with the same security and privacy standards as all other forms of information.
+Cookies sind keine schädliche Software – sie werden weithin für legitime technische und analytische Zwecke verwendet. Da sie jedoch begrenzte personenbezogene Daten sammeln können, behandeln wir sie mit den gleichen Sicherheits- und Datenschutzstandards wie alle anderen Formen von Informationen.
 
-## Types of Cookies We Use
+## Arten von Cookies, die wir verwenden
 
-We use several categories of cookies to operate our website securely and efficiently:
+Wir verwenden verschiedene Kategorien von Cookies, um unsere Website sicher und effizient zu betreiben:
 
-### A. Essential (Security & Functionality) Cookies
+### A. Essenzielle (Sicherheit & Funktionalität) Cookies
 
-These cookies are necessary for the core operation and security of our website. They:
+Diese Cookies sind für den Kernbetrieb und die Sicherheit unserer Website notwendig. Sie:
 
-- Enable access to secure areas and system features;
+- Ermöglichen den Zugriff auf gesicherte Bereiche und Systemfunktionen;
 
-- Protect against unauthorized access and malicious activities;
+- Schützen vor unbefugtem Zugriff und bösartigen Aktivitäten;
 
-- Support safe data transmission between your browser and our servers.
+- Unterstützen die sichere Datenübertragung zwischen Ihrem Browser und unseren Servern.
 
-Without these cookies, the website may not function properly.
+Ohne diese Cookies funktioniert die Website möglicherweise nicht richtig.
 
-### B. Performance & Analytics Cookies
+### B. Performance- & Analyse-Cookies
 
-These cookies help us understand how visitors interact with our website. They collect anonymized or aggregated data such as:
+Diese Cookies helfen uns zu verstehen, wie Besucher mit unserer Website interagieren. Sie sammeln anonymisierte oder aggregierte Daten wie:
 
-- Pages visited,
+- Besuchte Seiten,
 
-- Time spent on site,
+- Verweildauer auf der Website,
 
-- Navigation paths,
+- Navigationspfade,
 
-- Browser and device types.
+- Browser- und Gerätetypen.
 
-This allows us to detect unusual traffic patterns, enhance cybersecurity monitoring, and optimize usability without compromising privacy.
+Dies ermöglicht es uns, ungewöhnliche Verkehrsmuster zu erkennen, die Cybersicherheitsüberwachung zu verbessern und die Benutzerfreundlichkeit zu optimieren, ohne die Privatsphäre zu gefährden.
 
-### C. Preference Cookies
+### C. Präferenz-Cookies
 
-These cookies remember your choices—such as preferred language, region, or cookie settings—to create a smoother and more personalized browsing experience.
+Diese Cookies speichern Ihre Entscheidungen – wie bevorzugte Sprache, Region oder Cookie-Einstellungen – um ein reibungsloseres und persönlicheres Surferlebnis zu schaffen.
 
-### D. Third-Party & Integration Cookies
+### D. Drittanbieter- & Integrations-Cookies
 
-Certain pages may include embedded tools or links from trusted partners or third-party platforms (e.g., analytics or communication tools). These third parties may set their own cookies according to their policies.
+Bestimmte Seiten können eingebettete Tools oder Links von vertrauenswürdigen Partnern oder Drittanbieterplattformen (z. B. Analyse- oder Kommunikationstools) enthalten. Diese Dritten können ihre eigenen Cookies gemäß ihren Richtlinien setzen.
 
-We only collaborate with providers that maintain strong data protection and cybersecurity standards.
+Wir arbeiten nur mit Anbietern zusammen, die strenge Standards für Datenschutz und Cybersicherheit einhalten.
 
-## Cybersecurity and Data Protection
+## Cybersicherheit und Datenschutz
 
-Cookies are handled in accordance with our strict internal information security protocols.
+Cookies werden in Übereinstimmung mit unseren strengen internen Protokollen zur Informationssicherheit behandelt.
 
-We use encryption, controlled access, and anonymization techniques to prevent unauthorized tracking, profiling, or data breaches.
+Wir verwenden Verschlüsselung, kontrollierten Zugriff und Anonymisierungstechniken, um unbefugtes Tracking, Profiling oder Datenschutzverletzungen zu verhindern.
 
-We regularly audit cookie-related scripts and remove any components that could introduce vulnerabilities or pose a privacy risk.
+Wir überprüfen regelmäßig Cookie-bezogene Skripte und entfernen alle Komponenten, die Schwachstellen einführen oder ein Datenschutzrisiko darstellen könnten.
 
-In short, our cookies are not just functional — they’re part of our cybersecurity layer that keeps your browsing experience safe.
+Kurz gesagt, unsere Cookies sind nicht nur funktional – sie sind Teil unserer Cybersicherheitsebene, die Ihr Surferlebnis schützt.
 
-## Managing and Disabling Cookies
+## Verwaltung und Deaktivierung von Cookies
 
-You have full control over your cookie preferences. Most web browsers allow you to:
+Sie haben die volle Kontrolle über Ihre Cookie-Präferenzen. Die meisten Webbrowser ermöglichen es Ihnen:
 
-- View which cookies are stored;
+- Anzuzeigen, welche Cookies gespeichert sind;
 
-- Delete existing cookies;
+- Bestehende Cookies zu löschen;
 
-- Block all or specific cookies;
+- Alle oder bestimmte Cookies zu blockieren;
 
-- Receive notifications before a cookie is stored.
+- Benachrichtigungen zu erhalten, bevor ein Cookie gespeichert wird.
 
-Please note that disabling essential cookies may affect website functionality or limit access to certain secure sections.
+Bitte beachten Sie, dass das Deaktivieren essenzieller Cookies die Funktionalität der Website beeinträchtigen oder den Zugriff auf bestimmte gesicherte Bereiche einschränken kann.
 
-You can manage your settings in your browser’s “Privacy” or “Security” section. For more information, visit:
+Sie können Ihre Einstellungen im Abschnitt „Datenschutz“ oder „Sicherheit“ Ihres Browsers verwalten. Für weitere Informationen besuchen Sie:
 
-- Google Chrome Settings
+- Google Chrome Einstellungen
 
-- [Mozilla Firefox Settings](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop)
+- Mozilla Firefox Einstellungen
 
-- [Microsoft Edge Settings](https://support.microsoft.com/en-us/microsoft-edge/view-cookies-in-microsoft-edge-a7d95376-f2cd-8e4a-25dc-1de753474879)
+- Microsoft Edge Einstellungen
 
-- [Apple Safari Settings](https://support.apple.com/en-gb/guide/safari/sfri11471/mac)
+- Apple Safari Einstellungen
 
-## Updates to This Policy
+## Aktualisierungen dieser Richtlinie
 
-We may update this Cookie Policy to reflect technical, legal, or operational changes. The revised version will be published on this page with an updated date.
+Wir können diese Cookie-Richtlinie aktualisieren, um technische, rechtliche oder betriebliche Änderungen widerzuspiegeln. Die überarbeitete Version wird auf dieser Seite mit einem aktualisierten Datum veröffentlicht.
 
-We encourage you to review this policy periodically to stay informed about how we use cookies and maintain your online security.
+Wir empfehlen Ihnen, diese Richtlinie regelmäßig zu überprüfen, um darüber informiert zu bleiben, wie wir Cookies verwenden und Ihre Online-Sicherheit aufrechterhalten.
 
-## Contact Us
+## Kontaktieren Sie uns
 
-If you have any questions, concerns, or requests related to our Cookie Policy, please contact us at:
+Wenn Sie Fragen, Bedenken oder Anfragen bezüglich unserer Cookie-Richtlinie haben, kontaktieren Sie uns bitte unter:
 
 <div class="contact-block">
 
@@ -106,7 +106,7 @@ If you have any questions, concerns, or requests related to our Cookie Policy, p
   <path d="M4 7.99989L12 12.9999L20 7.99989L12 2.99989L4 7.99989ZM22 7.99989V17.9999C22 18.5303 21.7893 19.039 21.4142 19.4141C21.0391 19.7892 20.5304 19.9999 20 19.9999H4C3.46957 19.9999 2.96086 19.7892 2.58579 19.4141C2.21071 19.039 2 18.5303 2 17.9999V7.99989C2 7.26989 2.39 6.63989 2.97 6.28989L12 0.639893L21.03 6.28989C21.61 6.63989 22 7.26989 22 7.99989Z" fill="#FF2F66"/>
 </svg>
 <div>
-<b>Email</b>
+<b>E-Mail</b>
 <a href="mailto:info@craftify-tech.com">info@craftify-tech.com</a>
 </div>
 </div>

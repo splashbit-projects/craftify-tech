@@ -1,77 +1,77 @@
 ---
-title: "Refund Policy"
+title: "Rückerstattungsrichtlinie"
 last_update: "Last Updated: 27 June 2025"
 ---
 
-This Refund Policy applies to all services provided by Craftify Tech, operated by Craftify Labs Technologies SRL, with its registered address at Șoseaua Mihai Bravu 255, Etaj S, Apartament MOD. S 056, Sector 3, București, Cod 030302, Romania (“the Company”, “we”, “us”, or “our”).
+Diese Rückerstattungsrichtlinie gilt für alle Dienstleistungen, die von Craftify Tech, betrieben von Craftify Labs Technologies SRL, mit der eingetragenen Adresse Șoseaua Mihai Bravu 255, Etaj S, Apartament MOD. S 056, Sector 3, București, Cod 030302, Rumänien („das Unternehmen“, „wir“ oder „unser“), erbracht werden.
 
-All refund-related matters are handled in accordance with applicable commercial and consumer protection laws.
+Alle Angelegenheiten im Zusammenhang mit Rückerstattungen werden in Übereinstimmung mit den geltenden Handels- und Verbraucherschutzgesetzen behandelt.
 
-For any questions, contact us at info@craftify-tech.com.
+Bei Fragen kontaktieren Sie uns bitte unter info@craftify-tech.com.
 
-## General Terms
+## Allgemeine Bedingungen
 
-Craftify Tech provides specialized cybersecurity integration and advisory services. Due to the nature of these services, which involve immediate expert engagement, system evaluation, and customized security configurations, all fees are non-refundable once service delivery has commenced.
+Craftify Tech bietet spezialisierte Dienstleistungen in den Bereichen Cybersicherheitsintegration und Beratung an. Aufgrund der Natur dieser Dienstleistungen, die eine sofortige Einbindung von Experten, Systembewertung und kundenspezifische Sicherheitskonfigurationen beinhalten, sind **alle Gebühren nicht erstattungsfähig, sobald die Dienstleistungserbringung begonnen hat.**
 
-Due to the personalized and labor-intensive nature of our work, all fees are non-refundable once service delivery has commenced.
+Aufgrund des personalisierten und arbeitsintensiven Charakters unserer Arbeit sind alle Gebühren nicht erstattungsfähig, sobald die Dienstleistungserbringung begonnen hat.
 
-This includes any research, analysis, planning, documentation, or expert assignment initiated under the client’s request.
+Dies umfasst jegliche Recherche, Analyse, Planung, Dokumentation oder Expertenzuweisung, die auf Wunsch des Kunden initiiert wurde.
 
-Refunds are available only in exceptional cases as defined below.
+Rückerstattungen sind nur in den unten definierten Ausnahmefällen möglich.
 
-### Eligible Refund Cases
+### Anspruchsberechtigte Rückerstattungsfälle
 
-Refunds may be issued exclusively in the following situations:
+Rückerstattungen können ausschließlich in folgenden Situationen gewährt werden:
 
-- Technical Error: A verified system malfunction resulted in an incorrect charge or failure to deliver a purchased service.
+- **Technischer Fehler:** Eine verifizierte Systemfehlfunktion führte zu einer fehlerhaften Abbuchung oder zur Nichterbringung einer gekauften Dienstleistung.
 
-* Duplicate Payment: The same invoice or service was paid for more than once.
+* **Doppelzahlung:** Dieselbe Rechnung oder Dienstleistung wurde mehr als einmal bezahlt.
 
-- Overpayment: The amount received exceeded the invoiced total.
+- **Überzahlung:** Der erhaltene Betrag überstieg den in Rechnung gestellten Gesamtbetrag.
 
-Refunds cannot be granted in the following cases:
+Rückerstattungen können in folgenden Fällen nicht gewährt werden:
 
-- Change of mind after service commencement.
+- Meinungsänderung nach Beginn der Dienstleistung.
 
-- Partial completion of services according to agreement terms.
+- Teilweise Erfüllung von Dienstleistungen gemäß den Vertragsbedingungen.
 
-- Delays or issues resulting from incomplete or late client responses.
+- Verzögerungen oder Probleme, die auf unvollständige oder verspätete Antworten des Kunden zurückzuführen sind.
 
-- Dissatisfaction with results based on subjective interpretation of quality or expectations.
+- Unzufriedenheit mit den Ergebnissen aufgrund subjektiver Interpretation der Qualität oder Erwartungen.
 
-### 4. Refund Request Procedure
+### 4. Verfahren zur Beantragung einer Rückerstattung
 
-To submit a refund request, please contact us at [info@craftify-tech.com](mailto:info@craftify-tech.com) and include the following details:
+Um einen Rückerstattungsantrag einzureichen, kontaktieren Sie uns bitte unter [info@craftify-tech.com](mailto:info@craftify-tech.com) und geben Sie folgende Details an:
 
-1.  Your full name or company name
+1. Ihren vollständigen Namen oder Firmennamen
 
-2.  Invoice number and payment date
+2. Rechnungsnummer und Zahlungsdatum
 
-3.  Payment method used
+3. Verwendete Zahlungsmethode
 
-4.  Detailed explanation of your refund request, including any relevant documentation.
+4. Detaillierte Begründung Ihres Rückerstattungsantrags, einschließlich relevanter Dokumentation.
 
-Only fully detailed and verifiable requests will be reviewed.
+Es werden nur vollständig detaillierte und überprüfbare Anträge geprüft.
 
-### Review Process and Timeline
+### Prüfprozess und Zeitrahmen
 
-All refund requests undergo internal verification by our Finance and Security Department to ensure compliance with cybersecurity and anti-fraud protocols.
+Alle Rückerstattungsanträge werden intern von unserer Finanz- und Sicherheitsabteilung geprüft, um die Einhaltung der Cybersicherheits- und Anti-Betrugsprotokolle sicherzustellen.
 
-- The review process may take up to 10 business days from the date we receive complete information.
+- Der Prüfprozess kann bis zu **10 Geschäftstage** ab dem Datum des Erhalts der vollständigen Informationen dauern.
 
-- Once reviewed, the client will receive a written decision by email.
+- Nach der Prüfung erhält der Kunde eine schriftliche Entscheidung per E-Mail.
 
-## Refund Method
+## Rückerstattungsmethode
 
-Approved refunds will be sent exclusively to the same payment method or account from which the original transaction was made.
+Genehmigte Rückerstattungen werden ausschließlich an dieselbe Zahlungsmethode oder dasselbe Konto gesendet, von dem die ursprüngliche Transaktion stammte.
 
-For financial security and compliance reasons, refunds to alternative accounts or payment methods are not possible.
+Aus Gründen der finanziellen Sicherheit und Compliance sind Rückerstattungen auf alternative Konten oder Zahlungsmethoden nicht möglich.
 
-All refunds are processed securely using encrypted and verified payment channels.
+Alle Rückerstattungen werden sicher über verschlüsselte und verifizierte Zahlungskanäle verarbeitet.
 
-## Contact
+## Kontakt
 
-If you believe your case qualifies for a refund, or you wish to verify eligibility before submitting a payment, please contact us at:
+Wenn Sie glauben, dass Ihr Fall für eine Rückerstattung in Frage kommt, oder Sie die Berechtigung vor der Zahlung überprüfen möchten, kontaktieren Sie uns bitte unter:
 
 <div class="contact-block">
 
@@ -80,7 +80,7 @@ If you believe your case qualifies for a refund, or you wish to verify eligibili
   <path d="M4 7.99989L12 12.9999L20 7.99989L12 2.99989L4 7.99989ZM22 7.99989V17.9999C22 18.5303 21.7893 19.039 21.4142 19.4141C21.0391 19.7892 20.5304 19.9999 20 19.9999H4C3.46957 19.9999 2.96086 19.7892 2.58579 19.4141C2.21071 19.039 2 18.5303 2 17.9999V7.99989C2 7.26989 2.39 6.63989 2.97 6.28989L12 0.639893L21.03 6.28989C21.61 6.63989 22 7.26989 22 7.99989Z" fill="#FF2F66"/>
 </svg>
 <div>
-<b>Email</b>
+<b>E-Mail</b>
 <a href="mailto:info@craftify-tech.com">info@craftify-tech.com</a>
 </div>
 </div>
