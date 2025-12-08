@@ -47,10 +47,12 @@ export const ContactBlock = () => {
                   <p>{WEBSITE_REGISTERED_ADDRESS}</p>
                   <div dangerouslySetInnerHTML={{ __html: WEBSITE_REGISTERED_ADDRESS_MAP }} />
                 </div>
-                <div>
-                  <b>{t('subtitle3', { fallback: 'Phone' })}</b>
-                  <Link href={`tel:${WEBSITE_PHONE}`}>{WEBSITE_PHONE}</Link>
-                </div>
+                {WEBSITE_PHONE && (
+                  <div>
+                    <b>{t('subtitle3', { fallback: 'Phone' })}</b>
+                    <Link href={`tel:${WEBSITE_PHONE}`}>{WEBSITE_PHONE}</Link>
+                  </div>
+                )}
                 <div>
                   <b>{t('subtitle4', { fallback: 'Email:' })}</b>
                   <Link href={`mailto:${WEBSITE_EMAIL}`}>{WEBSITE_EMAIL}</Link>
