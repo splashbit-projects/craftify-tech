@@ -4,7 +4,11 @@ import Image from 'next/image';
 
 import { useTranslations } from 'next-intl';
 
-import { WEBSITE_EMAIL, WEBSITE_REGISTERED_ADDRESS } from '@/shared/lib/constants/constants';
+import {
+  LINKEDIN_URL,
+  WEBSITE_EMAIL,
+  WEBSITE_REGISTERED_ADDRESS,
+} from '@/shared/lib/constants/constants';
 
 import styles from './Footer.module.scss';
 
@@ -38,7 +42,7 @@ export const Footer = () => {
               <Link href={`mailto:${WEBSITE_EMAIL}`}>{WEBSITE_EMAIL}</Link>
             </div>
             <div className={styles.social}>
-              <Link href="#">
+              <Link href={LINKEDIN_URL} target="_blank">
                 <Image src="/images/icons/linkedin.svg" alt="Linkedin" width={24} height={24} />
               </Link>
             </div>
@@ -72,7 +76,9 @@ export const Footer = () => {
                   <Link href="/about-us">{t('about-us', { fallback: 'About Us' })}</Link>
                 </li>
                 <li>
-                  <Link href="/insights">{t('insights-and-news', { fallback: 'Insights & News' })}</Link>
+                  <Link href="/insights">
+                    {t('insights-and-news', { fallback: 'Insights & News' })}
+                  </Link>
                 </li>
                 <li>
                   <Link href="/contact">{t('contact', { fallback: 'Contact' })}</Link>
@@ -88,13 +94,19 @@ export const Footer = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link href="/legal/privacy-policy">{t('privacy-policy', { fallback: 'Privacy Policy' })}</Link>
+                  <Link href="/legal/privacy-policy">
+                    {t('privacy-policy', { fallback: 'Privacy Policy' })}
+                  </Link>
                 </li>
                 <li>
-                  <Link href="/legal/cookie-policy">{t('cookie-policy', { fallback: 'Cookie Policy' })}</Link>
+                  <Link href="/legal/cookie-policy">
+                    {t('cookie-policy', { fallback: 'Cookie Policy' })}
+                  </Link>
                 </li>
                 <li>
-                  <Link href="/legal/refund-policy">{t('refund-policy', { fallback: 'Refund Policy' })}</Link>
+                  <Link href="/legal/refund-policy">
+                    {t('refund-policy', { fallback: 'Refund Policy' })}
+                  </Link>
                 </li>
               </ul>
             </div>

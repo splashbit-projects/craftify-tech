@@ -6,6 +6,7 @@ import { usePathname } from 'next/navigation';
 
 import { useTranslations } from 'next-intl';
 
+import { LINKEDIN_URL } from '@/shared/lib/constants/constants';
 import { LangSelector } from '@/shared/ui/components';
 import { Button } from '@/shared/ui/kit/button/Button';
 
@@ -69,6 +70,9 @@ export const Header = () => {
             </Link>
           </nav>
           <div className={styles.header__contact}>
+            <Link href={LINKEDIN_URL} target="_blank">
+              <Image src="/images/icons/linkedin-small.svg" alt="Linkedin" width={16} height={16} />
+            </Link>
             <LangSelector />
             <Button variant="secondary" url="/consultation-request-form" type="link">
               {t('request-consultation', { fallback: 'Request Consultation' })}
